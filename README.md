@@ -1,4 +1,4 @@
-# Insight.ai — Agentic AI for Exploratory Data Analysis
+# Insight.ai — Agentic AI System for Automated Exploratory Data Analysis using Natural Language.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white" />
@@ -16,7 +16,7 @@
 ---
 
 
-![InsightIQ Dashboard](docs/images/dashboard.png)
+![Insight.ai Dashboard](docs/images/dashboard.png)
 
 ---
 
@@ -43,7 +43,7 @@
 
 ## Overview
 
-**InsightIQ** is a full-stack web platform that lets non-technical users run a complete Exploratory Data Analysis (EDA) pipeline on any CSV dataset — no Python, no SQL, no statistics background required.
+**Insight.ai** is a full-stack web platform that lets non-technical users run a complete Exploratory Data Analysis (EDA) pipeline on any CSV dataset — no Python, no SQL, no statistics background required.
 
 Upload a file and the system autonomously:
 1. Profiles every column — types, nulls, cardinality, outliers
@@ -68,7 +68,7 @@ The core design principle is a **hybrid agentic architecture**: deterministic st
 | LLM-only analytics tools hallucinate results | Undermines trust and academic validity |
 | No transparent step-by-step reasoning | Users cannot learn from or audit the process |
 
-InsightIQ addresses all four through a structured, explainable, agentic pipeline.
+Insight.ai addresses all four through a structured, explainable, agentic pipeline.
 
 ---
 
