@@ -1,4 +1,4 @@
-# InsightIQ — Agentic AI for Exploratory Data Analysis
+# Insight.ai — Agentic AI for Exploratory Data Analysis
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white" />
@@ -16,7 +16,7 @@
 ---
 
 
-![InsightIQ Dashboard](docs/images/banner.png)
+![InsightIQ Dashboard](docs/images/dashboard.png)
 
 ---
 
