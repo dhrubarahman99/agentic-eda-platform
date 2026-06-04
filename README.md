@@ -103,39 +103,7 @@ Insight.ai addresses all four through a structured, explainable, agentic pipelin
 
 ## System Architecture
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  PRESENTATION LAYER  (React 19 + TypeScript + TailwindCSS)  │
-│  Landing · Login · Dashboard · Chat · Preview · Columns     │
-└───────────────────────┬─────────────────────────────────────┘
-                        │  REST API  (Axios + React Query)
-┌───────────────────────▼─────────────────────────────────────┐
-│  API GATEWAY  (FastAPI + Uvicorn)                            │
-│  /upload · /analysis · /query · /export · /admin · /auth    │
-└───────────────────────┬─────────────────────────────────────┘
-                        │
-┌───────────────────────▼─────────────────────────────────────┐
-│  CORE PROCESSING LAYER                                       │
-│  Orchestrator → Profiler → Preprocessor → StatAnalyzer      │
-│              → MLModule  → InsightRanker → LLMEnhancer       │
-│                                                              │
-│  Query Pipeline:                                             │
-│  Tier 1 — rule-based intent + rapidfuzz fuzzy matching       │
-│  Tier 2 — GPT-4o-mini (complex / ambiguous queries only)     │
-└───────────────────────┬─────────────────────────────────────┘
-                        │
-┌───────────────────────▼─────────────────────────────────────┐
-│  PERSISTENCE LAYER                                           │
-│  SQLite (WAL mode)  — users · auth_tokens · sessions         │
-│                        feedback · query_history              │
-│  In-Memory Store    — Raw / Clean DataFrames (session-scoped)│
-└─────────────────────────────────────────────────────────────┘
-```
-
-<!-- 💡 SCREENSHOT INSTRUCTIONS
-     Export your architecture diagram (Figure 4.1 from the report) as a PNG.
-     Save it to docs/images/architecture.png, then uncomment the line below. -->
-<!-- ![Architecture Diagram](docs/images/architecture.png) -->
+![Architecture Diagram](docs/images/architecture.png) -->
 
 **Key design decisions:**
 
