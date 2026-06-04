@@ -103,7 +103,8 @@ Insight.ai addresses all four through a structured, explainable, agentic pipelin
 
 ## System Architecture
 
-![Architecture Diagram](docs/images/architecture.png) -->
+![Architecture Diagram](docs/images/architecture.png)
+![Architecture Diagram2](docs/images/architecture2.png)
 
 **Key design decisions:**
 
