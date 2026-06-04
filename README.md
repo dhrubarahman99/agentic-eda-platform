@@ -15,10 +15,8 @@
 
 ---
 
-<!-- 💡 SCREENSHOT INSTRUCTIONS
-     Take a wide screenshot of the dashboard showing insight cards + charts.
-     Save it to docs/images/banner.png, then delete this comment block and uncomment the line below. -->
-<!-- ![InsightIQ Dashboard](docs/images/banner.png) -->
+
+![InsightIQ Dashboard](docs/images/banner.png)
 
 ---
 
