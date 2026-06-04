@@ -1,0 +1,21 @@
+customer_id,name,age,email,region,purchase_amount,product_category,signup_date,loyalty_score
+C001,Alice Johnson,34,alice@email.com,North,250.00,Electronics,2023-01-15,8
+C002,Bob Smith,,bob@email.com,South,180.50,Clothing,,6
+C003,Carol White,28,,East,320.75,Electronics,2023-03-10,9
+C004,David Brown,45,david@email.com,West,,Home,2023-04-22,7
+C005,Eve Davis,,eve@email.com,North,410.00,Electronics,2023-05-01,
+C006,Frank Miller,52,frank@email.com,South,95.25,Clothing,2023-05-18,5
+C007,,39,,East,275.00,Home,,7
+C008,Helen Wilson,31,helen@email.com,West,188.00,Electronics,2023-07-09,8
+C009,Ivan Moore,,ivan@email.com,North,,Clothing,2023-08-14,4
+C010,Jane Taylor,27,jane@email.com,South,350.50,Electronics,2023-09-01,9
+C011,Karl Anderson,,,West,220.00,Home,2023-09-15,
+C012,Laura Thomas,44,laura@email.com,North,480.00,Electronics,,8
+C013,Mike Jackson,36,mike@email.com,East,,Clothing,2023-11-02,6
+C014,Nancy Harris,,nancy@email.com,South,165.75,Home,2023-11-20,5
+C015,Oscar Martin,29,oscar@email.com,West,295.00,Electronics,2023-12-05,7
+C016,Paula Garcia,,,North,375.25,Clothing,,9
+C017,Quinn Lee,41,quinn@email.com,East,130.00,,2024-01-10,6
+C018,Rachel Clark,33,rachel@email.com,South,440.00,Electronics,2024-01-28,
+C019,Sam Lewis,,sam@email.com,West,,Home,2024-02-14,7
+C020,Tina Walker,38,tina@email.com,North,280.50,Clothing,2024-03-01,8

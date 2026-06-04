@@ -1,0 +1,1016 @@
+order_id,order_date,region,store_id,salesperson_id,product_category,product_name,sales_channel,customer_segment,customer_age,units_sold,unit_price,discount_pct,revenue,cost,profit,profit_margin_pct,marketing_spend,satisfaction_score,payment_method
+ORD-2023-00001,2023-06-23,West,ST-22,SP-38,Clothing,Running Shoes,Partner,Enterprise,53,13,83.82,16.7,746.15,299.5,446.65,59.86,59.39,7.2,Credit Card
+ORD-2024-00002,2024-02-28,South,ST-10,SP-34,Clothing,Sports Hoodie,Partner,Enterprise,68,44,111.33,13.8,3472.22,1693.07,1779.15,51.24,313.93,6.3,Credit Card
+ORD-2023-00003,2023-08-25,South,ST-10,SP-01,Sports & Outdoors,Foam Roller,Online,Consumer,,2,149.11,17.0,259.13,111.62,147.51,56.93,22.46,7.3,Debit Card
+ORD-2022-00004,2022-11-27,East,ST-17,SP-01,Food & Beverage,Energy Drink Case,Online,Consumer,41,4,13.54,17.2,54.4,24.05,30.35,55.79,3.27,7.5,Credit Card
+ORD-2024-00005,2024-09-22,West,ST-25,SP-35,Home & Garden,Air Purifier,In-Store,Consumer,32,7,97.51,20.8,580.24,329.11,251.13,43.28,26.76,7.3,Credit Card
+ORD-2024-00006,2024-03-28,West,ST-24,SP-24,Food & Beverage,Gourmet Nuts Bundle,In-Store,SMB,26,20,27.14,5.4,619.61,206.35,413.26,66.7,18.4,5.7,Credit Card
+ORD-2022-00007,2022-05-01,South,ST-07,SP-22,Electronics,Tablet HD,ONLINE,Consumer,56,8,758.83,5.5,3935.75,2481.12,1454.63,36.96,297.3,8.9,Credit Card
+ORD-2023-00008,2023-12-27,South,ST-10,SP-47,Electronics,Wireless Headphones,Online,Consumer,28,4,286.18,9.8,1373.24,788.01,585.23,42.62,89.0,8.6,Credit Card
+ORD-2024-00009,2024-08-05,South,ST-07,SP-29,Home & Garden,Throw Pillow Set,Online,Consumer,56,2,130.7,18.9,283.56,156.74,126.82,44.72,18.14,7.1,Cash
+ORD-2024-00010,2024-04-01,West,ST-20,SP-25,Electronics,Gaming Mouse,Online,Consumer,51,8,261.24,4.4,2910.58,1747.63,1162.95,39.96,298.33,7.5,Credit Card
+ORD-2022-00011,2022-05-05,West,ST-19,SP-04,Food & Beverage,Gourmet Nuts Bundle,Partner,Consumer,25,2,27.14,16.4,48.93,15.18,33.75,68.98,3.62,8.6,Bank Transfer
+ORD-2023-00012,2023-05-20,East,ST-13,SP-40,Electronics,Bluetooth Speaker,Partner,SMB,67,11,545.94,7.6,4880.78,3241.75,1639.03,33.58,429.51,6.6,Credit Card
+ORD-2023-00013,2023-10-10,West,ST-19,SP-01,Food & Beverage,Gourmet Nuts Bundle,Partner,Enterprise,35,18,27.14,19.2,471.7,203.84,267.86,56.79,57.9,7.5,Debit Card
+ORD-2023-00014,2023-09-12,East,ST-18,SP-34,Electronics,4K Monitor,Partner,Enterprise,30,16,571.22,13.7,7928.65,4570.28,3358.37,42.36,689.04,8.3,Credit Card
+ORD-2023-00015,2023-03-08,East,ST-14,SP-44,Home & Garden,Coffee Maker,In-Store,SMB,25,16,331.73,15.8,5310.97,2166.53,3144.44,59.21,191.22,10.0,Credit Card
+ORD-2022-00016,2022-11-27,West,ST-23,SP-46,Food & Beverage,Organic Coffee Box,Online,Consumer,66,1,52.46,15.9,57.31,22.2,35.11,61.26,3.62,10.0,Bank Transfer
+ORD-2022-00017,2022-09-19,North,ST-03,SP-03,Sports & Outdoors,Resistance Bands Set,In-Store,Consumer,44,7,230.35,21.4,1203.49,610.66,592.83,49.26,60.44,8.1,Cash
+ORD-2022-00018,2022-12-29,West,ST-19,SP-12,Home & Garden,Coffee Maker,Phone,SMB,64,10,331.73,5.9,4345.09,2353.85,1991.24,45.83,,8.1,Bank Transfer
+ORD-2022-00019,2022-03-21,West,ST-20,SP-13,Home & Garden,LED Desk Lamp,Online,Consumer,36,4,310.44,7.7,1219.74,549.06,670.68,54.99,72.37,7.7,Credit Card
+ORD-2024-00020,2024-11-09,South,ST-11,SP-22,Sports & Outdoors,Yoga Mat Pro,Partner,SMB,59,11,111.0,2.2,,503.17,542.02,51.86,94.84,6.2,Bank Transfer
+ORD-2023-00021,2023-10-05,South,ST-11,SP-08,Clothing,Sports Hoodie,Online,Enterprise,49,44,111.33,12.5,4857.87,2485.47,2372.4,48.84,443.9,8.1,Credit Card
+ORD-2023-00022,2023-11-08,East,ST-18,SP-08,Home & Garden,Coffee Maker,In-Store,Consumer,42,5,331.73,10.1,1887.78,820.3,1067.48,56.55,82.98,8.8,Credit Card
+ORD-2024-00023,2024-02-16,East,ST-14,SP-40,Food & Beverage,Energy Drink Case,In-Store,Enterprise,40,47,13.54,11.0,524.52,182.71,341.81,65.17,20.25,7.0,Credit Card
+ORD-2022-00024,2022-12-14,East,ST-15,SP-33,Home & Garden,Throw Pillow Set,Online,Consumer,37,4,130.7,15.2,331.27,141.29,189.98,57.35,19.29,6.5,Debit Card
+ORD-2024-00025,2024-08-31,East,ST-13,SP-30,Clothing,Formal Blazer,In-Store,Consumer,46,4,131.12,4.3,525.64,250.35,275.29,52.37,25.98,9.0,Debit Card
+ORD-2024-00026,2024-05-20,North,ST-06,SP-34,Food & Beverage,Gourmet Nuts Bundle,Online,Consumer,51,8,27.14,12.1,193.63,86.78,106.85,55.18,16.38,5.8,Credit Card
+ORD-2024-00027,2024-06-25,East,ST-18,SP-33,Food & Beverage,Gourmet Nuts Bundle,In-Store,SMB,52,10,27.14,16.1,170.16,58.13,112.03,65.84,7.94,7.0,Credit Card
+ORD-2024-00028,2024-06-19,Norht,ST-03,SP-16,Clothing,Casual Shirt,Partner,Enterprise,31,19,178.38,12.9,2508.05,975.61,1532.44,61.1,236.9,7.8,Credit Card
+ORD-2024-00029,2024-08-12,South,ST-08,SP-27,Clothing,Sports Hoodie,Partner,Enterprise,58,10,111.33,19.6,1022.69,431.38,591.31,57.82,95.52,9.8,Credit Card
+ORD-2023-00030,2023-03-28,East,ST-15,SP-28,Food & Beverage,Energy Drink Case,Online,Consumer,47,8,13.54,18.7,98.15,43.88,54.27,55.29,8.01,6.5,Debit Card
+ORD-2024-00031,2024-03-17,East,ST-18,SP-02,Electronics,Gaming Mouse,Online,Consumer,25,6,261.24,5.1,1677.3,1015.71,661.59,39.44,155.22,6.0,Credit Card
+ORD-2024-00032,2024-05-13,South,ST-07,SP-31,Electronics,Laptop Pro,Partner,SMB,63,4,390.62,13.9,1508.95,1073.52,435.43,28.86,123.68,9.1,Credit Card
+ORD-2022-00033,2022-02-11,East,ST-14,SP-09,Food & Beverage,Organic Coffee Box,In-Store,SMB,66,14,52.46,4.6,633.97,247.94,386.03,60.89,29.13,9.1,Credit Card
+ORD-2023-00034,2023-09-30,North,ST-01,SP-20,Food & Beverage,Energy Drink Case,In-Store,Consumer,26,4,13.54,3.6,54.59,22.7,31.89,58.42,2.64,8.8,Debit Card
+ORD-2022-00035,2022-09-05,West,ST-23,SP-03,Clothing,Denim Jeans,In-Store,Enterprise,63,36,124.2,15.6,3960.64,1563.56,2397.08,60.52,202.23,6.3,Credit Card
+ORD-2022-00036,2022-11-10,South,ST-12,SP-34,Sports & Outdoors,Camping Tent,In-Store,Consumer,52,5,125.54,6.6,548.81,231.45,317.36,57.83,27.68,5.8,Credit Card
+ORD-2023-00037,2023-07-26,West,ST-20,SP-49,Food & Beverage,Gourmet Nuts Bundle,In-Store,SMB,53,8,27.14,9.0,206.5,72.94,133.56,64.68,7.06,7.3,Cash
+ORD-2023-00038,2023-07-20,East,ST-17,SP-13,Electronics,Gaming Mouse,In-Store,Consumer,66,8,261.24,8.4,2569.92,1420.99,1148.93,44.71,90.11,9.1,Credit Card
+ORD-2024-00039,2024-04-08,East,ST-15,SP-43,Food & Beverage,Energy Drink Case,In-Store,SMB,,17,13.54,5.9,275.33,92.98,182.35,66.23,8.51,7.6,Credit Card
+ORD-2023-00040,2023-01-15,North,ST-06,SP-31,Clothing,Sports Hoodie,Partner,Consumer,40,4,111.33,6.2,,171.35,226.66,56.95,35.08,8.0,Bank Transfer
+ORD-2024-00041,2024-12-29,North,ST-01,SP-04,Food & Beverage,Premium Tea Set,In-Store,Consumer,28,5,49.25,8.7,326.22,119.42,206.8,63.39,10.58,10.0,Bank Transfer
+ORD-2024-00042,2024-09-05,North,ST-01,SP-26,Food & Beverage,Gourmet Nuts Bundle,In-Store,Enterprise,31,29,27.14,3.3,846.66,285.52,561.14,66.28,35.05,8.2,Cash
+ORD-2024-00043,2024-05-02,East,ST-17,SP-15,Home & Garden,LED Desk Lamp,In-Store,SMB,59,12,310.44,,3608.76,1482.63,2126.13,58.92,184.2,9.3,Bank Transfer
+ORD-2023-00044,2023-03-09,South,ST-07,SP-11,Clothing,Sports Hoodie,Online,Enterprise,50,40,111.33,6.2,4035.16,1664.13,2371.03,58.76,362.9,8.6,Debit Card
+ORD-2024-00045,2024-07-18,North,ST-02,SP-17,Home & Garden,Garden Tool Kit,In-Store,Consumer,34,4,239.74,11.7,1028.27,579.44,448.83,43.65,49.19,8.3,Credit Card
+ORD-2023-00046,2023-09-22,East,ST-17,SP-19,Food & Beverage,Energy Drink Case,In-Store,Consumer,39,8,13.54,8.2,120.27,46.87,73.4,61.03,5.93,7.8,Debit Card
+ORD-2023-00047,2023-10-23,East,ST-13,SP-06,Clothing,Formal Blazer,Phone,Consumer,23,5,131.12,10.4,553.58,269.5,284.08,51.32,26.74,6.3,Bank Transfer
+ORD-2023-00048,2023-07-24,North,ST-05,SP-28,Home & Garden,LED Desk Lamp,Partner,Consumer,48,2,310.44,16.6,542.0,248.98,293.02,54.06,60.5,7.7,Credit Card
+ORD-2023-00049,2023-08-14,East,ST-16,SP-49,Food & Beverage,Energy Drink Case,Online,SMB,29,15,13.54,16.8,185.37,78.55,106.82,57.63,10.39,8.8,Bank Transfer
+ORD-2022-00050,2022-04-22,North,ST-03,SP-40,Home & Garden,Garden Tool Kit,In-Store,Enterprise,39,28,239.74,8.2,4654.15,2446.62,2207.53,47.43,143.88,6.6,Debit Card
+ORD-2023-00051,2023-05-06,East,ST-15,SP-36,Electronics,Gaming Mouse,Online,Consumer,29,2,261.24,11.7,628.07,361.88,266.19,42.38,63.29,,Credit Card
+ORD-2024-00052,2024-04-30,West,ST-22,SP-16,Food & Beverage,Premium Tea Set,In-Store,Consumer,54,3,49.25,16.8,122.8,41.93,80.87,65.86,5.77,,Cash
+ORD-2024-00053,29/04/2024,South,ST-11,SP-18,Sports & Outdoors,Camping Tent,Phone,Consumer,59,8,125.54,16.8,1084.48,494.43,590.05,54.41,64.46,6.9,Bank Transfer
+ORD-2024-00054,2024-02-12,East,ST-15,SP-13,Sports & Outdoors,Resistance Bands Set,In-Store,SMB,48,18,230.35,12.9,4562.93,5247.37,-684.44,-15.0,170.04,9.5,Credit Card
+ORD-2022-00055,2022-11-08,East,ST-13,SP-09,Food & Beverage,Gourmet Nuts Bundle,Online,Enterprise,50,39,27.14,1.4,1248.97,401.7,847.27,67.84,122.16,7.7,Credit Card
+ORD-2023-00056,2023-06-27,South,ST-12,SP-26,Home & Garden,Coffee Maker,Phone,Consumer,46,8,331.73,17.0,2028.34,824.44,1203.9,59.35,90.19,7.8,Bank Transfer
+ORD-2023-00057,2023-08-12,West,ST-24,SP-06,Food & Beverage,Organic Coffee Box,Phone,Consumer,28,5,52.46,18.1,179.33,55.04,124.29,69.31,12.67,7.6,Credit Card
+ORD-2022-00058,2022-10-26,South,ST-10,SP-37,Home & Garden,Air Purifier,Online,Enterprise,46,25,97.51,9.2,2682.4,1354.53,1327.87,49.5,180.11,8.7,Debit Card
+ORD-2023-00059,2023-06-05,East,ST-18,SP-01,Sports & Outdoors,Hiking Backpack,Partner,Consumer,32,6,80.92,22.5,393.34,169.47,223.87,56.92,50.24,7.6,Credit Card
+ORD-2023-00060,2023-09-11,North,ST-04,SP-31,Electronics,Gaming Mouse,In-Store,Consumer,66,7,261.24,6.0,,1305.11,714.54,35.38,89.79,6.2,Credit Card
+ORD-2022-00061,2022-04-11,West,ST-24,SP-32,Sports & Outdoors,Camping Tent,Phone,SMB,44,9,125.54,11.2,721.0,357.05,363.95,50.48,48.99,6.4,Credit Card
+ORD-2022-00062,2022-07-18,West,ST-24,SP-03,Clothing,Denim Jeans,Online,SMB,30,12,124.2,6.7,1503.21,658.66,844.55,56.18,98.67,5.5,Credit Card
+ORD-2024-00063,2024-01-20,East,ST-15,SP-11,Clothing,Denim Jeans,Partner,SMB,43,17,124.2,20.7,1852.72,740.54,1112.18,60.03,237.13,,Cash
+ORD-2024-00064,2024-03-24,West,ST-25,SP-36,Clothing,Denim Jeans,Online,Consumer,51,5,124.2,10.6,734.02,363.44,370.58,50.49,74.23,6.1,Credit Card
+ORD-2022-00065,2022-08-10,East,ST-16,SP-02,Home & Garden,Throw Pillow Set,Online,Consumer,63,8,130.7,18.3,930.42,422.78,507.64,54.56,70.34,9.8,Credit Card
+ORD-2023-00066,2023-09-16,West,ST-19,SP-07,Clothing,Sports Hoodie,Online,Consumer,64,7,111.33,10.6,895.98,431.61,464.37,51.83,88.25,,Bank Transfer
+ORD-2022-00067,2022-07-22,West,ST-23,SP-27,Sports & Outdoors,Camping Tent,Online,SMB,50,10,125.54,16.5,1234.75,490.06,744.69,60.31,109.78,4.7,Credit Card
+ORD-2024-00068,2024-01-05,North,ST-03,SP-13,Sports & Outdoors,Hiking Backpack,Online,SMB,62,3,80.92,2.5,273.48,119.43,154.05,56.33,28.3,6.4,Debit Card
+ORD-2023-00069,2023-02-25,North,ST-05,SP-14,Food & Beverage,Premium Tea Set,Online,Enterprise,60,19,49.25,22.5,700.57,266.94,433.63,61.9,66.08,10.0,Credit Card
+ORD-2022-00070,2022-09-27,North,ST-02,SP-38,Clothing,Running Shoes,Online,Enterprise,48,14,83.82,8.8,833.76,407.64,426.12,51.11,67.23,9.1,Debit Card
+ORD-2022-00071,2022-08-12,East,ST-14,SP-40,Electronics,4K Monitor,In-Store,Consumer,25,7,571.22,8.1,3287.04,1868.2,1418.84,43.16,148.24,5.1,Bank Transfer
+ORD-2023-00072,2023-10-22,East,ST-13,SP-09,Clothing,Formal Blazer,In-Store,Consumer,46,5,131.12,8.5,766.68,356.32,410.36,53.52,23.29,8.4,Bank Transfer
+ORD-2022-00073,2022-08-23,West,ST-24,SP-50,Food & Beverage,Premium Tea Set,In-Store,Consumer,48,8,49.25,,339.19,138.88,200.31,59.06,12.04,7.2,Credit Card
+ORD-2022-00074,2022-11-09,East,ST-16,SP-05,Electronics,Wireless Headphones,Online,Enterprise,45,45,286.18,2.7,15246.63,10865.15,4381.48,28.74,1264.87,8.2,Cash
+ORD-2022-00075,2022-09-08,South,ST-12,SP-49,Food & Beverage,Organic Coffee Box,Partner,Consumer,44,4,52.46,4.4,158.69,59.08,99.61,62.77,19.18,6.5,Credit Card
+ORD-2022-00076,2022-08-24,West,ST-23,SP-15,Home & Garden,Throw Pillow Set,Partner,Consumer,61,1,130.7,11.0,101.54,52.64,48.9,48.16,11.33,8.9,Debit Card
+ORD-2022-00077,2022-03-01,North,ST-06,SP-49,Clothing,Casual Shirt,Online,SMB,31,15,178.38,2.9,1984.69,960.07,1024.62,51.63,203.72,8.6,Debit Card
+ORD-2024-00078,2024-02-10,South,ST-09,SP-11,Clothing,Formal Blazer,Online,Consumer,60,1,131.12,4.4,132.1,64.15,67.95,51.44,7.71,8.2,Credit Card
+ORD-2022-00079,2022-06-17,South,ST-12,SP-28,Food & Beverage,Energy Drink Case,In-Store,SMB,54,16,13.54,3.7,196.61,78.98,117.63,59.83,8.3,,Credit Card
+ORD-2023-00080,2023-03-28,South,ST-11,SP-04,Electronics,4K Monitor,Partner,Consumer,38,2,571.22,1.0,1078.03,729.82,348.21,32.3,86.83,7.1,Credit Card
+ORD-2024-00081,2024-02-18,East,ST-14,SP-33,Food & Beverage,Protein Bar Pack,Online,Consumer,24,8,22.99,18.7,104.41,44.82,59.59,57.07,8.73,6.3,Credit Card
+ORD-2024-00082,2024-05-05,South,ST-10,SP-02,Sports & Outdoors,Resistance Bands Set,Phone,Consumer,66,2,230.35,8.2,430.27,171.25,259.02,60.2,24.82,6.7,Bank Transfer
+ORD-2024-00083,2024-03-31,East,ST-16,SP-20,Home & Garden,Air Purifier,Online,SMB,54,19,97.51,9.3,1918.24,1080.1,838.14,43.69,139.59,,Debit Card
+ORD-2022-00084,2022-10-30,South,ST-08,SP-17,Electronics,Smart Watch,Phone,Consumer,33,8,323.54,8.6,2518.49,1626.53,891.96,35.42,158.31,5.3,Bank Transfer
+ORD-2023-00085,2023-10-24,West,ST-24,SP-21,Electronics,Wireless Headphones,In-Store,Consumer,39,6,286.18,9.3,2227.19,1342.48,884.71,39.72,86.52,9.7,Debit Card
+ORD-2022-00086,2022-06-07,East,ST-13,SP-40,Food & Beverage,Energy Drink Case,In-Store,Consumer,24,4,13.54,,43.03,15.98,27.05,62.86,1.36,8.3,Credit Card
+ORD-2022-00087,2022-05-07,East,ST-15,SP-46,Electronics,Smart Watch,Online,Consumer,50,3,323.54,7.2,1023.56,722.68,300.88,29.4,76.35,7.8,Debit Card
+ORD-2022-00088,2022-04-18,West,ST-24,SP-22,Electronics,Wireless Headphones,In-Store,SMB,38,7,286.18,6.7,1405.56,912.3,493.26,35.09,44.13,5.7,Debit Card
+ORD-2023-00089,2023-12-18,South,ST-12,SP-45,Home & Garden,Air Purifier,In-Store,Consumer,41,6,97.51,,638.67,332.5,306.17,47.94,30.59,7.7,Debit Card
+ORD-2024-00090,2024-12-14,North,ST-06,SP-28,Food & Beverage,Organic Coffee Box,Online,SMB,35,18,52.46,4.9,1244.76,560.14,684.62,55.0,78.96,5.6,Credit Card
+ORD-2023-00091,2023-08-29,West,ST-19,SP-33,Home & Garden,Garden Tool Kit,Partner,Enterprise,43,49,239.74,4.0,7493.23,3505.4,3987.83,53.22,597.47,8.4,Bank Transfer
+ORD-2022-00092,2022-12-06,West,ST-19,SP-27,Clothing,Formal Blazer,Online,SMB,40,17,131.12,5.4,2751.69,1137.78,1613.91,58.65,281.63,5.6,Cash
+ORD-2024-00093,2024-08-18,West,ST-20,SP-24,Home & Garden,Throw Pillow Set,Partner,Consumer,40,7,130.7,20.9,951.44,520.48,430.96,45.3,112.34,8.6,Cash
+ORD-2024-00094,2024-09-11,West,ST-23,SP-07,Home & Garden,Throw Pillow Set,Phone,SMB,32,19,130.7,4.3,3139.89,1503.21,1636.68,52.13,238.85,8.1,Credit Card
+ORD-2023-00095,2023-03-31,West,ST-21,SP-02,Clothing,Denim Jeans,In-Store,SMB,27,3,124.2,6.5,343.07,135.13,207.94,60.61,15.49,7.1,Credit Card
+ORD-2022-00096,2022-03-20,South,ST-10,SP-45,Sports & Outdoors,Foam Roller,In-Store,Consumer,27,4,149.11,15.9,457.69,216.62,241.07,52.67,20.8,8.4,Credit Card
+ORD-2024-00097,2024-12-16,South,ST-09,SP-16,Clothing,Winter Jacket,Online,Consumer,61,2,50.33,16.0,89.77,40.39,49.38,55.01,7.34,,Credit Card
+ORD-2022-00098,22/10/2022,South,ST-07,SP-40,Clothing,Sports Hoodie,In-Store,Consumer,27,6,111.33,2.9,558.66,253.44,305.22,54.63,22.44,6.2,Debit Card
+ORD-2024-00099,2024-11-05,East,ST-16,SP-31,Electronics,Gaming Mouse,Partner,SMB,23,5,261.24,6.9,,1233.3,594.9,32.54,196.89,7.7,Credit Card
+ORD-2023-00100,2023-11-12,North,ST-03,SP-35,Clothing,Formal Blazer,Online,Consumer,51,8,131.12,11.4,944.04,465.99,478.05,50.64,55.73,5.7,Bank Transfer
+ORD-2024-00101,2024-07-26,North,ST-02,SP-03,Home & Garden,Robot Vacuum,Online,SMB,47,20,115.68,8.8,2476.48,1006.92,1469.56,59.34,215.58,7.0,Bank Transfer
+ORD-2022-00102,2022-04-08,West,ST-21,SP-18,Electronics,Bluetooth Speaker,In-Store,SMB,50,15,545.94,6.8,9607.93,5589.5,4018.43,41.82,428.61,9.8,Bank Transfer
+ORD-2024-00103,2024-01-23,West,ST-23,SP-18,Home & Garden,Garden Tool Kit,In-Store,SMB,33,13,239.74,3.6,4117.47,1890.02,2227.45,54.1,144.5,5.5,Debit Card
+ORD-2022-00104,2022-12-08,East,ST-15,SP-29,Electronics,Bluetooth Speaker,In-Store,SMB,62,4,545.94,3.1,2918.82,1921.68,997.14,34.16,107.18,8.0,Bank Transfer
+ORD-2022-00105,2022-11-24,West,ST-20,SP-39,Home & Garden,LED Desk Lamp,Online,Enterprise,63,34,310.44,20.0,11893.29,4826.65,7066.64,59.42,753.62,6.9,Credit Card
+ORD-2024-00106,28/06/2024,West,ST-23,SP-09,Food & Beverage,Energy Drink Case,Online,SMB,29,8,13.54,9.2,118.98,42.6,76.38,64.2,9.87,,Credit Card
+ORD-2023-00107,2023-06-21,West,ST-24,SP-29,Electronics,4K Monitor,In-Store,Consumer,34,2,571.22,8.4,1337.52,939.98,397.54,29.72,51.74,9.1,Credit Card
+ORD-2023-00108,2023-10-17,East,ST-18,SP-05,Food & Beverage,Protein Bar Pack,Partner,Consumer,67,3,22.99,14.8,71.78,27.01,44.77,62.37,5.55,8.7,Debit Card
+ORD-2023-00109,2023-02-16,West,ST-20,SP-32,Electronics,Bluetooth Speaker,InStore,Consumer,,2,545.94,2.9,783.83,484.16,299.67,38.23,35.43,6.1,Debit Card
+ORD-2024-00110,2024-04-18,West,ST-19,SP-09,Sports & Outdoors,Foam Roller,Online,Consumer,55,3,149.11,14.2,,186.62,277.68,59.81,37.21,7.9,Credit Card
+ORD-2022-00111,2022-04-24,West,ST-23,SP-10,Clothing,Running Shoes,Online,Consumer,44,5,83.82,16.2,376.12,156.12,220.0,58.49,32.53,7.3,Bank Transfer
+ORD-2023-00112,2023-09-13,East,ST-13,SP-33,Home & Garden,Throw Pillow Set,Partner,SMB,,13,130.7,16.1,965.24,484.02,481.22,49.85,115.36,7.6,debit card
+ORD-2022-00113,2022-02-28,North,ST-06,SP-50,Food & Beverage,Premium Tea Set,Phone,SMB,62,20,49.25,6.2,652.49,289.38,363.11,55.65,38.75,8.1,Credit Card
+ORD-2023-00114,2023-09-02,East,ST-18,SP-04,Electronics,Gaming Mouse,In-Store,SMB,60,13,261.24,13.5,3972.39,2766.1,1206.29,30.37,204.22,6.0,Credit Card
+ORD-2022-00115,2022-09-25,West,ST-23,SP-36,electronics,Tablet HD,In-Store,SMB,37,4,758.83,6.2,3530.09,2172.08,1358.01,38.47,150.98,7.5,Credit Card
+ORD-2022-00116,2022-11-24,West,ST-23,SP-47,Clothing,Running Shoes,In-Store,Consumer,53,8,83.82,1.7,873.59,447.57,426.02,48.77,35.06,9.7,Bank Transfer
+ORD-2023-00117,2023-05-09,North,ST-03,SP-04,Electronics,USB-C Hub,In-Store,Consumer,65,1,623.93,,596.25,371.62,224.63,37.67,29.32,7.6,Credit Card
+ORD-2024-00118,2024-01-20,North,ST-01,SP-37,Food & Beverage,Protein Bar Pack,In-Store,Enterprise,54,45,22.99,6.0,1092.24,489.72,602.52,55.16,48.42,5.4,Credit Card
+ORD-2022-00119,2022-09-01,North,ST-01,SP-26,Clothing,Casual Shirt,In-Store,SMB,31,19,178.38,7.7,2899.98,1118.34,1781.64,61.44,83.91,7.0,Credit Card
+ORD-2024-00120,2024-11-29,East,ST-17,SP-33,Electronics,Bluetooth Speaker,online,Consumer,41,8,545.94,12.9,3411.03,2049.91,1361.12,39.9,324.58,5.6,Debit Card
+ORD-2024-00121,2024-01-25,South,ST-07,SP-27,Food & Beverage,Organic Coffee Box,In-Store,SMB,63,10,52.46,13.2,477.51,185.05,292.46,61.25,15.32,6.6,Cash
+ORD-2024-00122,2024-02-18,North,ST-06,SP-16,Electronics,Wireless Headphones,Online,SMB,48,9,286.18,7.8,2005.63,1367.33,638.3,31.83,,6.3,Credit Card
+ORD-2022-00123,2022-05-08,East,ST-17,SP-14,Food & Beverage,Energy Drink Case,In-Store,SMB,33,20,13.54,6.9,266.87,94.24,172.63,64.69,12.42,7.2,Credit Card
+ORD-2023-00124,2023-06-26,East,ST-14,SP-16,Clothing,Casual Shirt,Online,Consumer,41,4,178.38,12.6,599.4,268.81,330.59,55.15,47.37,6.0,Cash
+ORD-2023-00125,2023-07-15,South,ST-11,SP-44,Food & Beverage,Energy Drink Case,Phone,Consumer,31,5,13.54,20.3,62.66,19.54,43.12,68.82,4.72,6.9,Credit Card
+ORD-2023-00126,2023-03-15,North,ST-05,SP-18,Sports & Outdoors,Foam Roller,Online,Enterprise,59,13,149.11,12.2,1992.5,937.03,1055.47,52.97,172.59,6.0,Credit Card
+ORD-2022-00127,2022-04-18,North,ST-03,SP-46,Food & Beverage,Premium Tea Set,Online,Consumer,32,8,49.25,8.8,362.53,119.61,242.92,67.01,37.08,6.8,Credit Card
+ORD-2022-00128,2022-07-03,East,ST-14,SP-35,Home & Garden,Robot Vacuum,Partner,SMB,,4,115.68,23.8,,142.43,159.67,52.85,30.13,9.7,Bank Transfer
+ORD-2023-00129,2023-08-16,West,ST-19,SP-20,Food & Beverage,Organic Coffee Box,Partner,SMB,51,20,52.46,9.6,1030.25,446.5,583.75,56.66,80.41,6.6,Bank Transfer
+ORD-2022-00130,2022-08-19,South,ST-12,SP-30,Home & Garden,Garden Tool Kit,Online,Consumer,,4,239.74,4.7,714.0,395.63,318.37,44.59,70.73,,Debit Card
+ORD-2024-00131,2024-05-25,East,ST-13,SP-26,Home & Garden,Air Purifier,Partner,Consumer,37,7,97.51,,723.22,387.41,335.81,46.43,92.02,6.8,Credit Card
+ORD-2022-00132,2022-01-24,South,ST-09,SP-45,Clothing,Formal Blazer,Online,SMB,47,12,131.12,12.6,1292.43,606.69,685.74,53.06,130.73,,Debit Card
+ORD-2024-00133,2024-01-23,East,ST-14,SP-09,Food & Beverage,Energy Drink Case,Phone,Consumer,48,8,13.54,14.0,98.11,41.24,56.87,57.97,7.04,7.9,Debit Card
+ORD-2022-00134,2022-06-17,East,ST-17,SP-46,Clothing,Sports Hoodie,Online,Consumer,54,3,111.33,4.5,362.46,181.1,181.36,50.04,27.98,5.6,CreditCard
+ORD-2023-00135,2023-02-25,East,ST-16,SP-06,Sports & Outdoors,Hiking Backpack,Phone,Consumer,54,1,80.92,10.1,53.39,26.39,27.0,50.57,2.83,8.5,Credit Card
+ORD-2022-00136,2022-01-07,West,ST-23,SP-05,Electronics,Bluetooth Speaker,Phone,Consumer,25,2,545.94,22.4,741.98,467.63,274.35,36.98,38.83,8.2,Bank Transfer
+ORD-2023-00137,04/01/2023,West,ST-25,SP-42,Sports & Outdoors,Foam Roller,Partner,SMB,46,15,149.11,7.3,1876.14,930.69,945.45,50.39,205.83,5.8,Credit Card
+ORD-2023-00138,2023-12-14,North,ST-05,SP-26,Food & Beverage,Premium Tea Set,Phone,Consumer,41,7,49.25,9.7,341.14,144.47,196.67,57.65,17.37,7.2,Credit Card
+ORD-2023-00139,2023-12-10,North,ST-02,SP-47,Home & Garden,Robot Vacuum,Phone,SMB,23,5,115.68,3.6,713.38,289.66,423.72,59.4,45.31,7.2,Credit Card
+ORD-2022-00140,2022-04-01,South,ST-08,SP-35,Electronics,Laptop Pro,Online,Consumer,36,6,390.62,10.5,1627.75,1109.04,518.71,31.87,155.1,7.3,Cash
+ORD-2023-00141,2023-05-01,South,ST-08,SP-43,Food & Beverage,Energy Drink Case,Online,Enterprise,59,21,13.54,11.3,263.09,95.79,167.3,63.59,20.99,10.0,Bank Transfer
+ORD-2024-00142,2024-02-20,West,ST-21,SP-45,Clothing,Running Shoes,Online,SMB,56,10,83.82,6.3,1000.04,479.08,520.96,52.09,94.68,7.0,Credit Card
+ORD-2022-00143,2022-04-29,East,ST-16,SP-36,Food & Beverage,Energy Drink Case,Online,SMB,63,17,13.54,16.3,238.44,74.84,163.6,68.61,21.65,8.2,Credit Card
+ORD-2022-00144,2022-03-22,West,ST-20,SP-49,Food & Beverage,Gourmet Nuts Bundle,Online,SMB,43,3,27.14,5.1,65.24,21.43,43.81,67.15,5.98,8.3,Credit Card
+ORD-2024-00145,2024-09-07,West,ST-24,SP-39,Home & Garden,LED Desk Lamp,Partner,Consumer,40,6,310.44,6.4,2427.47,1128.13,1299.34,53.53,298.5,5.3,Credit Card
+ORD-2024-00146,2024-08-19,West,ST-21,SP-14,Clothing,Denim Jeans,Online,Consumer,31,7,124.2,6.2,1100.99,448.62,652.37,59.25,73.81,7.9,Credit Card
+ORD-2023-00147,2023-05-19,East,ST-18,SP-44,Clothing,Denim Jeans,Partner,Consumer,53,6,124.2,4.6,875.38,420.92,454.46,51.92,86.92,8.7,Credit Card
+ORD-2022-00148,2022-05-01,East,ST-13,SP-43,Electronics,Laptop Pro,In-Store,Consumer,36,3,390.62,1.1,,780.77,446.9,36.4,45.37,6.5,Credit Card
+ORD-2024-00149,2024-09-16,East,ST-13,SP-01,Food & Beverage,Energy Drink Case,Online,Consumer,39,5,13.54,1.5,87.62,36.97,50.65,57.81,7.74,8.2,Debit Card
+ORD-2022-00150,2022-08-08,West,ST-23,SP-10,Clothing,Sports Hoodie,In-Store,Consumer,39,2,111.33,7.3,225.67,98.58,127.09,56.32,9.38,5.0,Cash
+ORD-2023-00151,2023-04-08,South,ST-07,SP-42,Sports & Outdoors,Foam Roller,Phone,Enterprise,,40,149.11,2.6,5295.9,2020.95,3274.95,61.84,255.1,6.0,Credit Card
+ORD-2023-00152,2023-11-10,East,ST-13,SP-34,Sports & Outdoors,Resistance Bands Set,Online,Consumer,58,1,230.35,18.8,228.24,113.29,114.95,50.36,15.85,8.0,Credit Card
+ORD-2022-00153,2022-03-09,North,ST-03,SP-02,Sports & Outdoors,Trekking Poles,Online,Consumer,47,5,76.72,4.5,305.63,128.63,177.0,57.91,29.36,5.4,Bank Transfer
+ORD-2023-00154,2023-11-11,South,ST-12,SP-09,Home & Garden,Garden Tool Kit,Phone,Consumer,44,7,239.74,5.4,1710.63,707.66,1002.97,58.63,109.11,9.1,Credit Card
+ORD-2024-00155,2024-03-23,West,ST-21,SP-02,Home & Garden,LED Desk Lamp,In-Store,SMB,46,15,310.44,3.3,4837.46,2473.64,2363.82,48.86,228.1,7.2,Credit Card
+ORD-2022-00156,2022-11-12,South,ST-12,SP-10,Home & Garden,Coffee Maker,Online,Enterprise,41,27,331.73,3.6,9540.92,3966.29,5574.63,58.43,731.66,6.9,Credit Card
+ORD-2024-00157,2024-11-15,South,ST-07,SP-06,Clothing,Winter Jacket,In-Store,Consumer,46,7,50.33,7.5,300.2,117.64,182.56,60.81,14.9,10.0,Credit Card
+ORD-2024-00158,03/12/2024,North,ST-04,SP-11,Electronics,4K Monitor,Online,Enterprise,,36,571.22,6.3,,18193.26,8441.94,31.69,1953.27,5.6,Credit Card
+ORD-2023-00159,2023-05-21,West,ST-22,SP-39,Home & Garden,LED Desk Lamp,Online,SMB,47,15,310.44,15.1,5257.97,2415.08,2842.89,54.07,378.93,8.8,Credit Card
+ORD-2022-00160,2022-10-06,South,ST-11,SP-45,Electronics,Bluetooth Speaker,Online,SMB,42,18,545.94,21.0,9368.82,6398.3,2970.52,31.71,671.21,5.9,Credit Card
+ORD-2023-00161,2023-07-29,West,ST-22,SP-24,Electronics,Tablet HD,In-Store,Consumer,65,1,758.83,20.2,776.36,487.92,288.44,37.15,34.94,7.1,Cash
+ORD-2022-00162,2022-05-22,West,ST-25,SP-27,Home & Garden,Air Purifier,In-Store,SMB,64,16,97.51,14.7,1447.32,598.2,849.12,58.67,74.94,8.2,Credit Card
+ORD-2024-00163,2024-09-08,East,ST-17,SP-33,Sports & Outdoors,Foam Roller,In-Store,Enterprise,45,44,149.11,10.7,4603.92,2465.16,2138.76,46.46,140.99,7.6,Debit Card
+ORD-2022-00164,2022-12-07,East,ST-13,SP-37,Sports & Outdoors,Foam Roller,In-Store,Consumer,43,7,149.11,3.6,1362.05,540.41,821.64,60.32,45.39,9.1,Bank Transfer
+ORD-2024-00165,2024-11-28,East,ST-18,SP-37,Clothing,Casual Shirt,In-Store,Consumer,59,3,178.38,6.9,,310.32,498.98,61.66,24.69,4.8,Debit Card
+ORD-2022-00166,2022-08-26,West,ST-24,SP-10,Clothing,Casual Shirt,In-Store,SMB,52,6,178.38,8.2,1074.23,513.0,561.23,52.24,38.3,9.1,Credit Card
+ORD-2023-00167,2023-09-07,North,ST-06,SP-08,Electronics,Bluetooth Speaker,In-Store,Consumer,32,4,545.94,9.4,2007.39,1292.41,714.98,35.62,72.15,6.4,Bank Transfer
+ORD-2024-00168,2024-04-09,East,ST-14,SP-41,Home & Garden,LED Desk Lamp,Online,Consumer,34,7,310.44,7.5,2538.61,1337.47,1201.14,47.31,167.24,8.1,Credit Card
+ORD-2022-00169,2022-05-09,East,ST-17,SP-12,Clothing,Running Shoes,In-Store,SMB,53,13,83.82,10.8,1220.1,568.06,652.04,53.44,51.35,6.3,Debit Card
+ORD-2022-00170,2022-12-20,West,ST-24,SP-20,Sports & Outdoors,Trekking Poles,Online,Enterprise,29,17,76.72,4.8,1488.36,741.03,747.33,50.21,119.84,,Credit Card
+ORD-2024-00171,2024-05-06,East,ST-17,SP-25,Food & Beverage,Energy Drink Case,In-Store,Consumer,63,3,13.54,10.1,52.63,19.65,32.98,62.66,1.65,,Bank Transfer
+ORD-2022-00172,2022-04-20,West,ST-19,SP-32,Electronics,Gaming Mouse,Partner,Consumer,53,8,261.24,7.9,1340.43,928.63,411.8,30.72,133.13,8.7,Credit Card
+ORD-2022-00173,2022-06-19,East,ST-14,SP-19,Electronics,Tablet HD,In-Store,SMB,51,18,758.83,10.0,12854.62,7317.44,5537.18,43.08,395.16,8.0,Debit Card
+ORD-2024-00174,2024-01-22,East,ST-13,SP-49,Home & Garden,Throw Pillow Set,Online,SMB,63,12,130.7,17.1,1342.42,544.76,797.66,59.42,92.11,5.7,Cash
+ORD-2022-00175,2022-06-28,South,ST-07,SP-50,Home & Garden,Air Purifier,Phone,Consumer,44,7,97.51,4.6,496.22,210.92,285.3,57.49,24.53,7.5,Bank Transfer
+ORD-2023-00176,2023-12-20,East,ST-17,SP-35,Electronics,4K Monitor,Online,SMB,54,6,571.22,4.1,3760.38,2547.72,1212.66,32.25,284.87,7.8,Bank Transfer
+ORD-2022-00177,2022-05-02,West,ST-25,SP-42,Electronics,Smart Watch,Online,Consumer,37,7,323.54,9.0,2047.67,1327.22,720.45,35.18,141.08,6.4,Cash
+ORD-2022-00178,2022-07-10,South,ST-12,SP-18,Home & Garden,Coffee Maker,In-Store,Consumer,59,2,331.73,13.4,673.65,325.05,348.6,51.75,29.6,8.4,Credit Card
+ORD-2024-00179,2024-01-04,West,ST-25,SP-35,Clothing,Denim Jeans,Phone,Consumer,42,6,124.2,10.0,602.43,239.94,362.49,60.17,43.79,8.2,Cash
+ORD-2022-00180,2022-04-10,North,ST-06,SP-30,Electronics,Smart Watch,In-Store,Enterprise,49,18,323.54,17.3,3548.83,2133.97,1414.86,39.87,173.84,5.4,Credit Card
+ORD-2023-00181,2023-07-16,North,ST-03,SP-17,Electronics,Smart Watch,Online,Consumer,68,4,323.54,8.1,,771.14,592.5,43.45,82.59,7.6,Debit Card
+ORD-2023-00182,2023-04-09,East,ST-16,SP-01,Electronics,Bluetooth Speaker,Phone,Consumer,49,8,545.94,3.0,4569.98,2811.09,1758.89,38.49,312.16,7.8,Debit Card
+ORD-2022-00183,2022-07-29,North,ST-03,SP-20,Electronics,Smart Watch,InStore,Consumer,26,1,323.54,11.0,273.68,158.16,115.52,42.21,9.97,8.1,Debit Card
+ORD-2024-00184,2024-04-23,East,ST-16,SP-14,Electronics,Wireless Headphones,Online,Enterprise,68,37,286.18,6.5,12953.3,7432.23,5521.07,42.62,897.59,9.4,Credit Card
+ORD-2022-00185,2022-06-22,South,ST-11,SP-39,Home & Garden,Coffee Maker,Phone,Consumer,64,4,331.73,9.5,1211.07,595.5,615.57,50.83,83.47,7.5,Bank Transfer
+ORD-2023-00186,2023-05-06,East,ST-13,SP-16,Food & Beverage,Gourmet Nuts Bundle,Online,Consumer,22,6,27.14,4.1,150.1,64.41,85.69,57.09,12.5,7.7,Bank Transfer
+ORD-2024-00187,2024-01-19,East,ST-14,SP-49,Food & Beverage,Organic Coffee Box,Online,Enterprise,38,13,52.46,19.9,564.0,202.87,361.13,64.03,39.34,,Credit Card
+ORD-2024-00188,2024-05-17,East,ST-13,SP-41,Food & Beverage,Gourmet Nuts Bundle,Online,Enterprise,27,23,27.14,21.4,619.64,200.33,419.31,67.67,44.42,6.1,Debit Card
+ORD-2022-00189,2022-05-16,South,ST-10,SP-47,Sports & Outdoors,Resistance Bands Set,Online,Enterprise,49,49,230.35,11.0,10425.95,4510.05,5915.9,56.74,955.03,7.6,Credit Card
+ORD-2022-00190,2022-10-09,East,ST-14,SP-32,Sports & Outdoors,Trekking Poles,In-Store,Consumer,38,3,76.72,13.8,174.49,92.22,82.27,47.15,7.96,7.1,Credit Card
+ORD-2022-00191,2022-08-30,West,ST-19,SP-22,Home & Garden,Coffee Maker,In-Store,SMB,58,18,331.73,8.5,4320.53,4968.61,-648.08,-15.0,172.78,,Debit Card
+ORD-2023-00192,2023-06-07,West,ST-23,SP-44,Home & Garden,Air Purifier,Phone,Enterprise,22,40,97.51,7.2,4513.15,2552.82,1960.33,43.44,218.63,,Credit Card
+ORD-2022-00193,2022-03-14,East,ST-18,SP-48,Home & Garden,Air Purifier,Online,SMB,68,5,97.51,10.4,460.16,193.95,266.21,57.85,40.64,8.4,Credit Card
+ORD-2024-00194,2024-11-22,West,ST-22,SP-05,Sports & Outdoors,Camping Tent,Phone,SMB,27,3,125.54,7.2,471.61,202.59,269.02,57.04,33.13,7.8,Debit Card
+ORD-2023-00195,2023-05-12,East,ST-17,SP-32,Sports & Outdoors,Resistance Bands Set,Phone,Consumer,37,7,230.35,1.7,1276.81,602.73,674.08,52.79,82.86,7.2,Credit Card
+ORD-2023-00196,2023-11-18,North,ST-06,SP-25,Sports & Outdoors,Foam Roller,Online,SMB,37,4,149.11,21.3,660.67,267.05,393.62,59.58,45.87,7.9,Credit Card
+ORD-2022-00197,2022-03-31,West,ST-25,SP-34,Clothing,Casual Shirt,In-Store,Consumer,59,3,178.38,11.5,389.8,169.64,220.16,56.48,16.45,9.3,Credit Card
+ORD-2022-00198,2022-09-25,South,ST-09,SP-21,Sports & Outdoors,Hiking Backpack,Phone,Consumer,42,4,80.92,3.1,316.22,131.06,185.16,58.55,22.16,8.0,Credit Card
+ORD-2022-00199,2022-08-12,North,ST-02,SP-29,Food & Beverage,Energy Drink Case,Online,SMB,35,17,13.54,5.8,246.89,78.51,168.38,68.2,15.69,6.6,Credit Card
+ORD-2022-00200,2022-03-24,North,ST-03,SP-10,Electronics,Tablet HD,Partner,SMB,25,11,758.83,15.5,5658.4,3279.37,2379.03,42.04,719.33,5.8,Debit Card
+ORD-2024-00201,2024-07-15,East,ST-17,SP-16,Electronics,Wireless Headphones,Phone,Enterprise,22,24,286.18,4.0,6846.56,4724.29,2122.27,31.0,379.3,6.2,Credit Card
+ORD-2023-00202,2023-06-15,West,ST-19,SP-02,Sports & Outdoors,Resistance Bands Set,Partner,SMB,30,13,230.35,3.9,2936.33,1586.17,1350.16,45.98,214.46,6.1,Credit Card
+ORD-2024-00203,2024-06-06,West,ST-22,SP-32,Electronics,Gaming Mouse,Online,SMB,33,17,261.24,17.4,3359.03,1867.25,1491.78,44.41,287.94,7.9,Credit Card
+ORD-2024-00204,2024-04-23,West,ST-22,SP-04,Electronics,Gaming Mouse,Online,SMB,55,20,261.24,14.9,6304.56,4527.93,1776.63,28.18,589.68,8.8,Credit Card
+ORD-2024-00205,2024-01-06,East,ST-16,SP-23,Sports & Outdoors,Trekking Poles,Online,SMB,23,10,76.72,1.9,826.68,428.07,398.61,48.22,57.44,7.8,Credit Card
+ORD-2024-00206,2024-01-03,West,ST-20,SP-11,electronics,Tablet HD,Online,Consumer,25,4,758.83,10.4,3235.88,2320.3,915.58,28.29,241.54,6.4,Cash
+ORD-2022-00207,2022-12-22,North,ST-05,SP-21,Home & Garden,Garden Tool Kit,Online,Consumer,67,3,239.74,10.2,782.49,339.51,442.98,56.61,80.93,8.6,Debit Card
+ORD-2023-00208,2023-09-25,North,ST-01,SP-06,Electronics,Tablet HD,Online,Consumer,43,4,758.83,15.2,2064.24,1254.91,809.33,39.21,133.18,6.9,Bank Transfer
+ORD-2023-00209,2023-10-25,North,ST-02,SP-38,Home & Garden,Air Purifier,Phone,Consumer,45,6,97.51,12.8,456.13,236.82,219.31,48.08,28.78,7.2,Bank Transfer
+ORD-2022-00210,2022-11-19,West,ST-22,SP-41,Sports & Outdoors,Foam Roller,Online,Consumer,57,6,149.11,5.3,1019.34,489.41,529.93,51.99,65.66,8.3,Debit Card
+ORD-2023-00211,2023-09-21,West,ST-21,SP-09,Electronics,Laptop Pro,Partner,Consumer,47,1,390.62,4.8,395.73,239.06,156.67,39.59,46.91,6.1,Cash
+ORD-2022-00212,2022-08-02,West,ST-20,SP-22,Home & Garden,Air Purifier,Online,SMB,62,5,97.51,15.6,335.16,174.49,160.67,47.94,30.5,6.7,Bank Transfer
+ORD-2023-00213,2023-11-19,East,ST-15,SP-14,Clothing,Winter Jacket,Online,Consumer,68,7,50.33,8.2,451.87,198.26,253.61,56.12,28.91,5.4,Credit Card
+ORD-2023-00214,2023-12-21,East,ST-13,SP-31,Home & Garden,Throw Pillow Set,In-Store,Consumer,32,1,130.7,6.2,179.73,82.2,97.53,54.26,9.14,8.7,Credit Card
+ORD-2022-00215,2022-06-01,South,ST-10,SP-11,Home & Garden,Throw Pillow Set,Partner,Consumer,43,8,130.7,12.8,805.48,384.73,420.75,52.24,87.97,6.7,Debit Card
+ORD-2022-00216,2022-04-20,North,ST-02,SP-13,Clothing,Sports Hoodie,Phone,Consumer,38,5,111.33,5.5,525.77,203.45,322.32,61.3,32.9,6.6,Debit Card
+ORD-2024-00217,2024-10-02,North,ST-03,SP-01,Food & Beverage,Protein Bar Pack,Phone,Consumer,52,1,22.99,5.1,26.56,10.51,16.05,60.43,2.05,6.8,Credit Card
+ORD-2024-00218,2024-03-25,East,ST-18,SP-17,Electronics,Gaming Mouse,Online,Consumer,45,1,261.24,5.8,299.1,188.15,110.95,37.09,20.0,7.5,Credit Card
+ORD-2023-00219,2023-07-05,East,ST-14,SP-49,Home & Garden,Robot Vacuum,Online,SMB,56,10,115.68,10.1,1140.84,628.99,511.85,44.87,108.7,6.3,Credit Card
+ORD-2024-00220,2024-08-30,East,ST-14,SP-31,Clothing,Denim Jeans,Partner,Consumer,54,3,124.2,3.9,485.91,236.16,249.75,51.4,39.05,8.1,Debit Card
+ORD-2022-00221,2022-12-09,West,ST-25,SP-13,Electronics,Gaming Mouse,Online,Consumer,34,3,261.24,15.9,900.7,534.87,365.83,40.62,89.82,8.2,Bank Transfer
+ORD-2024-00222,2024-03-05,East,ST-17,SP-21,Sports & Outdoors,Trekking Poles,In-Store,Consumer,66,7,76.72,3.8,639.63,259.33,380.3,59.46,26.61,7.1,Debit card
+ORD-2022-00223,2022-07-25,West,ST-23,SP-50,Electronics,4K Monitor,Partner,Consumer,48,8,571.22,10.4,3589.83,2263.09,1326.74,36.96,288.38,6.3,Credit Card
+ORD-2024-00224,2024-04-02,North,ST-03,SP-45,Clothing,Formal Blazer,In-Store,SMB,45,12,131.12,6.4,1815.7,904.22,911.48,50.2,88.24,8.4,Credit Card
+ORD-2022-00225,2022-07-21,West,ST-20,SP-09,Clothing,Formal Blazer,In-Store,Consumer,39,2,131.12,4.8,256.94,105.24,151.7,59.04,12.28,7.3,Debit Card
+ORD-2024-00226,2024-02-05,West,ST-23,SP-11,Electronics,Gaming Mouse,Online,Consumer,58,4,261.24,17.1,1030.71,602.06,428.65,41.59,60.57,5.9,Credit Card
+ORD-2022-00227,2022-03-09,East,ST-15,SP-46,Electronics,Bluetooth Speaker,Phone,Consumer,62,1,545.94,5.5,500.89,317.11,183.78,36.69,29.08,8.7,Bank Transfer
+ORD-2023-00228,2023-12-18,SOUTH,ST-09,SP-48,Sports & Outdoors,Yoga Mat Pro,Online,SMB,32,9,111.0,16.5,1078.76,528.65,550.11,50.99,95.5,7.5,Cash
+ORD-2023-00229,2023-07-06,East,ST-17,SP-02,Sports & Outdoors,Foam Roller,Online,Consumer,63,1,149.11,5.3,169.18,81.78,87.4,51.66,17.13,7.0,Credit Card
+ORD-2023-00230,2023-07-18,South,ST-10,SP-23,Food & Beverage,Premium Tea Set,In-Store,Consumer,61,2,49.25,1.0,96.03,43.21,52.82,55.0,4.92,5.4,Credit Card
+ORD-2024-00231,2024-02-06,East,ST-17,SP-39,Clothing,Formal Blazer,Online,Enterprise,39,27,131.12,5.8,4473.21,2145.14,2328.07,52.04,442.1,7.2,Debit card
+ORD-2023-00232,2023-05-08,West,ST-25,SP-39,Clothing,Casual Shirt,In-Store,Consumer,63,5,178.38,5.8,1084.85,475.81,609.04,56.14,40.49,8.1,Debit Card
+ORD-2022-00233,2022-03-14,East,ST-17,SP-13,Clothing,Formal Blazer,Online,Consumer,52,6,131.12,9.3,773.84,385.65,388.19,50.16,74.56,8.1,Bank Transfer
+ORD-2022-00234,2022-07-19,East,ST-18,SP-17,Home & Garden,Throw Pillow Set,Phone,SMB,65,5,130.7,5.3,684.22,301.19,383.03,55.98,50.2,6.9,Bank Transfer
+ORD-2024-00235,2024-05-11,West,ST-21,SP-24,Clothing,Casual Shirt,In-Store,Enterprise,25,47,178.38,10.5,9980.31,4659.72,5320.59,53.31,392.56,7.8,Bank Transfer
+ORD-2024-00236,2024-02-21,East,ST-16,SP-04,Sports & Outdoors,Resistance Bands Set,Online,SMB,48,17,230.35,4.2,4917.72,2589.71,2328.01,47.34,317.97,7.9,Bank Transfer
+ORD-2022-00237,2022-06-15,East,ST-18,SP-12,Clothing,Winter Jacket,Online,SMB,32,8,50.33,9.0,473.74,230.66,243.08,51.31,28.53,6.3,Debit Card
+ORD-2024-00238,2024-04-06,South,ST-10,SP-25,Electronics,Tablet HD,Phone,Consumer,42,4,758.83,1.5,3632.97,2000.68,1632.29,44.93,248.53,6.1,Cash
+ORD-2023-00239,2023-04-09,East,ST-15,SP-20,Electronics,Gaming Mouse,In-Store,SMB,26,12,261.24,19.9,2811.96,1764.53,1047.43,37.25,113.85,6.7,Cash
+ORD-2022-00240,2022-10-02,South,ST-10,SP-23,Home & Garden,Air Purifier,Partner,Consumer,47,4,97.51,13.3,315.28,133.56,181.72,57.64,35.96,7.5,CreditCard
+ORD-2024-00241,2024-10-30,North,ST-03,SP-46,Home & Garden,Robot Vacuum,Online,Consumer,56,1,115.68,12.0,143.58,74.32,69.26,48.24,8.18,7.2,Debit Card
+ORD-2024-00242,2024-02-18,North,ST-03,SP-31,Home & Garden,Air Purifier,In-Store,Consumer,41,2,97.51,12.0,189.78,85.13,104.65,55.14,8.07,6.5,Credit Card
+ORD-2022-00243,2022-10-08,South,ST-07,SP-33,Home & Garden,Robot Vacuum,Online,Consumer,53,4,115.68,14.5,256.94,141.23,115.71,45.03,26.39,7.0,Credit Card
+ORD-2022-00244,2022-11-25,North,ST-04,SP-14,Home & Garden,LED Desk Lamp,Online,Enterprise,64,17,310.44,15.9,5005.13,2604.79,2400.34,47.96,316.12,8.8,Credit Card
+ORD-2022-00245,2022-07-04,West,ST-19,SP-47,Home & Garden,Coffee Maker,In-Store,Consumer,40,1,331.73,3.5,382.96,165.23,217.73,56.85,11.09,6.8,Credit Card
+ORD-2023-00246,2023-10-03,South,ST-07,SP-07,Sports & Outdoors,Yoga Mat Pro,Online,Enterprise,63,32,111.0,17.7,3688.88,2000.72,1688.16,45.76,254.09,10.0,Credit Card
+ORD-2022-00247,2022-07-10,South,ST-09,SP-12,Electronics,Gaming Mouse,Partner,SMB,46,18,261.24,15.0,4310.49,2846.23,1464.26,33.97,507.84,9.2,Debit Card
+ORD-2022-00248,2022-05-01,West,ST-25,SP-11,Electronics,USB-C Hub,Phone,Consumer,33,6,623.93,11.1,3425.4,2386.26,1039.14,30.34,252.38,8.9,Debit Card
+ORD-2022-00249,2022-09-25,East,ST-16,SP-08,Sports & Outdoors,Hiking Backpack,Online,SMB,42,19,80.92,14.2,1411.56,674.77,736.79,52.2,117.33,9.5,Credit Card
+ORD-2023-00250,2023-11-24,East,ST-18,SP-45,Home & Garden,LED Desk Lamp,In-Store,SMB,44,15,310.44,4.3,6608.11,3626.26,2981.85,45.12,326.5,7.1,Debit Card
+ORD-2022-00251,2022-04-22,North,ST-02,SP-33,Sports & Outdoors,Hiking Backpack,Partner,Enterprise,53,31,80.92,21.1,1028.65,399.69,628.96,61.14,85.75,7.3,Credit Card
+ORD-2023-00252,2023-04-27,North,ST-04,SP-37,Food & Beverage,Energy Drink Case,In-Store,Enterprise,53,11,13.54,3.6,162.94,58.96,103.98,63.81,6.74,6.4,Cash
+ORD-2022-00253,2022-01-01,West,ST-25,SP-39,Sports & Outdoors,Foam Roller,Online,Consumer,35,8,149.11,20.0,1046.76,462.43,584.33,55.82,61.35,8.2,Debit Card
+ORD-2024-00254,2024-08-26,East,ST-15,SP-46,Food & Beverage,Organic Coffee Box,Phone,SMB,43,12,52.46,10.0,765.09,272.44,492.65,64.39,35.06,8.9,Credit Card
+ORD-2022-00255,2022-12-03,East,ST-18,SP-48,Home & Garden,Robot Vacuum,Online,SMB,29,15,115.68,5.2,2225.04,1220.26,1004.78,45.16,144.96,6.3,Bank Transfer
+ORD-2022-00256,2022-04-06,West,ST-25,SP-44,Food & Beverage,Energy Drink Case,In-Store,Consumer,54,8,13.54,0.7,125.69,51.59,74.1,58.95,5.19,8.9,credit card
+ORD-2024-00257,2024-06-05,West,ST-22,SP-33,Home & Garden,Air Purifier,In-Store,SMB,30,13,97.51,9.3,843.13,395.63,447.5,53.08,43.43,9.3,Credit Card
+ORD-2023-00258,2023-07-15,South,ST-09,SP-19,Food & Beverage,Premium Tea Set,Online,Consumer,54,6,49.25,13.0,278.38,122.58,155.8,55.97,24.04,6.7,Credit Card
+ORD-2023-00259,2023-02-16,North,ST-06,SP-19,Home & Garden,Garden Tool Kit,Online,Consumer,33,6,239.74,13.0,1194.24,641.23,553.01,46.31,99.11,5.2,Debit Card
+ORD-2024-00260,2024-05-04,East,ST-17,SP-19,Sports & Outdoors,Hiking Backpack,Phone,Consumer,23,1,80.92,12.2,86.48,35.8,50.68,58.6,5.97,6.3,Credit Card
+ORD-2022-00261,26/11/2022,West,ST-24,SP-17,Electronics,Laptop Pro,In-Store,SMB,56,17,390.62,3.6,7932.15,5533.2,2398.95,30.24,362.88,8.6,Credit Card
+ORD-2024-00262,2024-03-07,South,ST-12,SP-19,Home & Garden,Robot Vacuum,Partner,SMB,65,20,115.68,2.6,2095.88,1118.91,976.97,46.61,172.25,5.8,Credit Card
+ORD-2024-00263,2024-06-26,West,ST-24,SP-46,Home & Garden,Coffee Maker,Phone,Consumer,60,4,331.73,6.2,1568.51,677.5,891.01,56.81,104.42,7.7,Credit Card
+ORD-2024-00264,2024-11-18,North,ST-01,SP-28,Clothing,Casual Shirt,Online,Consumer,38,8,178.38,13.0,1720.91,691.24,1029.67,59.83,109.07,8.4,Credit Card
+ORD-2023-00265,2023-10-23,East,ST-18,SP-40,Sports & Outdoors,Camping Tent,In-Store,Consumer,44,6,125.54,9.6,742.27,402.82,339.45,45.73,30.06,7.7,Credit Card
+ORD-2024-00266,2024-04-06,North,ST-02,SP-14,Home & Garden,Coffee Maker,Online,SMB,61,20,331.73,15.6,6504.66,3750.61,2754.05,42.34,,7.1,Debit Card
+ORD-2023-00267,2023-12-10,East,ST-18,SP-40,Sports & Outdoors,Resistance Bands Set,Partner,Consumer,42,2,230.35,7.5,4584.93,206.03,230.63,52.82,37.98,9.4,Credit Card
+ORD-2024-00268,2024-02-07,East,ST-17,SP-29,Food & Beverage,Protein Bar Pack,Partner,SMB,54,6,22.99,4.6,159.45,70.71,88.74,55.65,16.31,6.2,Credit Card
+ORD-2022-00269,2022-01-16,East,ST-14,SP-43,Home & Garden,Air Purifier,Partner,SMB,28,16,97.51,11.7,1244.45,708.29,536.16,43.08,142.88,8.4,Credit Card
+ORD-2023-00270,2023-11-11,North,ST-01,SP-04,Electronics,4K Monitor,InStore,Consumer,36,7,571.22,7.5,4919.42,3232.73,1686.69,34.29,188.87,8.6,Bank Transfer
+ORD-2022-00271,2022-02-04,South,ST-07,SP-35,Electronics,Wireless Headphones,Phone,Consumer,66,6,286.18,19.0,922.1,523.79,398.31,43.2,64.85,7.8,Cash
+ORD-2024-00272,2024-06-15,South,ST-12,SP-02,Food & Beverage,Gourmet Nuts Bundle,Online,Consumer,56,3,27.14,6.3,82.42,35.69,46.73,56.7,8.43,7.9,Credit Card
+ORD-2024-00273,2024-02-04,West,ST-19,SP-36,Sports & Outdoors,Resistance Bands Set,Online,Enterprise,60,45,230.35,19.9,10977.74,4740.16,6237.58,56.82,1009.05,8.9,Credit Card
+ORD-2024-00274,2024-04-25,West,ST-25,SP-33,Electronics,Smart Watch,Online,Consumer,34,1,323.54,16.4,204.3,144.75,59.55,29.15,21.19,7.2,Credit Card
+ORD-2024-00275,2024-08-02,East,ST-13,SP-19,Home & Garden,Coffee Maker,Online,Consumer,53,6,331.73,4.0,2596.89,1345.15,1251.74,48.2,157.9,,Bank Transfer
+ORD-2023-00276,2023-10-13,East,ST-15,SP-40,Home & Garden,Garden Tool Kit,In-Store,Consumer,45,7,239.74,4.6,1745.2,796.47,948.73,54.36,81.77,5.6,Cash
+ORD-2024-00277,2024-06-12,South,ST-09,SP-09,Home & Garden,Coffee Maker,Partner,Consumer,44,8,331.73,10.0,2335.5,1008.09,1327.41,56.84,248.49,8.9,Cash
+ORD-2022-00278,2022-10-14,West,ST-20,SP-17,Home & Garden,Garden Tool Kit,Online,Enterprise,23,50,239.74,2.0,14992.85,7567.5,7425.35,49.53,1131.16,5.3,Cash
+ORD-2023-00279,2023-03-12,West,ST-23,SP-17,Food & Beverage,Gourmet Nuts Bundle,In-Store,Consumer,45,5,27.14,4.1,138.14,51.83,86.31,62.48,4.17,,Credit Card
+ORD-2023-00280,2023-05-05,West,ST-25,SP-40,Home & Garden,Throw Pillow Set,Online,SMB,58,7,130.7,13.5,748.49,364.54,383.95,51.3,54.81,7.9,Bank Transfer
+ORD-2023-00281,2023-03-25,West,ST-20,SP-05,Clothing,Running Shoes,Online,SMB,45,17,83.82,17.3,1205.35,464.77,740.58,61.44,105.02,10.0,Credit Card
+ORD-2023-00282,2023-07-15,West,ST-21,SP-38,Food & Beverage,Premium Tea Set,Online,SMB,59,5,49.25,9.5,211.08,75.24,135.84,64.35,21.01,,Debit Card
+ORD-2024-00283,2024-11-23,South,ST-09,SP-32,Home & Garden,Throw Pillow Set,Online,Consumer,50,2,130.7,9.4,223.76,100.81,122.95,54.95,14.14,8.5,Credit Card
+ORD-2022-00284,2022-08-31,East,ST-16,SP-22,Home & Garden,LED Desk Lamp,In-Store,Consumer,59,7,310.44,1.7,1721.4,701.93,1019.47,59.22,71.89,8.6,Credit Card
+ORD-2022-00285,2022-11-26,North,ST-05,SP-03,Sports & Outdoors,Resistance Bands Set,Online,SMB,33,15,230.35,10.8,3339.59,1589.02,1750.57,52.42,190.0,7.3,Debit Card
+ORD-2023-00286,2023-08-04,West,ST-20,SP-29,Home & Garden,LED Desk Lamp,Partner,SMB,48,8,310.44,11.3,2783.03,1369.1,1413.93,50.81,222.82,5.9,Debit Card
+ORD-2023-00287,2023-12-03,West,ST-23,SP-38,Electronics,Gaming Mouse,In-Store,Enterprise,34,42,261.24,12.4,9791.82,6761.32,3030.5,30.95,416.47,8.8,Debit Card
+ORD-2022-00288,2022-03-21,West,ST-23,SP-33,Home & Garden,Robot Vacuum,In-Store,Enterprise,60,10,115.68,17.8,527.17,284.4,242.77,46.05,22.97,10.0,Debit Card
+ORD-2024-00289,2024-12-05,South,ST-07,SP-45,Food & Beverage,Premium Tea Set,Partner,Consumer,46,2,49.25,8.1,119.64,40.46,79.18,66.18,13.87,7.9,Credit Card
+ORD-2024-00290,2024-04-16,South,ST-07,SP-46,Home & Garden,Robot Vacuum,In-Store,Enterprise,22,23,115.68,12.5,2678.89,1223.88,1455.01,54.31,98.3,7.4,Credit Card
+ORD-2022-00291,2022-11-13,South,ST-11,SP-17,Clothing,Sports Hoodie,In-Store,SMB,39,15,111.33,13.9,1578.01,690.93,887.08,56.22,73.87,6.6,Bank Transfer
+ORD-2024-00292,2024-09-17,South,ST-09,SP-37,Clothing,Formal Blazer,In-Store,Enterprise,64,24,131.12,8.4,3673.59,1755.62,1917.97,52.21,117.13,7.7,Credit Card
+ORD-2023-00293,2023-03-16,East,ST-15,SP-36,Home & Garden,Garden Tool Kit,Phone,SMB,62,5,239.74,15.6,,570.59,606.13,51.51,74.85,8.6,Credit Card
+ORD-2024-00294,2024-01-30,North,ST-01,SP-47,Clothing,Denim Jeans,In-Store,Consumer,67,1,124.2,19.8,111.62,55.23,56.39,50.52,4.84,8.5,Bank Transfer
+ORD-2024-00295,2024-06-18,North,ST-06,SP-34,Clothing,Winter Jacket,Phone,Consumer,66,3,50.33,12.2,126.66,54.51,72.15,56.96,8.31,8.2,Credit Card
+ORD-2023-00296,2023-07-20,West,ST-21,SP-43,Clothing,Sports Hoodie,Online,Enterprise,67,15,111.33,10.0,1861.31,896.52,964.79,51.83,154.19,7.5,Credit Card
+ORD-2023-00297,2023-12-14,South,ST-09,SP-15,Home & Garden,Air Purifier,In-Store,SMB,22,16,97.51,9.3,1418.41,709.99,708.42,49.94,56.84,7.3,Credit Card
+ORD-2024-00298,2024-11-17,West,ST-23,SP-37,Clothing,Denim Jeans,Partner,Consumer,37,8,124.2,12.4,1304.2,659.29,644.91,49.45,158.75,8.2,Cash
+ORD-2024-00299,2024-09-14,North,ST-01,SP-25,Home & Garden,Air Purifier,In-Store,SMB,42,14,97.51,9.5,1662.43,667.88,994.55,59.83,79.75,7.6,Credit Card
+ORD-2023-00300,2023-12-02,North,ST-02,SP-31,Clothing,Running Shoes,Partner,SMB,65,9,83.82,9.2,838.09,341.9,496.19,59.2,95.65,8.1,Bank Transfer
+ORD-2023-00301,2023-06-28,North,ST-02,SP-16,Sports & Outdoors,Camping Tent,Online,Enterprise,27,41,125.54,11.1,3904.87,1991.18,1913.69,49.01,320.16,9.0,Debit Card
+ORD-2023-00302,2023-10-08,East,ST-17,SP-18,Food & Beverage,Gourmet Nuts Bundle,Online,SMB,58,19,27.14,15.0,742.15,275.89,466.26,62.83,60.82,8.2,Credit Card
+ORD-2024-00303,2024-10-26,South,ST-12,SP-50,Electronics,Wireless Headphones,In-Store,Consumer,66,4,286.18,7.4,1164.15,660.22,503.93,43.29,42.7,8.0,Credit Card
+ORD-2023-00304,2023-06-23,South,ST-10,SP-40,Clothing,Running Shoes,In-Store,SMB,66,14,83.82,16.5,796.92,334.03,462.89,58.08,25.75,,Cash
+ORD-2022-00305,2022-09-26,West,ST-24,SP-15,Home & Garden,Garden Tool Kit,Online,SMB,49,9,239.74,,1975.11,1131.04,844.07,42.74,124.78,7.6,Cash
+ORD-2024-00306,2024-10-20,North,ST-06,SP-34,Food & Beverage,Protein Bar Pack,Phone,SMB,57,4,22.99,7.7,94.47,38.13,56.34,59.64,4.17,6.8,Cash
+ORD-2023-00307,2023-06-05,East,ST-18,SP-07,Food & Beverage,Protein Bar Pack,Online,SMB,57,11,22.99,6.9,293.43,106.15,187.28,63.82,21.38,6.8,Bank Transfer
+ORD-2022-00308,2022-12-24,West,ST-21,SP-23,Clothing,Sports Hoodie,in-store,Consumer,27,5,111.33,8.6,569.73,292.8,276.93,48.61,27.82,6.1,Credit Card
+ORD-2023-00309,2023-11-22,South,ST-11,SP-37,Clothing,Winter Jacket,Online,SMB,42,12,50.33,13.0,700.44,325.53,374.91,53.52,52.52,9.3,Credit Card
+ORD-2024-00310,2024-01-14,West,ST-23,SP-29,Clothing,Running Shoes,Phone,Enterprise,37,15,83.82,5.1,1464.02,637.71,826.31,56.44,66.52,6.0,Debit Card
+ORD-2024-00311,2024-08-27,East,ST-13,SP-50,Clothing,Winter Jacket,Online,Consumer,27,7,50.33,6.4,387.4,160.63,226.77,58.54,26.98,7.0,Debit Card
+ORD-2022-00312,2022-12-16,North,ST-06,SP-23,Sports & Outdoors,Camping Tent,Partner,Consumer,56,8,125.54,4.1,917.27,496.47,420.8,45.88,93.89,6.9,Bank Transfer
+ORD-2024-00313,2024-07-24,East,ST-18,SP-37,Food & Beverage,Gourmet Nuts Bundle,Online,SMB,56,5,27.14,8.3,187.93,66.69,121.24,64.51,12.87,7.5,Credit Card
+ORD-2022-00314,2022-10-07,South,ST-10,SP-35,Electronics,USB-C Hub,Partner,Consumer,22,5,623.93,10.8,2295.76,1573.63,722.13,31.45,236.22,7.6,Cash
+ORD-2023-00315,2023-01-22,South,ST-11,SP-28,Clothing,Running Shoes,Phone,Consumer,,2,83.82,8.0,140.69,58.18,82.51,58.65,9.78,9.4,Credit Card
+ORD-2023-00316,11/07/2023,South,ST-12,SP-35,Home & Garden,LED Desk Lamp,Online,Enterprise,30,50,310.44,8.5,12748.19,6138.23,6609.96,51.85,1142.53,6.4,Credit Card
+ORD-2024-00317,2024-10-04,North,ST-01,SP-10,Electronics,Laptop Pro,Online,Enterprise,39,38,390.62,13.3,17431.85,10277.43,7154.42,41.04,1102.26,6.6,Credit Card
+ORD-2023-00318,2023-10-01,West,ST-22,SP-24,Food & Beverage,Organic Coffee Box,Online,Consumer,31,7,52.46,3.0,521.11,193.08,328.03,62.95,33.99,7.4,Credit Card
+ORD-2023-00319,2023-05-28,West,ST-25,SP-01,Electronics,Tablet HD,In-Store,Consumer,37,1,758.83,5.0,786.7,531.03,255.67,32.5,23.8,7.0,Debit Card
+ORD-2024-00320,2024-03-07,East,ST-15,SP-21,Electronics,Laptop Pro,Phone,Consumer,29,5,390.62,5.0,2228.27,1561.75,666.52,29.91,162.87,6.7,Credit Card
+ORD-2023-00321,2023-03-23,West,ST-20,SP-41,Food & Beverage,Organic Coffee Box,Online,SMB,29,10,52.46,1.1,534.73,163.79,370.94,69.37,50.05,5.6,Credit Card
+ORD-2024-00322,2024-01-31,West,ST-20,SP-11,Food & Beverage,Gourmet Nuts Bundle,Online,Consumer,62,6,27.14,11.7,171.08,69.32,101.76,59.48,16.08,7.9,Credit Card
+ORD-2022-00323,2022-09-15,East,ST-15,SP-36,Home & Garden,Coffee Maker,Phone,SMB,34,15,331.73,7.1,5665.48,2403.59,3261.89,57.57,421.24,6.2,Credit Card
+ORD-2023-00324,2023-08-27,East,ST-16,SP-13,Food & Beverage,Gourmet Nuts Bundle,Online,Consumer,39,3,27.14,2.9,109.32,35.34,73.98,67.67,7.67,7.4,Bank Transfer
+ORD-2023-00325,2023-06-24,East,ST-16,SP-01,Home & Garden,Throw Pillow Set,Online,SMB,23,14,130.7,14.4,1794.11,794.76,999.35,55.7,162.56,7.0,Debit Card
+ORD-2024-00326,2024-03-04,North,ST-06,SP-32,Home & Garden,Air Purifier,In-Store,SMB,63,6,97.51,9.6,385.94,159.01,226.93,58.8,18.54,6.3,Credit Card
+ORD-2022-00327,2022-09-23,North,ST-01,SP-13,Electronics,Tablet HD,Online,Consumer,46,5,758.83,2.5,4128.55,2425.62,1702.93,41.25,373.45,10.0,Debit Card
+ORD-2024-00328,2024-10-03,West,ST-25,SP-06,Food & Beverage,Organic Coffee Box,Online,Consumer,48,1,52.46,15.6,47.43,16.12,31.31,66.01,2.75,,Cash
+ORD-2022-00329,2022-05-25,West,ST-19,SP-14,Sports & Outdoors,Yoga Mat Pro,Online,SMB,46,19,111.0,11.9,1987.95,948.06,1039.89,52.31,201.74,6.2,Credit Card
+ORD-2022-00330,2022-08-05,West,ST-23,SP-23,Home & Garden,Garden Tool Kit,In-Store,Consumer,32,7,239.74,9.3,1538.55,797.52,741.03,48.16,62.79,7.0,Cash
+ORD-2024-00331,2024-06-26,West,ST-21,SP-36,Sports & Outdoors,Camping Tent,Phone,SMB,62,13,125.54,11.0,1993.51,948.38,1045.13,52.43,99.08,7.9,Credit Card
+ORD-2023-00332,2023-06-05,South,ST-10,SP-29,Sports & Outdoors,Yoga Mat Pro,Phone,Consumer,60,3,111.0,23.2,280.83,121.13,159.7,56.87,14.83,5.4,Credit Card
+ORD-2023-00333,2023-03-31,North,ST-03,SP-02,Home & Garden,Garden Tool Kit,Phone,Consumer,54,3,239.74,3.4,600.45,289.94,310.51,51.71,28.59,7.1,Debit Card
+ORD-2023-00334,2023-05-27,South,ST-09,SP-06,Food & Beverage,Gourmet Nuts Bundle,Partner,Consumer,68,8,27.14,4.6,141.13,59.82,81.31,57.61,15.72,9.9,Credit Card
+ORD-2022-00335,2022-07-15,East,ST-15,SP-03,Home & Garden,Throw Pillow Set,In-Store,Consumer,43,7,130.7,7.9,901.21,501.26,399.95,44.38,44.05,7.8,Credit Card
+ORD-2022-00336,2022-01-24,East,ST-18,SP-25,Electronics,Laptop Pro,Online,Consumer,42,4,390.62,4.4,17602.62,1114.02,562.42,33.55,174.14,9.1,Debit Card
+ORD-2024-00337,2024-07-01,West,ST-23,SP-33,Electronics,Gaming Mouse,Online,SMB,30,18,261.24,10.4,3346.41,1868.58,1477.83,44.16,251.52,8.8,Credit Card
+ORD-2022-00338,2022-09-25,West,ST-22,SP-36,Electronics,Gaming Mouse,In-Store,SMB,61,19,261.24,5.6,5809.57,3266.02,2543.55,43.78,270.97,8.1,Bank Transfer
+ORD-2023-00339,2023-10-25,East,ST-17,SP-06,Electronics,Gaming Mouse,In-Store,SMB,42,3,261.24,14.3,652.53,377.67,274.86,42.12,23.75,,Credit Card
+ORD-2022-00340,2022-10-26,East,ST-14,SP-13,Home & Garden,Air Purifier,Phone,Consumer,29,4,97.51,19.9,409.73,232.24,177.49,43.32,30.02,,Debit Card
+ORD-2023-00341,2023-08-13,North,ST-06,SP-08,Clothing,Denim Jeans,Online,SMB,56,20,124.2,9.6,2346.69,976.72,1369.97,58.38,185.82,7.5,Credit Card
+ORD-2022-00342,2022-02-07,South,ST-12,SP-34,Electronics,Smart Watch,Online,SMB,66,4,323.54,8.6,888.17,631.2,256.97,28.93,52.58,6.9,Debit Card
+ORD-2023-00343,2023-07-10,East,ST-18,SP-24,Sports & Outdoors,Yoga Mat Pro,Online,Consumer,46,7,111.0,9.3,948.37,474.8,473.57,49.94,94.25,6.0,Credit Card
+ORD-2022-00344,2022-06-30,North,ST-05,SP-30,Food & Beverage,Organic Coffee Box,Online,Consumer,41,7,52.46,13.7,240.52,72.82,167.7,69.72,21.37,7.9,Credit Card
+ORD-2023-00345,2023-12-29,East,ST-14,SP-33,Clothing,Winter Jacket,In-Store,Consumer,23,5,50.33,5.3,190.17,81.36,108.81,57.22,7.12,8.7,Bank Transfer
+ORD-2024-00346,2024-12-02,West,ST-23,SP-41,Home & Garden,LED Desk Lamp,Online,SMB,41,13,310.44,8.4,5337.13,2261.44,3075.69,57.63,,9.0,Bank Transfer
+ORD-2023-00347,2023-02-19,West,ST-21,SP-45,Home & Garden,Throw Pillow Set,Partner,SMB,31,8,130.7,6.5,1041.38,521.02,520.36,49.97,132.17,8.2,Debit Card
+ORD-2022-00348,2022-10-26,West,ST-25,SP-21,Sports & Outdoors,Hiking Backpack,Partner,SMB,62,11,80.92,4.4,1039.92,428.39,611.53,58.81,81.0,8.1,Bank Transfer
+ORD-2022-00349,2022-02-23,West,ST-23,SP-40,Clothing,Sports Hoodie,In-Store,Consumer,36,6,111.33,3.2,489.68,239.54,250.14,51.08,,8.1,Debit Card
+ORD-2024-00350,2024-02-05,North,ST-04,SP-32,Food & Beverage,Premium Tea Set,Online,Enterprise,22,36,49.25,5.3,1261.97,505.67,756.3,59.93,82.96,6.3,Bank Transfer
+ORD-2023-00351,2023-02-23,North,ST-04,SP-40,Food & Beverage,Protein Bar Pack,Partner,Consumer,49,1,22.99,11.0,14.5,6.14,8.36,57.66,1.64,5.4,Credit Card
+ORD-2024-00352,2024-12-11,East,ST-18,SP-03,Food & Beverage,Energy Drink Case,In-Store,Consumer,37,7,13.54,22.2,104.85,32.07,72.78,69.41,3.91,9.8,Debit Card
+ORD-2022-00353,2022-04-11,North,ST-04,SP-26,Sports & Outdoors,Camping Tent,In-Store,SMB,61,19,125.54,18.1,1722.2,790.16,932.04,54.12,74.93,9.1,Bank Transfer
+ORD-2023-00354,2023-01-04,West,ST-24,SP-35,Electronics,Gaming Mouse,Online,Enterprise,51,22,261.24,17.3,4155.63,2349.3,1806.33,43.47,297.36,8.7,debit card
+ORD-2022-00355,2022-12-02,East,ST-13,SP-06,Electronics,USB-C Hub,In-Store,Enterprise,67,42,623.93,11.1,20575.73,11875.96,8699.77,42.28,847.89,8.4,Credit Card
+ORD-2023-00356,2023-11-18,East,ST-18,SP-10,Electronics,Smart Watch,Online,Consumer,48,8,323.54,6.1,3398.92,1973.82,1425.1,41.93,336.93,7.6,Credit Card
+ORD-2023-00357,2023-02-20,North,ST-03,SP-01,Food & Beverage,Energy Drink Case,In-Store,Enterprise,53,47,13.54,12.0,501.63,184.63,317.0,63.19,19.37,7.6,Credit Card
+ORD-2023-00358,2023-07-24,East,ST-17,SP-14,Electronics,Smart Watch,Online,SMB,31,12,323.54,6.7,4568.34,5253.59,-685.25,-15.0,279.7,7.4,Cash
+ORD-2023-00359,2023-01-01,North,ST-03,SP-40,Home & Garden,Garden Tool Kit,In-Store,Consumer,33,6,239.74,19.1,877.09,365.54,511.55,58.32,30.86,7.2,Bank Transfer
+ORD-2022-00360,2022-05-19,West,ST-25,SP-36,Electronics,USB-C Hub,Online,Consumer,39,7,623.93,9.6,4795.01,3204.46,1590.55,33.17,409.39,8.4,Credit Card
+ORD-2022-00361,2022-08-12,East,ST-18,SP-34,Sports & Outdoors,Hiking Backpack,Phone,Consumer,67,6,80.92,5.8,431.29,206.06,225.23,52.22,27.79,8.9,Credit Card
+ORD-2024-00362,2024-10-13,East,ST-18,SP-32,Food & Beverage,Premium Tea Set,Partner,SMB,40,3,49.25,3.8,141.01,52.14,88.87,63.02,16.61,6.6,Bank Transfer
+ORD-2023-00363,2023-03-01,West,ST-22,SP-27,Electronics,Bluetooth Speaker,In-Store,Consumer,22,5,545.94,5.7,2793.68,1568.74,1224.94,43.85,98.36,5.5,Debit Card
+ORD-2022-00364,2022-08-22,East,ST-15,SP-26,Home & Garden,Throw Pillow Set,Partner,Consumer,34,6,130.7,18.8,624.98,303.89,321.09,51.38,61.54,7.3,Credit Card
+ORD-2022-00365,2022-03-14,East,ST-16,SP-10,Home & Garden,Throw Pillow Set,Partner,Consumer,48,1,130.7,15.9,99.32,45.08,54.24,54.61,11.27,7.2,Bank Transfer
+ORD-2023-00366,2023-03-03,East,ST-15,SP-23,Electronics,Smart Watch,Online,Enterprise,46,20,323.54,10.4,5837.65,3597.31,2240.34,38.38,493.69,9.0,Debit Card
+ORD-2023-00367,2023-09-24,East,ST-15,SP-46,Electronics,Gaming Mouse,Online,Consumer,45,5,261.24,,1627.63,978.85,648.78,39.86,99.92,7.9,Credit Card
+ORD-2022-00368,2022-07-09,East,ST-13,SP-31,Sports & Outdoors,Resistance Bands Set,Online,Consumer,68,5,230.35,14.4,1221.65,493.99,727.66,59.56,119.53,5.7,Bank Transfer
+ORD-2024-00369,2024-11-23,East,ST-14,SP-14,Home & Garden,LED Desk Lamp,In-Store,Consumer,29,1,310.44,12.5,401.96,203.78,198.18,49.3,12.09,7.3,Credit Card
+ORD-2024-00370,2024-12-02,West,ST-24,SP-20,Electronics,4K Monitor,In-Store,SMB,34,11,571.22,9.7,7923.93,5399.16,2524.77,31.86,349.5,7.7,Credit Card
+ORD-2023-00371,2023-07-13,North,ST-03,SP-08,Electronics,Wireless Headphones,Online,SMB,42,12,286.18,,3215.62,1862.22,1353.4,42.09,228.14,8.8,Credit Card
+ORD-2022-00372,14/04/2022,North,ST-04,SP-44,Electronics,Gaming Mouse,Online,SMB,33,17,261.24,11.1,4299.53,2593.11,1706.42,39.69,409.48,6.7,Debit Card
+ORD-2024-00373,2024-12-28,North,ST-04,SP-37,Electronics,USB-C Hub,Online,SMB,63,17,623.93,8.7,14385.55,10229.08,4156.47,28.89,904.83,8.3,Debit Card
+ORD-2024-00374,2024-01-15,South,ST-12,SP-43,Clothing,Casual Shirt,In-Store,Enterprise,52,40,178.38,8.6,6536.61,2640.22,3896.39,59.61,303.5,7.0,Credit Card
+ORD-2022-00375,2022-09-18,East,ST-16,SP-46,Home & Garden,Coffee Maker,In-Store,Enterprise,41,35,331.73,10.7,12028.54,5327.96,6700.58,55.71,407.15,8.4,Debit Card
+ORD-2022-00376,2022-05-16,South,ST-12,SP-38,Food & Beverage,Energy Drink Case,In-Store,SMB,66,5,13.54,13.6,41.19,16.76,24.43,59.31,1.98,8.9,Credit Card
+ORD-2022-00377,2022-08-23,East,ST-16,SP-21,Food & Beverage,Energy Drink Case,Online,Consumer,26,7,13.54,6.7,108.92,43.21,65.71,60.33,6.42,,Debit Card
+ORD-2022-00378,2022-01-01,West,ST-24,SP-10,Food & Beverage,Protein Bar Pack,In-Store,Consumer,34,6,22.99,6.3,121.92,51.1,70.82,58.09,5.4,8.1,Credit Card
+ORD-2024-00379,2024-06-09,East,ST-15,SP-06,Food & Beverage,Gourmet Nuts Bundle,Partner,SMB,30,4,27.14,7.2,,32.94,53.22,61.77,6.31,6.8,Cash
+ORD-2024-00380,2024-01-06,North,ST-03,SP-02,Clothing,Formal Blazer,In-Store,Consumer,67,7,131.12,8.2,818.97,335.43,483.54,59.04,26.34,5.4,Credit Card
+ORD-2022-00381,2022-10-12,North,ST-04,SP-24,Sports & Outdoors,Resistance Bands Set,Online,Consumer,30,2,230.35,11.7,489.5,197.99,291.51,59.55,48.2,5.9,Credit Card
+ORD-2022-00382,2022-10-06,North,ST-06,SP-27,Sports & Outdoors,Foam Roller,In-Store,SMB,33,16,149.11,10.0,,1123.58,1337.67,54.35,89.9,4.9,Credit Card
+ORD-2023-00383,2023-01-16,South,ST-07,SP-37,Food & Beverage,Premium Tea Set,Phone,SMB,56,4,49.25,21.7,150.8,58.09,92.71,61.48,10.16,9.1,Debit Card
+ORD-2022-00384,2022-06-13,North,ST-06,SP-34,Sports & Outdoors,Camping Tent,In-Store,Enterprise,61,40,125.54,11.4,3652.01,1799.84,1852.17,50.72,160.87,8.6,Credit Card
+ORD-2023-00385,2023-10-02,East,ST-15,SP-35,Home & Garden,LED Desk Lamp,In-Store,Consumer,58,7,310.44,7.0,,1293.0,951.81,42.4,78.73,8.4,Debit Card
+ORD-2023-00386,15/09/2023,West,ST-23,SP-17,Eletronics,USB-C Hub,In-Store,Consumer,64,1,623.93,6.1,720.82,406.56,314.26,43.6,28.93,,Bank Transfer
+ORD-2023-00387,2023-07-24,South,ST-11,SP-18,Clothing,Casual Shirt,Online,Enterprise,33,19,178.38,11.9,3966.48,1712.6,2253.88,56.82,255.52,7.9,Bank Transfer
+ORD-2023-00388,2023-01-06,West,ST-25,SP-03,Clothing,Winter Jacket,Partner,Consumer,31,7,50.33,14.3,282.69,116.84,165.85,58.67,27.25,6.9,Cash
+ORD-2022-00389,2022-12-09,North,ST-06,SP-23,Electronics,4K Monitor,Phone,Enterprise,32,40,571.22,6.3,21040.31,14241.04,6799.27,32.32,1453.62,6.3,Credit Card
+ORD-2024-00390,2024-03-09,East,ST-14,SP-34,Sports & Outdoors,Yoga Mat Pro,Online,Consumer,46,1,111.0,3.5,111.04,52.22,58.82,52.97,8.1,7.1,Debit Card
+ORD-2024-00391,2024-06-03,East,ST-18,SP-18,Clothing,Casual Shirt,Phone,SMB,59,10,178.38,13.5,2304.03,1065.43,1238.6,53.76,112.94,6.8,Credit Card
+ORD-2023-00392,2023-01-04,South,ST-07,SP-44,Electronics,Wireless Headphones,Online,Enterprise,28,32,286.18,5.2,9236.15,5524.7,3711.45,40.18,602.82,9.0,Debit Card
+ORD-2022-00393,2022-02-18,East,ST-13,SP-39,Home & Garden,Air Purifier,Partner,Consumer,67,2,97.51,16.5,166.12,70.33,95.79,57.66,18.17,9.1,Bank Transfer
+ORD-2023-00394,2023-01-14,West,ST-24,SP-12,Clothing,Denim Jeans,In-Store,Enterprise,51,27,124.2,14.3,3532.77,1684.82,1847.95,52.31,155.52,6.9,Bank Transfer
+ORD-2023-00395,2023-10-25,South,ST-07,SP-18,Home & Garden,LED Desk Lamp,In-Store,Consumer,38,5,310.44,4.7,2113.54,871.82,1241.72,58.75,108.86,7.8,Bank Transfer
+ORD-2024-00396,2024-10-04,North,ST-05,SP-50,Food & Beverage,Gourmet Nuts Bundle,In-Store,Consumer,67,1,27.14,3.0,29.53,11.39,18.14,61.43,1.0,8.5,Credit Card
+ORD-2024-00397,2024-07-02,North,ST-04,SP-10,Home & Garden,Robot Vacuum,Partner,Consumer,39,6,115.68,18.1,634.3,319.33,314.97,49.66,64.02,,Credit Card
+ORD-2024-00398,2024-06-12,South,ST-12,SP-50,Home & Garden,Robot Vacuum,In-Store,Enterprise,66,40,115.68,3.9,4192.11,2080.77,2111.34,50.36,217.14,6.8,Cash
+ORD-2023-00399,2023-11-14,East,ST-16,SP-04,Home & Garden,Garden Tool Kit,Online,Consumer,43,8,239.74,14.1,2542.1,1149.52,1392.58,54.78,167.14,4.8,CreditCard
+ORD-2023-00400,2023-01-27,South,ST-10,SP-07,Home & Garden,Coffee Maker,In-Store,Consumer,50,3,331.73,2.1,929.56,376.07,553.49,59.54,48.26,6.2,Debit Card
+ORD-2023-00401,2023-05-04,East,ST-13,SP-35,Home & Garden,LED Desk Lamp,in-store,Consumer,50,1,310.44,2.2,289.49,118.72,170.77,58.99,13.58,7.9,Bank Transfer
+ORD-2024-00402,2024-12-07,East,ST-18,SP-35,Electronics,Tablet HD,Partner,Enterprise,31,11,758.83,8.7,8680.52,6129.0,2551.52,29.39,631.49,7.7,Debit Card
+ORD-2022-00403,25/09/2022,North,ST-06,SP-04,Sports & Outdoors,Yoga Mat Pro,In-Store,SMB,59,6,111.0,3.8,699.28,336.46,362.82,51.88,29.91,8.1,Credit Card
+ORD-2023-00404,2023-11-22,West,ST-24,SP-44,Clothing,Winter Jacket,Partner,Consumer,30,4,50.33,14.1,,112.72,130.71,53.7,21.94,8.1,Credit Card
+ORD-2022-00405,2022-09-05,South,ST-10,SP-11,Home & Garden,Throw Pillow Set,Online,SMB,59,6,130.7,14.8,680.11,349.44,330.67,48.62,50.37,9.1,Credit Card
+ORD-2022-00406,2022-06-15,North,ST-02,SP-06,Home & Garden,Throw Pillow Set,Partner,SMB,52,9,130.7,4.2,713.04,319.99,393.05,55.12,69.18,9.4,Debit Card
+ORD-2023-00407,2023-05-05,West,ST-23,SP-45,Electronics,Smart Watch,Phone,Consumer,27,5,323.54,6.9,1824.8,1005.06,819.74,44.92,92.12,8.6,Debit Card
+ORD-2022-00408,2022-07-15,East,ST-17,SP-33,Electronics,Tablet HD,Online,SMB,31,18,758.83,9.1,8374.39,4833.36,3541.03,42.28,839.85,8.6,Debit Card
+ORD-2022-00409,2022-04-21,East,ST-15,SP-14,Food & Beverage,Protein Bar Pack,In-Store,Consumer,51,1,22.99,18.9,19.74,6.44,13.3,67.38,0.92,7.4,Credit Card
+ORD-2023-00410,2023-04-27,West,ST-23,SP-38,Clothing,Running Shoes,Phone,Consumer,36,6,83.82,5.4,403.58,464.12,-60.54,-15.0,22.94,7.5,Cash
+ORD-2023-00411,2023-02-14,South,ST-08,SP-05,Food & Beverage,Energy Drink Case,Online,SMB,35,17,13.54,4.7,198.73,70.75,127.98,64.4,15.5,7.8,Bank Transfer
+ORD-2023-00412,2023-07-07,North,ST-02,SP-03,Home & Garden,Robot Vacuum,Online,Enterprise,51,20,115.68,14.1,2138.18,939.89,1198.29,56.04,150.03,8.8,Credit Card
+ORD-2022-00413,2022-11-18,West,ST-24,SP-40,Sports & Outdoors,Trekking Poles,Partner,Consumer,27,8,76.72,16.7,467.35,194.79,272.56,58.32,45.99,7.7,Credit Card
+ORD-2024-00414,2024-05-26,West,ST-20,SP-16,Clothing,Sports Hoodie,Online,Consumer,31,1,111.33,7.9,1107.75,40.74,64.76,61.38,10.93,7.6,Bank Transfer
+ORD-2024-00415,2024-10-29,North,ST-05,SP-26,Food & Beverage,Organic Coffee Box,In-Store,SMB,57,16,52.46,20.0,827.54,264.74,562.8,68.01,29.05,7.7,Cash
+ORD-2024-00416,2024-09-09,East,ST-14,SP-46,Food & Beverage,Gourmet Nuts Bundle,Phone,Enterprise,51,18,27.14,17.1,546.89,197.32,349.57,63.92,38.52,7.5,Credit Card
+ORD-2024-00417,2024-01-29,East,ST-18,SP-41,Electronics,Wireless Headphones,In-Store,Consumer,55,7,286.18,13.9,1918.64,1282.94,635.7,33.13,81.93,7.0,Credit Card
+ORD-2022-00418,2022-06-15,East,ST-15,SP-48,Sports & Outdoors,Trekking Poles,Partner,Consumer,25,6,76.72,8.6,445.83,172.51,273.32,61.31,41.01,7.2,Credit Card
+ORD-2022-00419,2022-05-18,East,ST-14,SP-09,Sports & Outdoors,Resistance Bands Set,In-Store,Consumer,59,4,230.35,13.9,8308.02,403.02,388.22,49.06,28.24,8.9,Bank Transfer
+ORD-2024-00420,2024-05-16,South,ST-07,SP-24,Clothing,Denim Jeans,In-Store,Consumer,52,5,124.2,8.4,670.13,289.19,380.94,56.85,29.59,6.7,Debit Card
+ORD-2022-00421,2022-05-15,North,ST-04,SP-06,Electronics,Smart Watch,Online,Consumer,28,2,323.54,12.7,391.66,248.46,143.2,36.56,38.38,6.0,Credit Card
+ORD-2023-00422,2023-08-24,South,ST-12,SP-35,Sports & Outdoors,Hiking Backpack,Online,SMB,63,9,80.92,2.8,635.4,335.62,299.78,47.18,42.67,7.1,Credit Card
+ORD-2024-00423,2024-11-30,East,ST-16,SP-38,Clothing,Formal Blazer,Phone,Consumer,64,8,131.12,8.5,1054.4,484.41,569.99,54.06,78.38,6.8,Debit Card
+ORD-2023-00424,2023-04-10,East,ST-15,SP-50,Sports & Outdoors,Resistance Bands Set,Online,Consumer,32,3,230.35,13.0,615.7,263.82,351.88,57.15,63.24,9.7,Debit Card
+ORD-2022-00425,2022-11-11,North,ST-01,SP-03,Sports & Outdoors,Trekking Poles,Online,SMB,33,4,76.72,,292.28,159.66,132.62,45.37,18.44,4.6,Credit Card
+ORD-2024-00426,2024-12-28,South,ST-07,SP-26,Sports & Outdoors,Resistance Bands Set,Partner,Consumer,31,6,230.35,11.7,1384.01,595.46,788.55,56.98,171.28,8.7,Credit Card
+ORD-2022-00427,2022-10-29,West,ST-24,SP-29,Clothing,Winter Jacket,Phone,Consumer,30,2,50.33,6.4,123.71,53.97,69.74,56.37,8.94,7.0,Debit Card
+ORD-2022-00428,2022-04-23,East,ST-14,SP-38,Food & Beverage,Protein Bar Pack,Online,Enterprise,50,15,22.99,21.5,225.89,81.13,144.76,64.08,17.97,8.2,Debit Card
+ORD-2024-00429,2024-11-13,West,ST-24,SP-24,Clothing,Formal Blazer,Phone,SMB,45,14,131.12,7.0,2565.87,1326.18,1239.69,48.31,188.53,9.1,Credit Card
+ORD-2024-00430,2024-06-28,West,ST-22,SP-29,Clothing,Formal Blazer,Partner,SMB,48,5,131.12,4.2,823.17,347.75,475.42,57.75,106.44,8.4,Credit Card
+ORD-2024-00431,2024-12-11,West,ST-19,SP-38,Home & Garden,Robot Vacuum,Online,Consumer,39,8,115.68,13.0,921.64,493.95,427.69,46.41,57.67,8.2,Credit Card
+ORD-2024-00432,2024-10-01,North,ST-03,SP-38,Clothing,Sports Hoodie,Phone,SMB,22,12,111.33,20.3,1038.52,515.93,522.59,50.32,61.28,9.1,Credit Card
+ORD-2023-00433,2023-08-13,South,ST-10,SP-45,Home & Garden,Robot Vacuum,Online,SMB,26,14,115.68,10.5,1736.86,871.56,865.3,49.82,169.66,6.7,Debit Card
+ORD-2022-00434,2022-09-02,South,ST-12,SP-37,Electronics,4K Monitor,Online,Enterprise,42,18,571.22,7.1,10448.7,5840.73,4607.97,44.1,766.26,6.5,Credit Card
+ORD-2023-00435,2023-12-31,North,ST-03,SP-34,Home & Garden,Robot Vacuum,In-Store,Consumer,,3,115.68,9.9,328.9,183.21,145.69,44.3,15.74,7.2,Cash
+ORD-2024-00436,2024-01-13,North,ST-05,SP-23,Sports & Outdoors,Yoga Mat Pro,Online,SMB,53,8,111.0,3.6,834.81,339.16,495.65,59.37,55.61,6.4,Credit Card
+ORD-2023-00437,2023-01-21,West,ST-23,SP-40,Home & Garden,Throw Pillow Set,Phone,Consumer,66,2,130.7,7.9,194.54,109.89,84.65,43.51,8.99,7.7,Cash
+ORD-2023-00438,2023-12-15,South,ST-09,SP-09,Home & Garden,Throw Pillow Set,In-Store,Consumer,33,1,130.7,13.7,125.3,52.79,72.51,57.87,3.9,7.9,Debit Card
+ORD-2022-00439,2022-10-19,East,ST-15,SP-09,Electronics,Wireless Headphones,In-Store,Consumer,29,8,286.18,14.0,2287.65,1274.74,1012.91,44.28,69.97,8.1,Credit Card
+ORD-2022-00440,2022-05-02,East,ST-15,SP-03,Electronics,Laptop Pro,Phone,Consumer,60,4,390.62,4.8,1467.53,894.84,572.69,39.02,66.43,6.0,Credit Card
+ORD-2023-00441,2023-07-23,West,ST-21,SP-23,Electronics,Tablet HD,In-Store,Enterprise,59,43,758.83,5.2,34393.7,20036.5,14357.2,41.74,1195.68,8.6,Cash
+ORD-2022-00442,2022-07-22,West,ST-23,SP-46,Food & Beverage,Gourmet Nuts Bundle,Online,Consumer,28,6,27.14,21.9,149.13,54.23,94.9,63.64,12.03,7.2,Credit Card
+ORD-2024-00443,2024-04-14,North,ST-03,SP-08,Food & Beverage,Gourmet Nuts Bundle,Online,Consumer,67,1,27.14,3.2,,10.65,17.83,62.61,2.12,5.4,Credit Card
+ORD-2024-00444,2024-06-28,South,ST-10,SP-19,Sports & Outdoors,Hiking Backpack,Online,Enterprise,52,33,80.92,4.7,2858.78,1571.71,1287.07,45.02,227.56,7.9,Bank Transfer
+ORD-2022-00445,2022-08-04,South,ST-11,SP-43,Home & Garden,Robot Vacuum,Online,SMB,59,8,115.68,,,516.25,380.74,42.45,64.81,4.3,Bank Transfer
+ORD-2022-00446,2022-09-09,South,ST-10,SP-47,Food & Beverage,Gourmet Nuts Bundle,In-Store,Consumer,63,6,27.14,8.8,157.36,61.45,95.91,60.95,5.93,5.5,Bank Transfer
+ORD-2024-00447,19/09/2024,East,ST-14,SP-50,Food & Beverage,Organic Coffee Box,Online,Consumer,62,1,52.46,3.5,59.47,18.31,41.16,69.21,3.53,5.9,Bank Transfer
+ORD-2024-00448,2024-02-23,East,ST-15,SP-10,Clothing,Sports Hoodie,Online,Enterprise,55,39,111.33,5.0,4900.62,2316.49,2584.13,52.73,389.76,4.5,Cash
+ORD-2023-00449,2023-06-20,East,ST-17,SP-35,Electronics,Laptop Pro,Partner,Consumer,29,6,390.62,16.4,1756.12,1097.99,658.13,37.48,126.72,8.6,Credit Card
+ORD-2023-00450,2023-09-13,West,ST-20,SP-32,Food & Beverage,Protein Bar Pack,Phone,Consumer,29,0,22.99,12.0,134.53,54.19,80.34,59.72,8.42,,Debit Card
+ORD-2024-00451,2024-09-01,East,ST-14,SP-33,Electronics,4K Monitor,In-Store,Consumer,61,5,571.22,6.6,2096.22,1162.95,933.27,44.52,60.96,8.0,Debit Card
+ORD-2022-00452,2022-02-25,West,ST-24,SP-22,Clothing,Denim Jeans,Online,SMB,44,10,124.2,5.6,823.9,387.84,436.06,52.93,69.57,6.5,Credit Card
+ORD-2022-00453,2022-05-15,West,ST-19,SP-22,Electronics,Bluetooth Speaker,Online,Consumer,49,7,545.94,5.9,2785.48,1861.57,923.91,33.17,234.6,8.6,Debit Card
+ORD-2024-00454,2024-03-10,South,ST-07,SP-32,Electronics,Tablet HD,Online,Consumer,,5,758.83,7.2,2590.67,1616.89,973.78,37.59,206.87,7.4,Credit Card
+ORD-2022-00455,2022-06-04,West,ST-23,SP-14,Clothing,Winter Jacket,Online,Consumer,36,2,50.33,13.1,93.59,43.14,50.45,53.91,7.9,7.5,Debit Card
+ORD-2024-00456,2024-12-23,East,ST-14,SP-23,Home & Garden,Garden Tool Kit,Phone,Consumer,41,6,239.74,5.0,1815.12,857.49,957.63,52.76,117.07,8.9,Credit Card
+ORD-2024-00457,2024-07-17,East,ST-17,SP-12,Sports & Outdoors,Foam Roller,Phone,Consumer,58,8,149.11,5.9,1724.68,842.42,882.26,51.15,122.66,9.0,Debit Card
+ORD-2022-00458,2022-05-03,East,ST-15,SP-30,Electronics,Smart Watch,Phone,Consumer,49,2,323.54,11.5,461.01,319.86,141.15,30.62,23.79,5.6,Credit Card
+ORD-2023-00459,2023-08-11,East,ST-15,SP-44,Home & Garden,LED Desk Lamp,Online,Enterprise,23,29,310.44,8.6,11674.37,5846.16,5828.21,49.92,898.16,7.3,Credit Card
+ORD-2022-00460,2022-11-23,South,ST-07,SP-17,Home & Garden,Coffee Maker,In-Store,SMB,24,18,331.73,14.6,5596.53,2294.35,3302.18,59.0,277.12,7.5,Bank Transfer
+ORD-2023-00461,2023-10-05,East,ST-13,SP-27,Sports & Outdoors,Foam Roller,In-Store,Enterprise,68,25,149.11,3.7,5098.15,2573.86,2524.29,49.51,256.9,5.1,Cash
+ORD-2024-00462,2024-12-11,South,ST-07,SP-16,Food & Beverage,Protein Bar Pack,Online,Consumer,46,4,22.99,19.3,78.79,26.21,52.58,66.73,4.82,7.7,Cash
+ORD-2023-00463,2023-03-15,West,ST-22,SP-27,Clothing,Sports Hoodie,Online,Consumer,66,6,111.33,9.9,672.78,300.38,372.4,55.35,45.63,7.2,Bank Transfer
+ORD-2022-00464,2022-10-24,South,ST-12,SP-24,Sports & Outdoors,Yoga Mat Pro,In-Store,Consumer,24,1,111.0,12.6,110.95,57.04,53.91,48.59,3.74,9.8,Cash
+ORD-2024-00465,2024-02-27,South,ST-12,SP-24,Sports & Outdoors,Foam Roller,Online,Consumer,50,7,149.11,19.0,,498.9,431.8,46.4,65.56,9.8,Credit Card
+ORD-2023-00466,2023-09-02,North,ST-02,SP-29,Home & Garden,Garden Tool Kit,In-Store,Enterprise,27,41,239.74,8.7,10912.6,5176.21,5736.39,52.57,525.86,6.8,Cash
+ORD-2024-00467,2024-05-15,West,ST-25,SP-07,Sports & Outdoors,Foam Roller,Online,Enterprise,48,45,149.11,13.5,7743.65,3539.27,4204.38,54.29,443.81,9.4,Debit Card
+ORD-2024-00468,2024-06-27,West,ST-20,SP-01,Clothing,Formal Blazer,Online,Consumer,29,3,131.12,16.3,403.72,192.17,211.55,52.4,,8.4,Credit Card
+ORD-2023-00469,2023-10-17,East,ST-18,SP-09,Clothing,Formal Blazer,In-Store,SMB,40,16,131.12,7.2,2488.24,1082.61,1405.63,56.49,92.2,,Credit Card
+ORD-2022-00470,2022-02-12,West,ST-23,SP-42,Home & Garden,Air Purifier,Partner,Consumer,34,3,97.51,2.5,234.62,119.95,114.67,48.87,24.88,6.0,Credit Card
+ORD-2022-00471,2022-11-02,North,ST-03,SP-11,Sports & Outdoors,Yoga Mat Pro,Online,Consumer,51,8,111.0,3.8,984.05,493.31,490.74,49.87,64.11,12.9,Cash
+ORD-2023-00472,2023-08-13,West,ST-22,SP-09,Food & Beverage,Premium Tea Set,In-Store,Consumer,40,4,49.25,7.9,205.4,74.21,131.19,63.87,6.47,5.9,Debit Card
+ORD-2023-00473,2023-08-18,West,ST-20,SP-40,Food & Beverage,Premium Tea Set,Online,Consumer,51,8,49.25,4.1,375.78,130.95,244.83,65.15,33.54,6.6,Credit Card
+ORD-2024-00474,2024-05-16,West,ST-21,SP-05,Electronics,Laptop Pro,Online,Consumer,52,1,390.62,0.8,,303.01,173.59,36.42,35.4,5.5,Bank Transfer
+ORD-2024-00475,2024-03-19,East,ST-14,SP-36,Electronics,Smart Watch,Online,Consumer,43,3,323.54,3.3,1264.59,848.22,416.37,32.93,97.1,7.3,Bank Transfer
+ORD-2022-00476,2022-09-19,East,ST-15,SP-48,Clothing,Denim Jeans,Online,Consumer,61,5,124.2,9.5,686.19,302.62,383.57,55.9,43.86,8.6,Cash
+ORD-2024-00477,2024-10-03,West,ST-20,SP-36,Sports & Outdoors,Foam Roller,In-Store,SMB,34,10,149.11,4.8,2339.82,1076.18,1263.64,54.01,74.7,6.8,Credit Card
+ORD-2024-00478,2024-10-10,North,ST-03,SP-46,Food & Beverage,Energy Drink Case,In-Store,Consumer,31,2,13.54,5.0,35.23,12.07,23.16,65.74,1.69,7.5,Credit Card
+ORD-2024-00479,2024-11-07,West,ST-23,SP-43,Food & Beverage,Gourmet Nuts Bundle,Partner,Enterprise,58,14,27.14,5.6,489.94,183.59,306.35,62.53,37.07,7.0,Credit Card
+ORD-2022-00480,2022-09-07,South,ST-11,SP-07,Sports & Outdoors,Resistance Bands Set,Online,Consumer,67,8,230.35,11.4,1690.69,719.87,970.82,57.42,148.08,8.5,Debit Card
+ORD-2023-00481,2023-11-06,West,ST-24,SP-40,Sports & Outdoors,Camping Tent,Partner,Consumer,58,1,125.54,15.0,107.3,45.94,61.36,57.19,12.65,7.7,Credit Card
+ORD-2024-00482,2024-02-21,North,ST-03,SP-12,Clothing,Denim Jeans,Online,Consumer,32,7,124.2,6.1,1020.22,495.17,525.05,51.46,89.16,5.9,Credit Card
+ORD-2022-00483,2022-09-04,South,ST-10,SP-48,Home & Garden,Coffee Maker,Partner,Consumer,44,6,331.73,9.4,1746.45,852.5,893.95,51.19,215.03,6.0,Debit Card
+ORD-2024-00484,2024-05-16,North,ST-04,SP-24,Home & Garden,LED Desk Lamp,In-Store,Enterprise,54,39,310.44,12.3,12777.72,6600.59,6177.13,48.34,576.62,7.9,Credit Card
+ORD-2024-00485,2024-10-11,East,ST-18,SP-34,Electronics,USB-C Hub,In-Store,Consumer,52,3,623.93,,2119.17,1273.77,845.4,39.89,71.98,6.3,Credit Card
+ORD-2022-00486,2022-06-06,West,ST-23,SP-07,Food & Beverage,Energy Drink Case,Online,Consumer,58,6,13.54,5.7,85.17,26.6,58.57,68.77,6.83,8.1,Cash
+ORD-2022-00487,2022-08-22,West,ST-22,SP-12,Home & Garden,LED Desk Lamp,Online,SMB,67,17,310.44,14.0,6055.31,2912.55,3142.76,51.9,573.9,6.3,Credit Card
+ORD-2023-00488,2023-01-19,North,ST-01,SP-48,Sports & Outdoors,Camping Tent,Partner,Enterprise,56,35,125.54,3.8,3968.56,1623.91,2344.65,59.08,391.41,9.6,Credit Card
+ORD-2024-00489,2024-04-09,West,ST-24,SP-39,Home & Garden,Coffee Maker,In-Store,Consumer,45,7,331.73,15.1,2777.05,1154.63,1622.42,58.42,86.76,8.6,Debit Card
+ORD-2023-00490,2023-01-21,West,ST-20,SP-31,Home & Garden,Garden Tool Kit,Online,Consumer,56,5,239.74,14.3,1185.46,505.8,679.66,57.33,90.39,9.8,Credit Card
+ORD-2022-00491,2022-08-27,North,ST-02,SP-48,Home & Garden,LED Desk Lamp,In-Store,Consumer,59,5,310.44,10.3,1465.36,806.08,659.28,44.99,42.82,9.3,Credit Card
+ORD-2024-00492,2024-06-03,West,ST-25,SP-32,Home & Garden,Throw Pillow Set,Phone,Consumer,24,8,130.7,9.4,816.91,433.31,383.6,46.96,61.82,7.7,Debit Card
+ORD-2024-00493,2024-09-26,South,ST-07,SP-34,Electronics,Bluetooth Speaker,In-Store,SMB,63,18,545.94,3.8,9585.56,6286.77,3298.79,34.41,417.05,6.1,Credit Card
+ORD-2022-00494,2022-11-27,South,ST-08,SP-31,Clothing,Running Shoes,In-Store,Consumer,65,8,83.82,4.0,745.7,314.0,431.7,57.89,33.61,7.8,Credit Card
+ORD-2024-00495,2024-05-03,West,ST-24,SP-42,Home & Garden,LED Desk Lamp,Phone,Consumer,61,2,310.44,12.1,612.78,259.35,353.43,57.68,30.14,7.2,Credit Card
+ORD-2024-00496,2024-05-01,West,ST-22,SP-20,Clothing,Sports Hoodie,Online,Enterprise,38,20,111.33,4.7,2620.13,1310.92,1309.21,49.97,210.05,7.0,Credit Card
+ORD-2022-00497,2022-05-11,South,ST-07,SP-40,Clothing,Sports Hoodie,Online,SMB,43,4,111.33,14.3,290.64,133.11,157.53,54.2,28.78,9.2,Cash
+ORD-2022-00498,2022-08-02,East,ST-16,SP-30,Sports & Outdoors,Yoga Mat Pro,Partner,Consumer,61,2,111.0,15.6,153.71,59.51,94.2,61.28,11.73,5.9,Cash
+ORD-2022-00499,2022-08-30,West,ST-21,SP-11,Home & Garden,Garden Tool Kit,In-Store,Consumer,68,3,239.74,11.7,708.6,326.12,382.48,53.98,22.18,8.4,Bank Transfer
+ORD-2024-00500,2024-05-01,West,ST-19,SP-16,Sports & Outdoors,Hiking Backpack,Online,Consumer,27,7,80.92,7.1,541.46,266.97,274.49,50.69,34.26,6.4,Credit Card
+ORD-2024-00501,2024-12-20,South,ST-08,SP-09,Home & Garden,LED Desk Lamp,Partner,Consumer,55,6,310.44,19.7,1703.78,817.24,886.54,52.03,197.99,7.7,Cash
+ORD-2022-00502,2022-05-23,North,ST-03,SP-26,Sports & Outdoors,Resistance Bands Set,In-Store,SMB,24,7,230.35,18.0,1165.64,454.4,711.24,61.02,50.31,6.5,Debit Card
+ORD-2024-00503,2024-11-30,West,ST-22,SP-26,Sports & Outdoors,Foam Roller,In-Store,SMB,42,3,149.11,15.7,513.66,273.8,239.86,46.7,21.91,8.6,Bank Transfer
+ORD-2023-00504,2023-02-25,West,ST-23,SP-40,Home & Garden,Garden Tool Kit,Online,Consumer,63,4,239.74,17.3,680.47,282.51,397.96,58.48,55.66,8.9,Credit Card
+ORD-2024-00505,2024-03-09,West,ST-24,SP-09,Food & Beverage,Gourmet Nuts Bundle,Online,Enterprise,57,31,27.14,14.0,794.07,257.28,536.79,67.6,45.53,8.2,Credit Card
+ORD-2023-00506,2023-05-10,West,ST-21,SP-47,Food & Beverage,Gourmet Nuts Bundle,Online,Enterprise,45,42,27.14,7.0,1366.41,419.71,946.7,69.28,119.21,5.9,Credit Card
+ORD-2022-00507,2022-09-13,East,ST-17,SP-48,Electronics,Bluetooth Speaker,Partner,Consumer,59,4,545.94,,2262.98,1354.1,908.88,40.16,264.97,7.1,Debit Card
+ORD-2024-00508,2024-02-13,East,ST-14,SP-07,Clothing,Sports Hoodie,Online,Consumer,51,7,111.33,15.7,810.31,317.21,493.1,60.85,47.8,,Credit Card
+ORD-2022-00509,2022-09-24,East,ST-16,SP-05,Clothing,Sports Hoodie,In-Store,Consumer,47,8,111.33,11.5,840.5,436.65,403.85,48.05,37.43,9.5,Bank Transfer
+ORD-2024-00510,2024-05-03,West,ST-20,SP-33,Electronics,USB-C Hub,Online,Consumer,55,4,623.93,8.5,1724.84,958.22,766.62,44.45,109.58,6.9,Credit Card
+ORD-2024-00511,2024-01-27,West,ST-19,SP-39,Sports & Outdoors,Yoga Mat Pro,Online,Consumer,24,2,111.0,7.3,,148.57,122.31,45.15,,5.4,Debit Card
+ORD-2022-00512,2022-10-19,West,ST-22,SP-04,Sports & Outdoors,Camping Tent,Partner,SMB,53,20,125.54,7.0,2933.37,1548.74,1384.63,47.2,278.83,7.7,Credit Card
+ORD-2023-00513,2023-09-27,East,ST-15,SP-25,Food & Beverage,Gourmet Nuts Bundle,Online,Enterprise,62,38,27.14,12.1,1297.21,418.15,879.06,67.77,117.97,9.1,Credit Card
+ORD-2024-00514,18/04/2024,South,ST-10,SP-22,Food & Beverage,Energy Drink Case,Phone,Consumer,32,5,13.54,10.2,47.13,15.01,32.12,68.15,2.93,8.5,Debit Card
+ORD-2023-00515,2023-01-30,West,ST-23,SP-37,Home & Garden,Throw Pillow Set,In-Store,Consumer,54,2,130.7,11.9,262.06,129.91,132.15,50.43,13.39,7.5,Bank Transfer
+ORD-2024-00516,2024-06-28,North,ST-05,SP-39,Clothing,Sports Hoodie,ONLINE,Consumer,23,3,111.33,7.9,403.79,202.04,201.75,49.96,28.76,8.3,Credit Card
+ORD-2023-00517,2023-06-11,North,ST-01,SP-35,Electronics,Smart Watch,Online,Consumer,31,7,323.54,12.3,1731.88,969.88,762.0,44.0,176.88,8.5,Credit Card
+ORD-2023-00518,2023-09-03,South,ST-09,SP-10,Clothing,Casual Shirt,Online,Consumer,29,4,178.38,13.9,674.04,311.44,362.6,53.8,53.7,9.5,CreditCard
+ORD-2024-00519,2024-10-30,South,ST-07,SP-18,Electronics,USB-C Hub,In-Store,Enterprise,23,24,623.93,18.4,19045.68,10535.42,8510.26,44.68,786.54,,Credit Card
+ORD-2022-00520,2022-09-15,South,ST-10,SP-29,Electronics,Tablet HD,Phone,Enterprise,56,25,758.83,9.8,17962.33,11173.25,6789.08,37.8,1343.83,7.3,Bank Transfer
+ORD-2024-00521,2024-07-14,North,ST-04,SP-40,Clothing,Running Shoes,Online,Consumer,52,5,83.82,16.0,345.58,149.71,195.87,56.68,25.18,6.8,Credit Card
+ORD-2024-00522,2024-11-11,South,ST-08,SP-48,Food & Beverage,Organic Coffee Box,Online,SMB,29,20,52.46,24.2,1121.99,484.41,637.58,56.83,74.19,7.0,Cash
+ORD-2024-00523,2024-10-30,West,ST-21,SP-44,Sports & Outdoors,Foam Roller,Online,Consumer,50,6,149.11,6.9,1401.49,642.11,759.38,54.18,118.81,9.3,Credit Card
+ORD-2022-00524,2022-01-05,East,ST-13,SP-01,Home & Garden,LED Desk Lamp,In-Store,Consumer,53,2,310.44,14.7,485.75,251.05,234.7,48.32,14.5,8.0,Cash
+ORD-2022-00525,2022-03-05,West,ST-25,SP-43,Food & Beverage,Organic Coffee Box,Online,Consumer,60,3,52.46,16.0,,54.16,74.25,57.82,13.25,8.7,Credit Card
+ORD-2023-00526,2023-01-31,East,ST-14,SP-48,Electronics,4K Monitor,In-Store,Consumer,34,5,571.22,15.2,2724.64,1600.99,1123.65,41.24,140.38,8.6,Credit Card
+ORD-2024-00527,2024-01-14,North,ST-04,SP-46,Home & Garden,Air Purifier,Online,Consumer,62,5,97.51,10.3,,234.85,245.5,51.11,39.62,6.8,Credit Card
+ORD-2022-00528,26/12/2022,North,ST-02,SP-48,Electronics,4K Monitor,Partner,Consumer,55,5,571.22,4.9,2976.91,1980.41,996.5,33.47,385.56,6.1,Debit Card
+ORD-2024-00529,2024-12-27,East,ST-18,SP-36,Sports & Outdoors,Yoga Mat Pro,Partner,Consumer,63,6,111.0,8.2,965.33,530.13,435.2,45.08,83.45,7.0,Credit Card
+ORD-2024-00530,2024-01-11,East,ST-13,SP-47,Clothing,Casual Shirt,Partner,Consumer,42,4,178.38,6.8,788.95,397.01,391.94,49.68,93.46,6.3,Credit Card
+ORD-2023-00531,08/04/2023,West,ST-22,SP-05,Sports & Outdoors,Resistance Bands Set,Online,SMB,62,3,230.35,8.9,709.79,367.22,342.57,48.26,59.94,6.8,Debit Card
+ORD-2023-00532,2023-05-28,South,ST-10,SP-16,Sports & Outdoors,Yoga Mat Pro,Phone,Consumer,37,8,111.0,14.1,600.12,291.84,308.28,51.37,37.71,7.0,Bank Transfer
+ORD-2022-00533,2022-06-25,West,ST-19,SP-25,Clothing,Formal Blazer,Online,Enterprise,50,49,131.12,11.3,6918.31,2692.68,4225.63,61.08,612.43,6.7,Credit Card
+ORD-2024-00534,2024-02-21,South,ST-11,SP-49,Clothing,Sports Hoodie,Phone,Consumer,51,7,111.33,17.3,544.66,254.19,290.47,53.33,29.53,7.5,Credit Card
+ORD-2022-00535,2022-02-23,East,ST-15,SP-38,Electronics,Wireless Headphones,Online,Consumer,59,4,286.18,18.1,709.74,405.56,304.18,42.86,57.08,,Cash
+ORD-2024-00536,2024-06-29,North,ST-02,SP-03,Electronics,4K Monitor,In-Store,Consumer,63,5,571.22,10.6,2766.92,1776.35,990.57,35.8,87.14,8.7,Cash
+ORD-2024-00537,2024-08-19,South,ST-09,SP-19,Clothing,Winter Jacket,In-Store,Consumer,31,1,50.33,8.0,53.1,21.63,31.47,59.27,1.74,9.3,Credit Card
+ORD-2023-00538,2023-12-01,North,ST-04,SP-45,Home & Garden,LED Desk Lamp,In-Store,SMB,59,13,310.44,11.1,4723.45,2245.36,2478.09,52.46,150.65,6.5,Debit Card
+ORD-2024-00539,2024-07-19,West,ST-19,SP-32,Electronics,Laptop Pro,In-Store,Consumer,51,4,390.62,8.9,1330.66,905.67,424.99,31.94,63.28,8.0,Debit Card
+ORD-2024-00540,2024-03-30,North,ST-01,SP-24,Electronics,Bluetooth Speaker,Online,Enterprise,40,50,545.94,10.6,27441.76,18664.25,8777.51,31.99,1594.57,6.5,Credit Card
+ORD-2022-00541,2022-03-02,North,ST-03,SP-12,Electronics,4K Monitor,Phone,SMB,57,9,571.22,1.6,4961.39,3439.68,1521.71,30.67,371.03,9.1,Credit Card
+ORD-2024-00542,2024-02-16,East,ST-13,SP-22,Sports & Outdoors,Camping Tent,In-Store,SMB,45,19,125.54,21.6,1560.16,857.48,702.68,45.04,76.7,,Debit Card
+ORD-2022-00543,2022-05-14,North,ST-02,SP-13,Electronics,Gaming Mouse,In-Store,SMB,49,10,261.24,18.7,2188.48,1487.56,700.92,32.03,92.13,8.6,Bank Transfer
+ORD-2022-00544,2022-11-01,South,ST-07,SP-41,Home & Garden,Air Purifier,Phone,Consumer,53,2,97.51,14.6,167.14,90.65,76.49,45.76,10.72,7.0,Credit Card
+ORD-2022-00545,2022-12-09,East,ST-18,SP-49,Food & Beverage,Energy Drink Case,In-Store,SMB,67,18,13.54,13.1,227.18,85.02,142.16,62.58,7.82,5.5,Credit Card
+ORD-2022-00546,2022-03-16,North,ST-02,SP-29,Sports & Outdoors,Hiking Backpack,Online,SMB,46,14,80.92,5.7,1049.44,413.91,635.53,60.56,,9.0,Debit Card
+ORD-2023-00547,2023-08-28,East,ST-15,SP-15,Food & Beverage,Energy Drink Case,In-Store,SMB,50,16,13.54,7.2,209.28,78.4,130.88,62.54,7.23,8.8,Credit Card
+ORD-2023-00548,2023-06-28,East,ST-15,SP-06,Clothing,Sports Hoodie,In-Store,Consumer,39,2,111.33,3.9,178.45,76.81,101.64,56.96,7.34,7.6,Bank Transfer
+ORD-2023-00549,2023-11-15,North,ST-03,SP-17,Clothing,Formal Blazer,Phone,SMB,,20,131.12,18.4,2559.75,975.76,1583.99,61.88,135.11,8.9,Bank Transfer
+ORD-2024-00550,2024-04-07,West,ST-25,SP-38,Home & Garden,Robot Vacuum,In-Store,Consumer,31,4,115.68,5.3,418.04,223.59,194.45,46.51,16.47,5.5,Bank Transfer
+ORD-2024-00551,2024-11-22,East,ST-17,SP-49,Food & Beverage,Energy Drink Case,Online,Enterprise,34,36,13.54,5.1,613.28,225.38,387.9,63.25,50.78,6.3,Credit Card
+ORD-2022-00552,2022-09-20,South,ST-12,SP-01,Food & Beverage,Protein Bar Pack,Online,SMB,65,20,22.99,6.3,410.03,159.11,250.92,61.2,34.13,8.6,Cash
+ORD-2022-00553,2022-03-07,West,ST-20,SP-22,Food & Beverage,Gourmet Nuts Bundle,Partner,Consumer,47,4,27.14,19.9,55.77,17.26,38.51,69.05,5.2,6.9,Bank Transfer
+ORD-2024-00554,2024-07-13,East,ST-15,SP-06,Electronics,Smart Watch,Online,Consumer,53,4,323.54,2.9,1238.27,883.76,354.51,28.63,86.21,7.5,Credit Card
+ORD-2023-00555,2023-04-23,South,ST-11,SP-05,Food & Beverage,Protein Bar Pack,In-Store,SMB,48,6,22.99,4.0,128.39,147.65,-19.26,-15.0,5.88,5.4,Credit Card
+ORD-2023-00556,2023-02-27,North,ST-02,SP-20,Food & Beverage,Energy Drink Case,Online,Consumer,41,8,13.54,6.0,94.6,28.49,66.11,69.88,5.95,9.1,Debit Card
+ORD-2022-00557,2022-05-12,West,ST-23,SP-16,Food & Beverage,Gourmet Nuts Bundle,Partner,Consumer,58,2,27.14,6.1,39.88,17.23,22.65,56.8,3.88,6.9,Credit Card
+ORD-2023-00558,2023-09-02,South,ST-08,SP-27,Clothing,Sports Hoodie,Phone,Consumer,64,2,111.33,7.6,222.35,113.93,108.42,48.76,11.26,5.7,Credit Card
+ORD-2022-00559,2022-11-20,South,ST-12,SP-35,clothing,Winter Jacket,In-Store,Consumer,35,7,50.33,23.0,238.09,108.9,129.19,54.26,12.35,8.6,Bank Transfer
+ORD-2023-00560,2023-10-30,South,ST-08,SP-17,Electronics,Laptop Pro,In-Store,Enterprise,66,39,390.62,7.4,17030.47,11526.44,5504.03,32.32,826.63,7.8,Debit Card
+ORD-2024-00561,2024-03-23,North,ST-03,SP-08,Home & Garden,Air Purifier,Online,Consumer,53,2,97.51,10.0,,76.58,96.05,55.64,17.54,9.0,Credit Card
+ORD-2022-00562,2022-11-27,North,ST-01,SP-39,Electronics,4K Monitor,Online,Consumer,32,1,571.22,12.3,638.4,367.78,270.62,42.39,46.72,9.4,Credit Card
+ORD-2023-00563,2023-03-20,East,ST-18,SP-35,Electronics,Laptop Pro,Phone,Consumer,63,2,390.62,7.5,606.35,365.27,241.08,39.76,26.61,9.6,Debit Card
+ORD-2023-00564,2023-02-18,West,ST-21,SP-16,Electronics,Laptop Pro,In-Store,Consumer,43,2,390.62,5.3,614.63,430.23,184.4,30.0,28.97,7.5,Cash
+ORD-2022-00565,2022-12-10,West,ST-19,SP-27,Food & Beverage,Protein Bar Pack,Online,Consumer,61,7,22.99,19.5,169.05,53.78,115.27,68.19,11.2,7.5,Credit Card
+ORD-2024-00566,2024-04-03,East,ST-13,SP-25,Electronics,Tablet HD,Online,Consumer,63,1,758.83,,1093.83,642.25,451.58,41.28,77.09,7.9,Debit Card
+ORD-2024-00567,2024-10-20,West,ST-19,SP-46,Food & Beverage,Gourmet Nuts Bundle,Online,Consumer,60,7,27.14,12.3,259.73,115.8,143.93,55.42,23.19,6.9,Credit Card
+ORD-2023-00568,2023-10-14,West,ST-24,SP-31,Electronics,Laptop Pro,In-Store,Consumer,46,4,390.62,9.2,2041.05,1367.07,673.98,33.02,57.8,9.1,Debit Card
+ORD-2022-00569,2022-02-13,East,ST-13,SP-20,Clothing,Denim Jeans,Phone,Consumer,25,8,124.2,6.2,834.95,335.01,499.94,59.88,41.21,10.0,Credit Card
+ORD-2024-00570,2024-06-27,West,ST-21,SP-09,Clothing,Formal Blazer,Phone,Enterprise,48,28,131.12,13.8,3605.35,1485.63,2119.72,58.79,246.55,8.4,Debit Card
+ORD-2023-00571,2023-12-03,South,ST-11,SP-04,Sports & Outdoors,Foam Roller,Partner,Consumer,66,7,149.11,9.5,1156.14,475.41,680.73,58.88,124.62,8.9,Debit Card
+ORD-2023-00572,2023-01-30,North,ST-02,SP-14,Electronics,Smart Watch,In-Store,Consumer,35,2,323.54,8.1,557.73,351.04,206.69,37.06,17.81,8.1,Credit Card
+ORD-2023-00573,2023-02-09,South,ST-08,SP-39,Clothing,Casual Shirt,In-Store,Consumer,34,8,178.38,3.2,1433.24,739.78,693.46,48.38,53.83,8.0,Credit Card
+ORD-2024-00574,2024-10-31,East,ST-16,SP-49,Electronics,USB-C Hub,Online,SMB,27,12,623.93,10.8,8854.34,5099.89,3754.45,42.4,804.67,8.8,Cash
+ORD-2023-00575,2023-06-11,South,ST-09,SP-30,Clothing,Sports Hoodie,In-Store,Enterprise,30,22,111.33,4.4,1857.91,755.33,1102.58,59.35,52.59,5.4,Debit Card
+ORD-2024-00576,2024-10-03,South,ST-10,SP-26,Sports & Outdoors,Camping Tent,In-Store,SMB,59,4,125.54,23.1,465.89,186.9,278.99,59.88,23.47,13.6,Credit Card
+ORD-2022-00577,2022-11-29,North,ST-04,SP-17,Home & Garden,Garden Tool Kit,Online,Consumer,62,1,239.74,11.8,244.17,138.39,105.78,43.32,22.3,7.7,Debit Card
+ORD-2024-00578,2024-01-11,East,ST-18,SP-02,Home & Garden,Garden Tool Kit,Online,Consumer,65,4,239.74,10.9,963.46,550.44,413.02,42.87,92.87,8.0,Credit Card
+ORD-2022-00579,2022-01-26,North,ST-01,SP-42,Home & Garden,LED Desk Lamp,In-Store,Consumer,27,4,310.44,17.1,815.07,350.36,464.71,57.01,31.17,7.4,Debit Card
+ORD-2024-00580,2024-12-27,East,ST-16,SP-38,Clothing,Denim Jeans,Phone,Consumer,27,6,124.2,15.4,692.58,289.27,403.31,58.23,34.31,6.5,Credit Card
+ORD-2024-00581,2024-03-26,East,ST-13,SP-11,Home & Garden,Robot Vacuum,Online,Consumer,48,5,115.68,13.4,607.32,261.58,345.74,56.93,44.93,7.5,Debit Card
+ORD-2023-00582,2023-01-08,East,ST-13,SP-29,Food & Beverage,Premium Tea Set,Online,Enterprise,33,22,49.25,5.8,1242.2,540.78,701.42,56.47,93.94,6.7,Cash
+ORD-2022-00583,2022-08-12,West,ST-20,SP-06,Clothing,Denim Jeans,Online,Enterprise,23,40,124.2,9.0,3642.97,1772.21,1870.76,51.35,205.67,7.3,Debit Card
+ORD-2022-00584,2022-03-27,North,ST-05,SP-01,Clothing,Sports Hoodie,Partner,Consumer,53,6,111.33,10.9,455.58,194.59,260.99,57.29,50.53,10.0,Credit Card
+ORD-2023-00585,04/12/2023,West,ST-25,SP-16,Sports & Outdoors,Foam Roller,In-Store,Consumer,44,2,149.11,0.6,316.23,166.97,149.26,47.2,11.9,8.6,Bank Transfer
+ORD-2022-00586,2022-02-22,East,ST-17,SP-18,Sports & Outdoors,Resistance Bands Set,Online,Consumer,64,7,230.35,12.0,1700.94,647.26,1053.68,61.95,147.35,5.3,Bank Transfer
+ORD-2023-00587,2023-10-22,North,ST-03,SP-03,Sports & Outdoors,Foam Roller,Online,SMB,60,5,149.11,6.9,827.31,446.45,380.86,46.04,83.72,5.7,Debit Card
+ORD-2022-00588,2022-07-25,West,ST-21,SP-39,Electronics,Smart Watch,Partner,Consumer,,3,323.54,9.2,1022.59,577.56,445.03,43.52,122.65,7.8,Debit Card
+ORD-2024-00589,2024-08-14,North,ST-04,SP-08,Food & Beverage,Gourmet Nuts Bundle,Online,SMB,64,6,27.14,8.2,170.42,69.42,101.0,59.27,10.85,,Debit Card
+ORD-2023-00590,2023-07-29,South,ST-09,SP-43,Food & Beverage,Organic Coffee Box,In-Store,Consumer,62,0,52.46,14.9,95.09,33.27,61.82,65.01,3.17,6.7,Debit Card
+ORD-2022-00591,2022-05-13,East,ST-16,SP-46,Home & Garden,Garden Tool Kit,In-Store,Consumer,57,7,239.74,15.2,,691.2,878.85,55.98,48.32,8.2,Bank Transfer
+ORD-2023-00592,2023-01-21,West,ST-19,SP-37,Clothing,Casual Shirt,Partner,Consumer,22,4,178.38,16.3,638.81,330.38,308.43,48.28,56.97,8.1,Credit Card
+ORD-2024-00593,2024-01-18,West,ST-25,SP-09,Food & Beverage,Gourmet Nuts Bundle,InStore,Enterprise,22,39,27.14,6.5,1054.48,445.44,609.04,57.76,37.04,7.8,Debit Card
+ORD-2022-00594,2022-10-29,East,ST-14,SP-48,Home & Garden,Garden Tool Kit,Online,SMB,54,6,239.74,5.9,1830.89,1011.71,819.18,44.74,152.97,,Bank Transfer
+ORD-2023-00595,2023-03-18,East,ST-18,SP-25,Electronics,Bluetooth Speaker,Online,Consumer,68,4,545.94,12.8,2350.88,1313.99,1036.89,44.11,229.31,8.3,Bank Transfer
+ORD-2024-00596,2024-03-13,South,ST-12,SP-11,Sports & Outdoors,Trekking Poles,In-Store,SMB,52,15,76.72,7.6,1087.95,511.05,576.9,53.03,37.85,8.8,Bank Transfer
+ORD-2023-00597,2023-02-04,East,ST-17,SP-26,Electronics,Bluetooth Speaker,Phone,Consumer,25,5,545.94,8.5,2400.69,1387.19,1013.5,42.22,112.72,7.2,Cash
+ORD-2022-00598,2022-10-24,North,ST-06,SP-13,Home & Garden,Robot Vacuum,Online,Consumer,28,3,115.68,7.3,397.76,229.46,168.3,42.31,35.25,6.6,Debit Card
+ORD-2022-00599,2022-12-11,West,ST-19,SP-23,Sports & Outdoors,Resistance Bands Set,Partner,Enterprise,54,47,230.35,8.2,10461.64,4239.65,6221.99,59.47,1185.86,,Debit Card
+ORD-2024-00600,2024-03-23,East,ST-18,SP-39,Sports & Outdoors,Foam Roller,Phone,Consumer,64,8,149.11,16.8,1253.69,615.0,638.69,50.94,65.08,8.5,Debit Card
+ORD-2024-00601,2024-06-30,South,ST-07,SP-08,Electronics,USB-C Hub,In-Store,Consumer,36,8,623.93,5.9,50818.64,3275.19,1564.68,32.33,227.78,8.0,Credit Card
+ORD-2024-00602,2024-06-07,South,ST-08,SP-07,Clothing,Formal Blazer,Partner,Consumer,,1,131.12,7.6,130.66,64.6,66.06,50.56,15.29,8.8,Credit Card
+ORD-2024-00603,2024-12-21,East,ST-17,SP-38,Food & Beverage,Organic Coffee Box,Phone,SMB,64,8,52.46,16.7,384.05,155.26,228.79,59.57,16.2,6.9,Bank Transfer
+ORD-2022-00604,2022-03-22,North,ST-02,SP-42,Electronics,4K Monitor,Phone,Enterprise,29,33,571.22,20.9,11451.62,6632.46,4819.16,42.08,883.79,8.4,Debit Card
+ORD-2022-00605,2022-01-01,South,ST-07,SP-34,Sports & Outdoors,Camping Tent,In-Store,SMB,58,13,125.54,9.6,1075.52,588.98,486.54,45.24,39.2,6.8,Debit Card
+ORD-2022-00606,2022-07-22,East,ST-13,SP-16,Electronics,Smart Watch,Online,Consumer,30,4,323.54,10.7,1061.88,634.11,427.77,40.28,96.63,,Debit Card
+ORD-2024-00607,2024-05-14,North,ST-03,SP-17,Clothing,Running Shoes,In-Store,Enterprise,38,19,83.82,9.8,1658.93,646.78,1012.15,61.01,75.62,9.4,Debit Card
+ORD-2023-00608,2023-01-30,East,ST-17,SP-43,Home & Garden,Throw Pillow Set,In-Store,SMB,31,16,130.7,7.4,2047.01,1174.01,873.0,42.65,69.48,7.4,Credit Card
+ORD-2023-00609,2023-07-08,North,ST-01,SP-44,Food & Beverage,Organic Coffee Box,Online,Enterprise,43,19,52.46,16.9,10955.28,348.34,695.02,66.61,58.92,5.6,Cash
+ORD-2024-00610,2024-02-15,West,ST-25,SP-08,Electronics,4K Monitor,In-Store,Consumer,28,5,571.22,10.0,2713.01,1772.33,940.68,34.67,134.34,9.8,Debit Card
+ORD-2022-00611,2022-12-16,South,ST-10,SP-12,Clothing,Formal Blazer,In-Store,Consumer,57,7,131.12,8.8,1063.92,423.29,640.63,60.21,30.03,6.9,Debit Card
+ORD-2022-00612,2022-09-16,North,ST-05,SP-48,Clothing,Formal Blazer,In-Store,SMB,37,16,131.12,12.9,1923.15,780.1,1143.05,59.44,99.37,,Debit Card
+ORD-2024-00613,2024-08-17,East,ST-15,SP-28,Food & Beverage,Premium Tea Set,Online,Consumer,41,6,49.25,16.2,348.97,137.91,211.06,60.48,20.83,7.9,Credit Card
+ORD-2022-00614,2022-04-28,North,ST-03,SP-36,Sports & Outdoors,Yoga Mat Pro,Partner,SMB,54,7,111.0,8.9,,331.88,377.95,53.25,92.19,8.1,Bank Transfer
+ORD-2024-00615,2024-12-26,East,ST-16,SP-01,Home & Garden,Garden Tool Kit,Online,SMB,56,10,239.74,23.3,2676.73,1389.25,1287.48,48.1,268.16,10.0,Cash
+ORD-2022-00616,2022-03-28,East,ST-14,SP-44,Sports & Outdoors,Trekking Poles,Partner,SMB,45,19,76.72,7.0,1376.69,535.06,841.63,61.13,137.3,7.5,Cash
+ORD-2022-00617,2022-12-16,South,ST-07,SP-22,Sports & Outdoors,Resistance Bands Set,Phone,Consumer,29,8,230.35,,1301.02,541.51,759.51,58.38,89.21,6.7,Credit Card
+ORD-2023-00618,2023-09-17,West,ST-24,SP-33,Sports & Outdoors,Yoga Mat Pro,Partner,Consumer,53,1,111.0,11.1,65.57,28.58,36.99,56.41,5.98,7.3,Credit Card
+ORD-2022-00619,2022-01-11,South,ST-12,SP-12,Clothing,Winter Jacket,Online,Consumer,27,3,50.33,,141.93,72.08,69.85,49.21,8.0,7.6,Debit Card
+ORD-2024-00620,2024-08-21,South,ST-09,SP-24,Food & Beverage,Premium Tea Set,In-Store,SMB,50,17,49.25,4.5,990.51,349.71,640.8,64.69,38.05,6.5,Debit Card
+ORD-2024-00621,2024-01-06,West,ST-24,SP-13,Electronics,4K Monitor,Online,SMB,43,8,571.22,12.1,5129.68,3648.35,1481.33,28.88,523.56,8.3,Bank Transfer
+ORD-2024-00622,2024-09-28,East,ST-18,SP-46,Electronics,Gaming Mouse,In-Store,Consumer,46,2,261.24,14.8,619.73,354.14,265.59,42.86,22.47,7.7,Credit Card
+ORD-2022-00623,2022-01-28,West,ST-20,SP-04,Home & Garden,Coffee Maker,In-Store,Consumer,22,5,331.73,6.1,1620.95,672.48,948.47,58.51,62.07,6.0,Credit Card
+ORD-2023-00624,2023-01-18,South,ST-07,SP-17,Sports & Outdoors,Resistance Bands Set,In-Store,SMB,52,6,230.35,12.8,,527.33,605.74,53.46,36.65,6.4,Debit Card
+ORD-2022-00625,2022-11-01,South,ST-08,SP-26,Electronics,Tablet HD,Partner,SMB,61,4,758.83,7.4,2656.28,1698.01,958.27,36.08,297.53,8.3,Credit Card
+ORD-2024-00626,2024-05-22,East,ST-17,SP-28,Home & Garden,Coffee Maker,Online,SMB,44,10,331.73,6.6,4152.3,1696.46,2455.84,59.14,240.68,7.4,Debit Card
+ORD-2022-00627,2022-04-17,East,ST-15,SP-14,Clothing,Casual Shirt,Partner,Enterprise,33,41,178.38,7.2,6753.29,2854.01,3899.28,57.74,511.99,9.0,Credit Card
+ORD-2022-00628,2022-09-24,South,ST-12,SP-24,Home & Garden,Throw Pillow Set,in-store,SMB,63,15,130.7,3.3,1957.09,820.31,1136.78,58.09,84.37,7.5,Credit Card
+ORD-2022-00629,2022-09-04,North,ST-06,SP-13,Electronics,USB-C Hub,Partner,Enterprise,56,29,623.93,13.3,15977.98,11476.02,4501.96,28.18,1312.11,7.7,Debit Card
+ORD-2023-00630,2023-01-28,South,ST-12,SP-17,Sports & Outdoors,Trekking Poles,Partner,Consumer,50,2,76.72,18.3,110.79,43.38,67.41,60.84,10.54,7.6,Debit Card
+ORD-2024-00631,2024-10-28,West,ST-20,SP-39,Clothing,Running Shoes,Online,Consumer,25,4,83.82,13.6,489.62,213.3,276.32,56.44,43.51,9.9,Cash
+ORD-2022-00632,2022-12-05,South,ST-11,SP-25,Food & Beverage,Energy Drink Case,In-Store,SMB,33,9,13.54,10.7,132.34,39.88,92.46,69.87,6.65,5.3,Credit Card
+ORD-2024-00633,2024-11-16,East,ST-18,SP-47,Food & Beverage,Protein Bar Pack,Phone,SMB,39,8,22.99,5.3,273.81,104.06,169.75,62.0,14.38,5.6,Debit Card
+ORD-2023-00634,2023-07-23,West,ST-21,SP-04,Home & Garden,Air Purifier,Partner,SMB,29,14,97.51,11.4,1508.68,867.49,641.19,42.5,134.99,5.5,Credit Card
+ORD-2023-00635,2023-06-25,West,ST-22,SP-40,Clothing,Winter Jacket,In-Store,Enterprise,44,27,50.33,4.7,1189.16,613.64,575.52,48.4,48.63,9.5,Credit Card
+ORD-2022-00636,2022-08-06,West,ST-24,SP-25,Sports & Outdoors,Camping Tent,Partner,Consumer,57,8,125.54,5.3,1108.03,471.68,636.35,57.43,116.23,7.1,Credit Card
+ORD-2024-00637,2024-03-20,North,ST-02,SP-47,Home & Garden,Coffee Maker,Online,Consumer,53,3,331.73,15.4,971.74,419.5,552.24,56.83,80.99,8.5,Credit Card
+ORD-2023-00638,2023-08-01,North,ST-02,SP-12,Home & Garden,Garden Tool Kit,In-Store,Enterprise,26,39,239.74,18.3,9847.55,5659.09,4188.46,42.53,299.42,,Credit Card
+ORD-2024-00639,2024-12-14,North,ST-01,SP-39,Electronics,Gaming Mouse,Online,Consumer,63,3,261.24,5.6,1131.37,638.33,493.04,43.58,71.1,,Bank Transfer
+ORD-2022-00640,2022-01-20,West,ST-19,SP-35,Home & Garden,Coffee Maker,Phone,Enterprise,30,46,331.73,17.7,,5140.06,4260.48,45.32,498.85,7.8,Debit Card
+ORD-2024-00641,2024-09-07,North,ST-01,SP-35,Home & Garden,Garden Tool Kit,In-Store,Enterprise,24,28,239.74,3.6,6284.16,3516.38,2767.78,44.04,238.59,8.2,Credit Card
+ORD-2023-00642,2023-04-10,South,ST-08,SP-23,Home & Garden,Air Purifier,Partner,Consumer,65,2,97.51,9.1,156.06,90.26,65.8,42.16,13.03,7.6,Bank Transfer
+ORD-2023-00643,2023-08-01,South,ST-11,SP-22,Electronics,Wireless Headphones,Partner,Consumer,33,6,286.18,10.9,1108.0,737.38,370.62,33.45,87.55,7.1,Credit Card
+ORD-2023-00644,2023-08-11,South,ST-07,SP-18,Sports & Outdoors,Foam Roller,Online,SMB,67,3,149.11,16.7,495.0,270.4,224.6,45.37,46.2,7.0,Cash
+ORD-2022-00645,2022-10-28,South,ST-10,SP-29,Home & Garden,LED Desk Lamp,Phone,Enterprise,49,27,310.44,4.3,9328.31,4273.76,5054.55,54.19,434.62,7.5,Bank Transfer
+ORD-2024-00646,2024-10-09,South,ST-12,SP-27,Home & Garden,Garden Tool Kit,Online,Consumer,63,7,239.74,8.0,2141.37,1048.15,1093.22,51.05,174.78,6.4,Bank Transfer
+ORD-2024-00647,2024-12-26,East,ST-14,SP-25,Electronics,Gaming Mouse,In-Store,Consumer,36,0,261.24,7.1,1629.94,952.79,677.15,41.54,78.91,6.6,Debit Card
+ORD-2022-00648,2022-10-01,West,ST-19,SP-23,Clothing,Running Shoes,Online,Enterprise,57,36,83.82,5.5,3288.99,1630.99,1658.0,50.41,193.0,8.5,Bank Transfer
+ORD-2022-00649,2022-10-10,North,ST-06,SP-46,Electronics,Laptop Pro,In-Store,SMB,25,5,390.62,8.8,2032.57,1323.14,709.43,34.9,64.63,8.0,Debit Card
+ORD-2023-00650,2023-05-17,North,ST-05,SP-27,Electronics,Smart Watch,In-Store,Enterprise,55,29,323.54,8.7,9271.92,6238.47,3033.45,32.72,358.41,8.1,Debit Card
+ORD-2022-00651,2022-01-28,South,ST-08,SP-04,Sports & Outdoors,Yoga Mat Pro,In-Store,SMB,32,16,111.0,12.3,1435.77,759.4,676.37,47.11,59.3,9.0,Credit Card
+ORD-2024-00652,2024-10-24,South,ST-08,SP-28,Sports & Outdoors,Camping Tent,Partner,Consumer,30,7,125.54,11.2,966.38,403.19,563.19,58.28,78.3,5.3,Cash
+ORD-2022-00653,2022-06-08,West,ST-22,SP-31,Clothing,Formal Blazer,In-Store,SMB,25,16,131.12,4.9,2239.88,885.15,1354.73,60.48,66.9,5.5,Cash
+ORD-2022-00654,2022-02-27,South,ST-08,SP-35,Electronics,Tablet HD,In-Store,Consumer,41,4,758.83,11.6,1833.96,1018.77,815.19,44.45,63.2,6.3,Credit Card
+ORD-2022-00655,2022-04-02,East,ST-16,SP-03,Electronics,Wireless Headphones,Partner,Enterprise,44,35,286.18,9.2,8695.33,5247.29,3448.04,39.65,812.48,7.2,Cash
+ORD-2022-00656,2022-07-19,South,ST-12,SP-33,Electronics,Smart Watch,Online,Consumer,52,1,323.54,6.2,177.91,102.43,75.48,42.43,13.92,7.9,Debit Card
+ORD-2022-00657,2022-07-11,West,ST-20,SP-14,Home & Garden,Garden Tool Kit,Online,Consumer,54,6,239.74,8.4,1482.41,627.97,854.44,57.64,103.71,5.5,Debit Card
+ORD-2022-00658,2022-03-23,West,ST-25,SP-44,Clothing,Running Shoes,Partner,Consumer,31,8,83.82,3.5,644.86,246.4,398.46,61.79,74.79,5.3,Debit Card
+ORD-2023-00659,2023-09-26,East,ST-13,SP-32,Electronics,Bluetooth Speaker,Online,SMB,26,14,545.94,7.0,6393.44,3593.71,2799.73,43.79,576.12,4.1,Credit Card
+ORD-2023-00660,2023-06-09,West,ST-22,SP-42,Sports & Outdoors,Yoga Mat Pro,Partner,Consumer,45,7,111.0,7.8,714.54,346.8,367.74,51.47,79.2,8.4,Cash
+ORD-2024-00661,2024-06-21,South,ST-11,SP-21,Clothing,Formal Blazer,In-Store,Consumer,65,1,131.12,,134.37,55.67,78.7,58.57,6.41,10.0,Credit Card
+ORD-2023-00662,2023-08-19,South,ST-11,SP-26,Sports & Outdoors,Resistance Bands Set,In-Store,Consumer,27,8,230.35,11.6,1626.21,866.8,759.41,46.7,63.68,7.8,Credit Card
+ORD-2022-00663,2022-06-25,North,ST-01,SP-26,Home & Garden,Air Purifier,In-Store,Enterprise,43,41,97.51,5.2,3341.23,1782.32,1558.91,46.66,102.72,,Bank Transfer
+ORD-2024-00664,2024-08-20,North,ST-02,SP-21,Food & Beverage,Gourmet Nuts Bundle,Phone,Enterprise,45,40,27.14,5.2,1271.9,421.92,849.98,66.83,54.47,7.8,Cash
+ORD-2024-00665,2024-05-16,South,ST-12,SP-12,Electronics,Wireless Headphones,Online,Enterprise,67,36,286.18,9.6,12559.37,8337.41,4221.96,33.62,859.73,7.8,Credit Card
+ORD-2024-00666,2024-05-27,South,ST-09,SP-11,Electronics,Gaming Mouse,In-Store,Consumer,32,7,261.24,7.0,1917.99,1280.82,637.17,33.22,71.62,,Bank Transfer
+ORD-2022-00667,2022-01-21,East,ST-17,SP-13,Electronics,Smart Watch,Online,Consumer,68,6,323.54,1.3,2077.87,1459.51,618.36,29.76,209.5,6.2,Cash
+ORD-2024-00668,2024-04-12,South,ST-12,SP-01,Sports & Outdoors,Resistance Bands Set,In-Store,Consumer,59,4,230.35,13.7,838.46,345.36,493.1,58.81,37.49,7.8,Credit Card
+ORD-2022-00669,2022-12-07,East,ST-14,SP-23,Electronics,Tablet HD,Partner,Consumer,22,6,758.83,1.4,4815.46,3382.53,1432.93,29.76,482.15,8.5,Credit Card
+ORD-2024-00670,2024-07-22,South,ST-09,SP-23,Sports & Outdoors,Hiking Backpack,In-Store,Consumer,29,8,80.92,8.1,639.15,262.1,377.05,58.99,27.02,,Bank Transfer
+ORD-2024-00671,2024-06-11,South,ST-12,SP-45,Home & Garden,Garden Tool Kit,Online,Consumer,28,2,239.74,3.3,576.38,232.26,344.12,59.7,58.08,8.9,Bank Transfer
+ORD-2022-00672,2022-07-24,East,ST-17,SP-38,Home & Garden,Garden Tool Kit,Online,SMB,36,20,239.74,7.4,3895.94,1695.52,2200.42,56.48,305.99,8.7,Cash
+ORD-2022-00673,2022-09-12,South,ST-10,SP-27,Sports & Outdoors,Foam Roller,Phone,Consumer,22,4,149.11,9.3,531.51,226.15,305.36,57.45,34.93,6.7,Bank Transfer
+ORD-2024-00674,2024-04-29,East,ST-13,SP-27,Electronics,Laptop Pro,Online,SMB,55,13,390.62,6.8,6482.95,4622.71,1860.24,28.69,672.0,9.9,Cash
+ORD-2023-00675,2023-05-11,East,ST-16,SP-13,Home & Garden,LED Desk Lamp,Phone,Consumer,58,7,310.44,21.6,2109.74,909.87,1199.87,56.87,157.28,6.8,Credit Card
+ORD-2022-00676,2022-07-23,East,ST-14,SP-33,Electronics,Gaming Mouse,Phone,Consumer,38,3,261.24,19.9,398.75,233.13,165.62,41.53,18.09,7.9,Cash
+ORD-2024-00677,2024-06-14,North,ST-05,SP-10,Electronics,Wireless Headphones,In-Store,Enterprise,68,39,286.18,11.5,11150.38,7606.68,3543.7,31.78,362.13,7.2,Credit Card
+ORD-2023-00678,2023-02-01,East,ST-14,SP-47,Home & Garden,LED Desk Lamp,Phone,Consumer,39,3,310.44,11.4,926.0,476.81,449.19,48.51,58.21,7.0,Credit Card
+ORD-2022-00679,2022-07-31,North,ST-05,SP-08,Electronics,4K Monitor,Online,SMB,26,14,571.22,,6199.61,3628.97,2570.64,41.46,377.14,8.3,Debit Card
+ORD-2024-00680,2024-09-23,West,ST-19,SP-14,Home & Garden,LED Desk Lamp,Partner,Consumer,50,3,310.44,6.3,1075.2,604.97,470.23,43.73,117.82,6.3,Cash
+ORD-2022-00681,2022-03-06,North,ST-03,SP-23,Food & Beverage,Gourmet Nuts Bundle,In-Store,Enterprise,55,17,27.14,,346.2,105.39,240.81,69.56,9.89,,Cash
+ORD-2024-00682,2024-01-18,North,ST-02,SP-02,Clothing,Running Shoes,Online,Consumer,30,8,83.82,5.0,637.76,250.56,387.2,60.71,57.39,7.3,Credit Card
+ORD-2023-00683,2023-08-26,East,ST-16,SP-28,Food & Beverage,Energy Drink Case,Partner,SMB,34,11,13.54,20.6,139.42,43.98,95.44,68.46,16.39,7.4,Debit Card
+ORD-2023-00684,2023-02-26,West,ST-22,SP-28,Sports & Outdoors,Hiking Backpack,In-Store,SMB,42,15,80.92,8.1,1184.43,564.28,620.15,52.36,43.79,7.1,Debit Card
+ORD-2022-00685,2022-05-12,East,ST-13,SP-33,Clothing,Denim Jeans,Online,Consumer,63,6,124.2,7.7,441.18,174.73,266.45,60.39,41.84,6.8,Bank Transfer
+ORD-2023-00686,2023-05-18,North,ST-06,SP-24,Clothing,Casual Shirt,online,SMB,22,9,178.38,8.7,1665.4,818.27,847.13,50.87,165.11,7.9,Debit Card
+ORD-2022-00687,2022-05-16,South,ST-11,SP-14,Food & Beverage,Organic Coffee Box,In-Store,Consumer,64,7,52.46,12.4,295.96,108.11,187.85,63.47,14.06,7.8,Credit Card
+ORD-2024-00688,2024-10-08,East,ST-15,SP-27,Electronics,USB-C Hub,Online,SMB,46,3,623.93,6.1,,1849.49,955.22,34.06,272.32,7.8,Credit Card
+ORD-2022-00689,2022-01-10,West,ST-21,SP-09,Sports & Outdoors,Hiking Backpack,Online,Consumer,55,1,80.92,,71.86,28.47,43.39,60.38,6.79,7.2,Credit Card
+ORD-2023-00690,2023-12-10,South,ST-11,SP-50,Clothing,Sports Hoodie,Online,SMB,51,6,111.33,16.1,581.13,297.12,284.01,48.87,35.41,6.9,Debit Card
+ORD-2023-00691,2023-04-04,North,ST-01,SP-09,Electronics,Bluetooth Speaker,Partner,Consumer,36,4,545.94,13.3,1733.56,1192.84,540.72,31.19,206.24,7.6,Credit Card
+ORD-2022-00692,2022-04-18,South,ST-07,SP-08,Electronics,4K Monitor,Online,SMB,61,15,571.22,5.9,7131.13,4128.62,3002.51,42.1,446.5,7.4,Cash
+ORD-2024-00693,2024-08-01,North,ST-03,SP-10,Home & Garden,LED Desk Lamp,In-Store,Consumer,55,8,310.44,12.0,2594.31,1493.66,1100.65,42.43,92.68,7.6,Debit Card
+ORD-2023-00694,2023-06-25,West,ST-24,SP-06,Clothing,Running Shoes,In-Store,Consumer,35,2,83.82,21.2,108.11,41.99,66.12,61.16,3.06,7.2,Debit Card
+ORD-2023-00695,2023-03-19,East,ST-16,SP-13,Food & Beverage,Protein Bar Pack,Online,Consumer,55,6,22.99,14.1,141.35,49.02,92.33,65.32,11.0,8.6,Debit Card
+ORD-2022-00696,2022-09-24,North,ST-03,SP-25,Sports & Outdoors,Trekking Poles,In-Store,Consumer,34,7,76.72,4.5,575.1,248.57,326.53,56.78,28.11,,Credit Card
+ORD-2022-00697,2022-07-29,North,ST-01,SP-48,Electronics,Laptop Pro,Partner,SMB,23,19,390.62,8.5,6718.34,3998.41,2719.93,40.49,843.93,8.6,Credit Card
+ORD-2022-00698,2022-11-05,South,ST-10,SP-33,Clothing,Denim Jeans,Online,Enterprise,63,37,124.2,4.9,2838.27,1153.82,1684.45,59.35,183.01,8.0,Credit Card
+ORD-2023-00699,2023-07-20,East,ST-16,SP-34,Food & Beverage,Organic Coffee Box,In-Store,Consumer,36,1,52.46,10.4,50.27,16.88,33.39,66.42,2.05,7.2,Credit Card
+ORD-2024-00700,2024-04-08,South,ST-07,SP-15,Home & Garden,Garden Tool Kit,Online,SMB,35,12,239.74,12.9,2422.61,1094.62,1327.99,54.82,136.03,10.0,Credit Card
+ORD-2023-00701,2023-01-15,East,ST-18,SP-40,Food & Beverage,Protein Bar Pack,Phone,Consumer,32,2,22.99,4.6,36.12,12.64,23.48,65.01,2.11,9.1,Credit Card
+ORD-2024-00702,2024-05-26,South,ST-08,SP-17,Sports & Outdoors,Resistance Bands Set,In-Store,Consumer,60,8,230.35,10.6,1862.49,862.36,1000.13,53.7,63.21,7.2,Credit Card
+ORD-2022-00703,2022-08-13,North,ST-01,SP-37,Home & Garden,Coffee Maker,Phone,Consumer,32,2,331.73,3.5,673.73,366.98,306.75,45.53,36.44,6.2,Cash
+ORD-2023-00704,2023-06-12,East,ST-15,SP-24,Food & Beverage,Protein Bar Pack,Online,SMB,55,18,22.99,3.8,509.46,205.24,304.22,59.71,46.34,7.4,Cash
+ORD-2022-00705,2022-02-12,North,ST-04,SP-15,Home & Garden,Air Purifier,Online,Enterprise,58,37,97.51,7.1,2502.54,1336.32,1166.22,46.6,163.43,9.1,Cash
+ORD-2023-00706,2023-07-15,West,ST-24,SP-35,Sports & Outdoors,Hiking Backpack,Partner,Consumer,33,6,80.92,17.5,370.46,165.4,205.06,55.35,35.21,7.4,Credit Card
+ORD-2023-00707,2023-07-20,South,ST-07,SP-38,Food & Beverage,Protein Bar Pack,Phone,Enterprise,,32,22.99,6.1,545.77,243.1,302.67,55.46,32.73,6.9,Debit Card
+ORD-2022-00708,2022-11-04,East,ST-15,SP-40,Food & Beverage,Premium Tea Set,Online,SMB,40,4,49.25,5.2,190.62,80.79,109.83,57.62,11.8,6.2,Credit Card
+ORD-2024-00709,2024-09-27,South,ST-10,SP-23,Home & Garden,Robot Vacuum,Online,Enterprise,40,42,115.68,12.1,4725.78,2544.36,2181.42,46.16,299.81,8.5,Cash
+ORD-2023-00710,07/02/2023,South,ST-07,SP-19,Electronics,USB-C Hub,Partner,SMB,65,16,623.93,7.7,7855.76,5528.16,2327.6,29.63,970.83,8.0,Debit Card
+ORD-2023-00711,2023-09-11,East,ST-14,SP-37,Food & Beverage,Protein Bar Pack,Phone,Enterprise,34,36,22.99,10.1,970.06,334.83,635.23,65.48,43.73,6.1,Credit Card
+ORD-2023-00712,2023-01-11,South,ST-10,SP-07,Electronics,USB-C Hub,In-Store,Consumer,65,8,623.93,7.0,4428.92,2787.18,1641.74,37.07,226.21,6.8,Debit Card
+ORD-2024-00713,2024-08-02,North,ST-05,SP-02,Sports & Outdoors,Hiking Backpack,Online,Enterprise,41,47,80.92,9.4,,1605.93,2392.53,59.84,328.18,6.7,Cash
+ORD-2024-00714,2024-03-15,North,ST-06,SP-01,Food & Beverage,Gourmet Nuts Bundle,In-Store,Enterprise,25,16,27.14,6.7,395.9,124.55,271.35,68.54,13.85,7.1,Credit Card
+ORD-2024-00715,2024-09-13,East,ST-13,SP-08,Home & Garden,Garden Tool Kit,In-Store,Consumer,66,3,239.74,10.2,805.17,462.26,342.91,42.59,25.18,9.0,Credit Card
+ORD-2022-00716,2022-11-13,South,ST-09,SP-47,Sports & Outdoors,Yoga Mat Pro,Phone,Consumer,34,1,111.0,4.4,,63.99,56.84,47.04,7.34,6.3,Credit Card
+ORD-2023-00717,2023-05-22,North,ST-04,SP-02,Sports & Outdoors,Hiking Backpack,in-store,Consumer,41,3,80.92,15.5,201.46,105.38,96.08,47.69,8.28,8.6,Credit Card
+ORD-2022-00718,2022-09-10,South,ST-12,SP-02,Electronics,Tablet HD,Online,Consumer,56,8,758.83,6.2,5390.47,3576.47,1814.0,33.65,550.02,,Credit Card
+ORD-2024-00719,2024-10-06,South,ST-09,SP-26,Clothing,Winter Jacket,In-Store,Consumer,31,8,50.33,3.9,466.82,202.84,263.98,56.55,19.58,9.1,Credit Card
+ORD-2024-00720,2024-06-29,North,ST-03,SP-09,Food & Beverage,Energy Drink Case,Online,Consumer,44,4,13.54,7.0,55.13,22.38,32.75,59.41,,7.8,Debit Card
+ORD-2022-00721,2022-05-09,North,ST-02,SP-23,Home & Garden,Throw Pillow Set,Online,Consumer,30,5,130.7,18.8,475.35,195.98,279.37,58.77,45.77,4.9,Credit Card
+ORD-2023-00722,2023-01-05,East,ST-17,SP-50,Home & Garden,Coffee Maker,Online,SMB,59,15,331.73,2.9,4488.97,1819.44,2669.53,59.47,409.3,7.6,Credit Card
+ORD-2023-00723,2023-04-20,North,ST-01,SP-32,Sports & Outdoors,Hiking Backpack,Online,SMB,68,6,80.92,17.9,302.72,123.99,178.73,59.04,29.92,8.0,Cash
+ORD-2022-00724,2022-05-12,North,ST-03,SP-08,electronics,Wireless Headphones,In-Store,SMB,62,8,286.18,6.6,1875.66,1254.41,621.25,33.12,69.52,6.2,Cash
+ORD-2023-00725,2023-02-14,North,ST-04,SP-29,Home & Garden,Air Purifier,Online,SMB,55,9,97.51,3.3,917.0,370.8,546.2,59.56,93.6,7.6,Cash
+ORD-2022-00726,2022-10-15,West,ST-21,SP-50,Clothing,Sports Hoodie,Partner,SMB,65,19,111.33,9.1,1867.58,927.32,940.26,50.35,194.64,7.7,Debit Card
+ORD-2024-00727,2024-08-28,East,ST-15,SP-40,Sports & Outdoors,Resistance Bands Set,Phone,SMB,62,5,230.35,10.3,1075.7,432.03,643.67,59.84,65.21,8.7,Credit Card
+ORD-2022-00728,2022-04-16,East,ST-15,SP-02,Clothing,Casual Shirt,Partner,SMB,67,8,178.38,21.0,1065.65,416.1,649.55,60.95,111.38,8.9,Credit Card
+ORD-2024-00729,2024-11-26,West,ST-23,SP-20,Clothing,Winter Jacket,In-Store,Consumer,59,5,50.33,11.8,309.97,119.19,190.78,61.55,11.81,8.4,Credit Card
+ORD-2022-00730,2022-05-02,North,ST-05,SP-47,Clothing,Formal Blazer,Partner,Enterprise,53,46,131.12,18.1,4779.51,2286.67,2492.84,52.16,554.11,10.0,Credit Card
+ORD-2022-00731,2022-03-14,South,ST-07,SP-27,Food & Beverage,Gourmet Nuts Bundle,Partner,Consumer,52,5,27.14,13.2,96.76,30.54,66.22,68.44,9.66,7.9,Bank Transfer
+ORD-2024-00732,2024-09-05,South,ST-08,SP-02,Sports & Outdoors,Yoga Mat Pro,Phone,Consumer,56,7,111.0,12.4,728.17,368.05,360.12,49.46,45.07,8.8,Debit Card
+ORD-2022-00733,2022-04-17,South,ST-10,SP-45,Electronics,Gaming Mouse,In-Store,Enterprise,29,33,261.24,,8063.67,4905.38,3158.29,39.17,403.45,7.5,Bank Transfer
+ORD-2022-00734,2022-01-21,South,ST-12,SP-49,Sports & Outdoors,Trekking Poles,In-Store,Consumer,22,4,76.72,15.3,188.72,74.17,114.55,60.7,5.86,8.3,Bank Transfer
+ORD-2023-00735,2023-01-05,South,ST-09,SP-23,Home & Garden,Air Purifier,Partner,Enterprise,47,17,97.51,11.9,1166.37,482.58,683.79,58.63,,8.2,Credit Card
+ORD-2024-00736,2024-01-02,West,ST-25,SP-15,Food & Beverage,Protein Bar Pack,Partner,Consumer,40,4,22.99,9.6,75.13,25.55,49.58,65.99,8.4,9.4,Bank Transfer
+ORD-2024-00737,2024-10-28,North,ST-03,SP-27,Home & Garden,Throw Pillow Set,In-Store,Enterprise,30,43,130.7,5.4,7313.13,3901.87,3411.26,46.65,241.76,5.9,Cash
+ORD-2022-00738,2022-10-18,North,ST-02,SP-45,Food & Beverage,Energy Drink Case,Partner,Enterprise,24,47,13.54,7.5,662.26,280.85,381.41,57.59,49.72,9.1,Credit Card
+ORD-2023-00739,2023-07-26,West,ST-22,SP-32,Electronics,Gaming Mouse,In-Store,Enterprise,35,37,261.24,9.7,7479.57,4953.48,2526.09,33.77,215.05,7.8,Credit Card
+ORD-2023-00740,2023-11-20,West,ST-21,SP-49,Food & Beverage,Organic Coffee Box,Online,Consumer,49,1,52.46,15.2,53.05,20.32,32.73,61.7,5.4,5.0,Bank Transfer
+ORD-2023-00741,2023-08-12,West,ST-23,SP-30,Food & Beverage,Gourmet Nuts Bundle,Phone,SMB,46,10,27.14,4.1,237.83,71.89,165.94,69.77,16.83,,Credit Card
+ORD-2023-00742,2023-05-27,West,ST-21,SP-22,Food & Beverage,Organic Coffee Box,In-Store,SMB,64,3,52.46,3.9,125.11,48.2,76.91,61.47,4.47,7.2,Credit Card
+ORD-2023-00743,2023-06-26,West,ST-22,SP-30,Electronics,Laptop Pro,In-Store,Consumer,52,4,390.62,7.8,1290.57,836.97,453.6,35.15,38.6,8.7,Debit Card
+ORD-2022-00744,2022-05-12,East,ST-15,SP-50,Home & Garden,Coffee Maker,Partner,Enterprise,62,49,331.73,11.9,12167.32,5376.51,6790.81,55.81,1329.6,6.8,Credit Card
+ORD-2023-00745,2023-01-13,East,ST-16,SP-38,Clothing,Sports Hoodie,Phone,Enterprise,67,26,111.33,1.4,2238.22,1115.28,1122.94,50.17,162.45,6.9,Bank Transfer
+ORD-2023-00746,2023-04-26,South,ST-07,SP-33,Food & Beverage,Gourmet Nuts Bundle,Online,SMB,58,16,27.14,3.0,258.31,94.02,164.29,63.6,17.98,,Credit Card
+ORD-2022-00747,2022-02-20,South,ST-09,SP-22,Sports & Outdoors,Foam Roller,Online,Consumer,40,3,149.11,,258.37,110.96,147.41,57.05,16.33,7.0,Debit Card
+ORD-2023-00748,2023-03-10,West,ST-23,SP-46,Home & Garden,Throw Pillow Set,Phone,Consumer,35,1,130.7,11.9,120.67,51.53,69.14,57.3,8.38,7.4,Credit Card
+ORD-2022-00749,2022-06-10,West,ST-20,SP-37,Food & Beverage,Gourmet Nuts Bundle,In-Store,Consumer,56,1,27.14,,27.54,10.99,16.55,60.09,1.12,7.3,Debit Card
+ORD-2023-00750,2023-08-24,West,ST-21,SP-16,Home & Garden,Coffee Maker,Online,SMB,29,17,331.73,13.4,4843.78,2704.96,2138.82,44.16,355.39,8.5,Debit Card
+ORD-2023-00751,2023-12-22,East,ST-13,SP-24,Home & Garden,Throw Pillow Set,Online,Consumer,36,3,130.7,18.9,474.07,210.53,263.54,55.59,47.24,7.1,Debit Card
+ORD-2023-00752,2023-06-18,West,ST-21,SP-21,Electronics,Gaming Mouse,In-Store,Consumer,58,4,261.24,17.9,1053.16,736.15,317.01,30.1,29.88,6.3,Debit Card
+ORD-2022-00753,2022-09-05,South,ST-11,SP-46,Sports & Outdoors,Foam Roller,Online,Consumer,,3,149.11,22.8,358.67,144.37,214.3,59.75,35.01,10.0,Credit Card
+ORD-2023-00754,2023-12-27,North,ST-06,SP-36,Clothing,Casual Shirt,Online,Consumer,43,2,178.38,23.3,385.29,148.85,236.44,61.37,35.24,6.9,Debit Card
+ORD-2023-00755,2023-12-28,West,ST-22,SP-41,Food & Beverage,Energy Drink Case,Online,Consumer,30,2,13.54,4.4,34.26,10.32,23.94,69.88,2.89,6.8,Debit Card
+ORD-2023-00756,2023-10-19,SOUTH,ST-11,SP-47,Food & Beverage,Organic Coffee Box,Online,Consumer,25,7,52.46,6.1,458.6,164.0,294.6,64.24,42.35,6.3,Debit Card
+ORD-2022-00757,2022-10-21,North,ST-06,SP-47,Electronics,4K Monitor,In-Store,Consumer,28,3,571.22,3.8,1976.75,1179.24,797.51,40.34,76.17,8.1,Credit Card
+ORD-2023-00758,2023-06-16,West,ST-25,SP-07,Sports & Outdoors,Foam Roller,Online,Enterprise,57,20,149.11,1.8,3581.54,1910.51,1671.03,46.66,365.58,6.6,Cash
+ORD-2023-00759,2023-02-04,North,ST-01,SP-24,Electronics,Gaming Mouse,Phone,Consumer,51,2,261.24,13.1,440.75,311.28,129.47,29.37,20.41,8.8,Credit Card
+ORD-2022-00760,2022-06-27,West,ST-21,SP-47,Home & Garden,Coffee Maker,Phone,Consumer,36,6,331.73,4.4,2099.79,966.66,1133.13,53.96,122.47,6.5,Debit Card
+ORD-2024-00761,2024-11-16,East,ST-13,SP-46,Home & Garden,Robot Vacuum,In-Store,Consumer,55,1,115.68,20.0,142.73,73.21,69.52,48.71,4.84,5.9,Credit Card
+ORD-2023-00762,2023-03-27,East,ST-15,SP-31,Electronics,Smart Watch,Phone,SMB,34,5,323.54,20.0,1433.22,997.12,436.1,30.43,98.86,6.7,Debit Card
+ORD-2022-00763,2022-01-07,South,ST-10,SP-36,Home & Garden,Garden Tool Kit,Online,SMB,38,10,239.74,11.5,2070.5,1008.67,1061.83,51.28,181.24,8.1,Debit Card
+ORD-2023-00764,2023-04-20,West,ST-24,SP-32,Food & Beverage,Energy Drink Case,In-Store,Consumer,40,2,13.54,20.7,17.5,7.6,9.9,56.57,0.81,8.9,Credit Card
+ORD-2024-00765,09/05/2024,West,ST-21,SP-16,Home & Garden,Robot Vacuum,Online,Consumer,64,7,115.68,12.9,725.72,391.35,334.37,46.07,57.49,8.2,Credit Card
+ORD-2024-00766,2024-04-23,East,ST-13,SP-19,Clothing,Running Shoes,Partner,Consumer,25,6,83.82,5.8,558.8,237.19,321.61,57.55,52.24,6.1,Debit Card
+ORD-2024-00767,2024-06-24,South,ST-09,SP-04,Clothing,Formal Blazer,Online,Consumer,24,7,131.12,5.3,1091.61,548.63,542.98,49.74,89.22,7.5,Credit Card
+ORD-2023-00768,2023-11-07,North,ST-05,SP-02,Sports & Outdoors,Yoga Mat Pro,Phone,Enterprise,67,32,111.0,14.2,3382.17,1603.12,1779.05,52.6,221.79,7.2,Credit Card
+ORD-2024-00769,2024-11-28,North,ST-05,SP-13,Sports & Outdoors,Trekking Poles,In-Store,Consumer,40,6,76.72,6.7,618.65,257.76,360.89,58.34,28.21,7.8,Cash
+ORD-2022-00770,2022-02-11,West,ST-23,SP-07,Food & Beverage,Energy Drink Case,Online,SMB,23,10,13.54,2.1,133.7,55.15,78.55,58.75,12.7,7.2,Credit Card
+ORD-2024-00771,2024-02-13,East,ST-14,SP-48,Sports & Outdoors,Yoga Mat Pro,Online,Consumer,67,7,111.0,1.6,966.46,489.27,477.19,49.38,79.25,7.7,Cash
+ORD-2024-00772,2024-03-12,North,ST-05,SP-20,Home & Garden,LED Desk Lamp,In-Store,Enterprise,39,16,310.44,5.8,4604.09,2385.33,2218.76,48.19,181.0,7.2,Credit Card
+ORD-2023-00773,2023-08-20,South,ST-08,SP-27,Food & Beverage,Energy Drink Case,Online,Consumer,54,1,13.54,23.1,11.95,4.89,7.06,59.08,,8.3,Credit Card
+ORD-2024-00774,2024-07-15,South,ST-07,SP-26,Home & Garden,LED Desk Lamp,Online,Consumer,63,3,310.44,15.2,,509.94,375.92,42.44,53.66,5.9,Credit Card
+ORD-2022-00775,2022-12-13,North,ST-04,SP-38,Clothing,Running Shoes,In-Store,Consumer,55,4,83.82,2.7,273.36,122.76,150.6,55.09,10.36,7.2,Debit Card
+ORD-2022-00776,16/03/2022,South,ST-11,SP-39,Clothing,Winter Jacket,Online,SMB,57,20,50.33,9.2,887.97,456.71,431.26,48.57,59.77,5.3,Cash
+ORD-2024-00777,2024-08-02,East,ST-17,SP-36,Sports & Outdoors,Foam Roller,Online,Enterprise,66,18,149.11,14.0,3604.7,1469.12,2135.58,59.24,331.31,8.4,Credit Card
+ORD-2022-00778,2022-08-21,North,ST-04,SP-32,Electronics,USB-C Hub,Online,Consumer,48,5,623.93,3.8,2178.75,1567.12,611.63,28.07,197.3,8.5,Credit Card
+ORD-2023-00779,2023-07-10,East,ST-17,SP-24,Food & Beverage,Premium Tea Set,Online,Consumer,35,6,49.25,9.5,359.88,121.53,238.35,66.23,28.15,10.0,Cash
+ORD-2022-00780,2022-10-05,North,ST-06,SP-31,Electronics,Gaming Mouse,Online,Consumer,22,4,261.24,5.0,1209.92,684.76,525.16,43.4,94.39,6.3,Credit Card
+ORD-2022-00781,2022-07-13,North,ST-04,SP-39,Electronics,Bluetooth Speaker,In-Store,Consumer,44,4,545.94,6.0,,1580.74,711.75,31.05,111.95,6.6,Debit Card
+ORD-2024-00782,2024-04-05,West,ST-23,SP-35,Home & Garden,Air Purifier,Online,SMB,68,8,97.51,5.8,772.57,323.26,449.31,58.16,72.82,6.9,Credit Card
+ORD-2024-00783,2024-02-24,South,ST-11,SP-39,Clothing,Formal Blazer,Partner,Consumer,52,1,131.12,14.6,119.14,61.77,57.37,48.15,8.99,8.0,Credit Card
+ORD-2022-00784,2022-12-04,East,ST-13,SP-21,Electronics,Laptop Pro,Online,Consumer,49,6,390.62,6.3,2996.71,2035.37,961.34,32.08,202.45,6.8,Debit Card
+ORD-2024-00785,2024-03-16,South,ST-10,SP-46,Food & Beverage,Protein Bar Pack,Phone,SMB,27,9,22.99,20.3,166.99,73.78,93.21,55.82,12.02,7.5,Bank Transfer
+ORD-2024-00786,2024-06-23,East,ST-15,SP-44,Electronics,Gaming Mouse,In-Store,SMB,45,14,261.24,13.3,4531.28,2656.88,1874.4,41.37,187.75,5.5,Cash
+ORD-2023-00787,2023-01-27,South,ST-08,SP-48,Sports & Outdoors,Resistance Bands Set,In-Store,Consumer,22,6,230.35,3.4,1305.44,577.93,727.51,55.73,44.5,8.8,Debit Card
+ORD-2022-00788,2022-03-10,East,ST-18,SP-31,Clothing,Formal Blazer,Phone,SMB,25,3,131.12,16.7,329.89,168.2,161.69,49.01,25.7,7.1,Bank Transfer
+ORD-2024-00789,2024-07-19,East,ST-16,SP-48,Sports & Outdoors,Trekking Poles,Phone,Enterprise,23,19,76.72,12.9,1751.86,718.39,1033.47,58.99,127.24,9.7,Debit Card
+ORD-2022-00790,2022-09-02,North,ST-06,SP-46,Electronics,Wireless Headphones,Phone,SMB,34,3,286.18,6.7,800.32,531.6,268.72,33.58,59.53,8.6,Debit Card
+ORD-2022-00791,2022-12-13,West,ST-23,SP-47,Sports & Outdoors,Trekking Poles,Online,Consumer,48,1,76.72,2.8,101.8,52.96,48.84,47.98,8.15,,Cash
+ORD-2024-00792,2024-06-27,North,ST-05,SP-13,Home & Garden,LED Desk Lamp,Online,Consumer,22,6,310.44,3.8,2282.1,1104.37,1177.73,51.61,,6.9,Credit Card
+ORD-2022-00793,2022-06-26,East,ST-16,SP-06,Electronics,Wireless Headphones,Online,Enterprise,42,11,286.18,,2109.2,1442.87,666.33,31.59,140.14,7.4,Debit Card
+ORD-2023-00794,2023-05-21,South,ST-12,SP-42,Sports & Outdoors,Resistance Bands Set,Phone,Consumer,41,5,230.35,4.7,1000.61,404.12,596.49,59.61,53.39,7.7,Credit Card
+ORD-2023-00795,2023-04-08,West,ST-21,SP-13,Electronics,4K Monitor,Online,SMB,27,14,571.22,7.0,9596.72,6325.3,3271.42,34.09,744.55,5.9,Debit Card
+ORD-2022-00796,2022-03-17,West,ST-23,SP-25,Electronics,Tablet HD,Partner,SMB,63,12,758.83,5.1,8685.7,5810.22,2875.48,33.11,870.53,5.7,Cash
+ORD-2023-00797,2023-07-05,North,ST-02,SP-17,Electronics,4K Monitor,Online,Enterprise,64,40,571.22,4.2,25097.19,16307.14,8790.05,35.02,1853.92,6.2,Debit Card
+ORD-2022-00798,2022-03-11,South,ST-07,SP-41,Clothing,Winter Jacket,Online,Consumer,43,2,50.33,,79.52,34.2,45.32,56.99,5.07,8.5,Debit Card
+ORD-2023-00799,2023-01-17,West,ST-22,SP-40,Food & Beverage,Gourmet Nuts Bundle,In-Store,Consumer,52,5,27.14,13.2,98.12,38.28,59.84,60.99,3.88,7.4,Cash
+ORD-2023-00800,2023-04-25,West,ST-23,SP-07,Food & Beverage,Protein Bar Pack,Partner,SMB,23,8,22.99,18.8,166.69,72.17,94.52,56.7,,,Credit Card
+ORD-2024-00801,2024-12-09,North,ST-05,SP-49,Electronics,Bluetooth Speaker,Phone,Enterprise,27,19,545.94,15.0,9773.86,6137.8,3636.06,37.2,468.68,8.5,Credit Card
+ORD-2022-00802,2022-12-19,South,ST-07,SP-12,Clothing,Running Shoes,In-Store,Consumer,31,6,83.82,0.8,634.1,255.1,379.0,59.77,19.28,7.2,Debit Card
+ORD-2024-00803,2024-03-18,East,ST-16,SP-43,Clothing,Denim Jeans,Phone,Consumer,28,6,124.2,14.1,716.04,285.48,430.56,60.13,50.01,9.5,Credit Card
+ORD-2024-00804,2024-05-19,East,ST-17,SP-05,Clothing,Formal Blazer,Phone,Consumer,36,3,131.12,14.2,398.38,171.97,226.41,56.83,21.61,6.4,Bank Transfer
+ORD-2022-00805,2022-01-04,East,ST-16,SP-05,Home & Garden,Air Purifier,In-Store,Enterprise,41,31,97.51,7.5,2572.34,1112.22,1460.12,56.76,81.33,6.8,Credit Card
+ORD-2024-00806,2024-09-11,North,ST-04,SP-12,Electronics,Wireless Headphones,In-Store,Enterprise,65,35,286.18,15.1,11959.27,6602.45,5356.82,44.79,426.43,,Debit Card
+ORD-2024-00807,2024-11-04,South,ST-10,SP-01,Food & Beverage,Energy Drink Case,In-Store,Enterprise,49,50,13.54,3.8,800.01,336.86,463.15,57.89,39.84,5.3,Credit Card
+ORD-2023-00808,2023-11-18,West,ST-21,SP-08,Home & Garden,LED Desk Lamp,In-Store,SMB,65,3,310.44,6.8,1078.34,612.66,465.68,43.18,45.47,7.4,Credit Card
+ORD-2023-00809,2023-02-09,East,ST-17,SP-47,Sports & Outdoors,Hiking Backpack,Online,SMB,29,17,80.92,7.2,1521.24,808.02,713.22,46.88,135.31,7.5,Bank Transfer
+ORD-2023-00810,2023-08-30,West,ST-19,SP-35,Clothing,Casual Shirt,Online,Enterprise,42,12,178.38,10.8,1934.99,832.07,1102.92,57.0,111.76,8.7,Credit Card
+ORD-2024-00811,2024-03-22,South,ST-07,SP-35,Electronics,Smart Watch,In-Store,SMB,,17,323.54,12.5,3947.29,2334.81,1612.48,40.85,188.73,8.7,Credit Card
+ORD-2024-00812,2024-12-08,East,ST-13,SP-05,Clothing,Winter Jacket,Online,Consumer,62,2,50.33,7.4,,70.4,65.7,48.27,8.14,5.8,Cash
+ORD-2023-00813,2023-09-11,South,ST-07,SP-12,Sports & Outdoors,Camping Tent,Phone,Consumer,27,7,125.54,20.8,852.0,438.71,413.29,48.51,53.29,9.7,Cash
+ORD-2023-00814,2023-05-15,East,ST-13,SP-24,Food & Beverage,Premium Tea Set,Phone,SMB,66,11,49.25,9.2,592.84,181.92,410.92,69.31,33.41,7.5,Cash
+ORD-2023-00815,2023-01-07,East,ST-15,SP-01,Clothing,Winter Jacket,Phone,Consumer,39,6,50.33,3.5,285.18,117.34,167.84,58.85,19.26,7.6,Credit Card
+ORD-2024-00816,2024-08-01,East,ST-18,SP-39,Clothing,Denim Jeans,In-Store,Consumer,43,6,124.2,15.6,949.36,380.93,568.43,59.88,46.05,9.4,Credit Card
+ORD-2024-00817,2024-10-18,North,ST-06,SP-11,Home & Garden,Coffee Maker,In-Store,Consumer,58,8,331.73,10.2,3198.34,1478.13,1720.21,53.78,105.49,8.8,Bank Transfer
+ORD-2023-00818,2023-08-21,West,ST-22,SP-44,Food & Beverage,Premium Tea Set,In-Store,SMB,44,16,49.25,23.6,813.77,246.99,566.78,69.65,41.8,8.0,Debit Card
+ORD-2024-00819,2024-10-02,West,ST-22,SP-35,Electronics,Wireless Headphones,Online,SMB,29,8,286.18,16.8,2332.95,1587.27,745.68,31.96,240.88,9.4,Debit Card
+ORD-2023-00820,2023-12-22,West,ST-22,SP-39,Clothing,Casual Shirt,In-Store,Consumer,65,6,178.38,9.2,15349.11,664.47,797.35,54.55,48.83,7.4,Bank Transfer
+ORD-2024-00821,2024-04-07,East,ST-16,SP-19,Sports & Outdoors,Hiking Backpack,Online,Consumer,47,6,80.92,14.1,539.04,264.97,274.07,50.84,47.87,9.1,Credit Card
+ORD-2024-00822,2024-05-06,West,ST-22,SP-13,Home & Garden,Throw Pillow Set,Online,Consumer,54,7,130.7,19.8,1032.87,473.57,559.3,54.15,70.23,8.9,Bank Transfer
+ORD-2024-00823,2024-08-24,East,ST-15,SP-02,Home & Garden,Garden Tool Kit,In-Store,Consumer,34,3,239.74,8.5,835.06,442.71,392.35,46.98,28.18,5.7,Cash
+ORD-2023-00824,2023-02-14,South,ST-09,SP-05,Sports & Outdoors,Resistance Bands Set,In-Store,Consumer,65,4,230.35,14.9,689.68,376.14,313.54,45.46,27.59,8.1,Debit Card
+ORD-2022-00825,2022-08-16,West,ST-25,SP-22,Sports & Outdoors,Resistance Bands Set,Online,Consumer,26,1,230.35,12.4,164.36,73.81,90.55,55.09,13.3,6.5,Credit Card
+ORD-2024-00826,2024-05-04,West,ST-24,SP-35,Electronics,Laptop Pro,In-Store,Consumer,25,7,390.62,15.7,2352.82,1584.1,768.72,32.67,68.13,8.0,Credit Card
+ORD-2024-00827,2024-03-29,East,ST-17,SP-41,Home & Garden,LED Desk Lamp,Phone,Enterprise,,47,310.44,13.9,13555.12,5694.79,7860.33,57.99,651.76,6.8,Cash
+ORD-2023-00828,2023-05-13,West,ST-20,SP-17,Electronics,Wireless Headphones,In-Store,Consumer,37,6,286.18,6.2,1884.47,1178.91,705.56,37.44,88.38,8.0,Cash
+ORD-2023-00829,2023-06-13,East,ST-17,SP-03,Home & Garden,Air Purifier,In-Store,Enterprise,45,28,97.51,6.4,2859.18,1512.08,1347.1,47.11,119.01,6.8,Debit Card
+ORD-2023-00830,2023-08-27,North,ST-06,SP-09,Electronics,4K Monitor,Phone,SMB,36,9,571.22,10.6,4566.37,2626.68,1939.69,42.48,193.77,9.4,Credit Card
+ORD-2024-00831,2024-01-16,West,ST-24,SP-34,Clothing,Sports Hoodie,Partner,Consumer,63,6,111.33,9.6,560.63,242.71,317.92,56.71,70.4,6.1,Credit Card
+ORD-2024-00832,2024-09-14,North,ST-04,SP-01,Home & Garden,Robot Vacuum,Online,SMB,36,6,115.68,11.8,714.18,331.5,382.68,53.58,55.74,5.7,Credit Card
+ORD-2022-00833,2022-01-25,West,ST-25,SP-34,Sports & Outdoors,Foam Roller,Online,Consumer,47,6,149.11,9.3,687.92,293.16,394.76,57.38,70.28,8.4,Debit Card
+ORD-2022-00834,2022-06-12,West,ST-19,SP-29,Food & Beverage,Premium Tea Set,Online,Consumer,33,4,49.25,5.4,223.03,90.91,132.12,59.24,14.39,,Debit Card
+ORD-2023-00835,2023-06-29,East,ST-13,SP-48,Electronics,Wireless Headphones,Partner,Enterprise,41,24,286.18,5.6,7557.53,5135.23,2422.3,32.05,745.45,9.4,Credit Card
+ORD-2022-00836,2022-04-15,South,ST-12,SP-05,Electronics,Wireless Headphones,In-Store,Consumer,28,4,286.18,10.8,899.97,540.88,359.09,39.9,25.41,9.1,Debit Card
+ORD-2024-00837,2024-05-30,West,ST-19,SP-47,Sports & Outdoors,Foam Roller,Online,Consumer,61,1,149.11,5.7,197.72,88.82,108.9,55.08,13.64,6.7,Cash
+ORD-2024-00838,2024-09-16,East,ST-18,SP-20,Clothing,Sports Hoodie,Online,SMB,57,17,111.33,3.7,2411.56,1171.84,1239.72,51.41,156.14,6.6,Debit Card
+ORD-2022-00839,2022-01-14,South,ST-11,SP-31,Food & Beverage,Premium Tea Set,Online,SMB,41,17,49.25,6.9,724.27,291.91,432.36,59.7,69.16,7.7,Credit Card
+ORD-2023-00840,2023-04-20,North,ST-05,SP-20,Clothing,Sports Hoodie,In-Store,Consumer,61,3,111.33,6.6,,126.19,183.96,59.31,11.63,8.0,Credit Card
+ORD-2022-00841,2022-12-18,West,ST-23,SP-43,Electronics,USB-C Hub,In-Store,Consumer,68,5,623.93,8.8,3445.26,2396.39,1048.87,30.44,121.57,8.2,Credit Card
+ORD-2023-00842,2023-12-26,West,ST-21,SP-29,Clothing,Sports Hoodie,In-Store,SMB,47,16,111.33,7.0,2466.56,1215.4,1251.16,50.72,,8.3,Credit Card
+ORD-2023-00843,2023-07-16,North,ST-06,SP-13,Electronics,4K Monitor,Online,SMB,42,15,571.22,6.6,9824.55,6338.75,3485.8,35.48,644.23,7.8,CREDIT CARD
+ORD-2023-00844,2023-07-16,North,ST-02,SP-11,Clothing,Denim Jeans,Partner,Consumer,24,7,124.2,12.5,794.08,402.79,391.29,49.28,78.79,9.1,Cash
+ORD-2023-00845,2023-07-28,West,ST-23,SP-25,Electronics,Laptop Pro,In-Store,SMB,45,12,390.62,3.7,6154.0,3525.19,2628.81,42.72,283.06,6.4,Credit Card
+ORD-2024-00846,2024-04-27,West,ST-25,SP-10,Food & Beverage,Gourmet Nuts Bundle,Online,Enterprise,37,44,27.14,14.1,1318.26,447.03,871.23,66.09,107.42,9.6,Credit Card
+ORD-2023-00847,2023-08-20,East,ST-14,SP-50,Home & Garden,Garden Tool Kit,Phone,SMB,45,17,239.74,13.8,3562.87,1562.91,1999.96,56.13,190.85,7.9,Bank Transfer
+ORD-2023-00848,2023-02-12,East,ST-18,SP-17,clothing,Formal Blazer,Partner,Enterprise,,35,131.12,15.2,3956.97,1945.78,2011.19,50.83,474.44,8.9,Credit Card
+ORD-2022-00849,2022-05-04,West,ST-23,SP-24,Electronics,Gaming Mouse,Partner,Consumer,42,8,261.24,6.1,2044.65,1240.57,804.08,39.33,151.36,7.9,Cash
+ORD-2022-00850,2022-08-19,East,ST-17,SP-06,Food & Beverage,Energy Drink Case,In-Store,Consumer,26,7,13.54,15.5,63.85,23.62,40.23,63.01,3.15,8.1,Cash
+ORD-2022-00851,2022-11-08,East,ST-13,SP-12,Home & Garden,Coffee Maker,In-Store,Consumer,49,7,331.73,10.4,3042.55,1220.5,1822.05,59.89,145.67,8.5,Bank Transfer
+ORD-2024-00852,2024-05-24,North,ST-02,SP-38,Home & Garden,Coffee Maker,In-Store,Consumer,34,6,331.73,17.7,1413.91,747.51,666.4,47.13,59.16,8.0,Cash
+ORD-2023-00853,2023-01-22,West,ST-20,SP-20,Electronics,Laptop Pro,In-Store,Consumer,24,6,390.62,20.2,1864.58,1129.32,735.26,39.43,66.32,8.1,Cash
+ORD-2023-00854,13/09/2023,North,ST-03,SP-15,Sports & Outdoors,Resistance Bands Set,Phone,Enterprise,50,34,230.35,1.8,6895.04,3637.0,3258.04,47.25,501.62,8.1,Credit Card
+ORD-2023-00855,2023-03-04,South,ST-10,SP-29,Clothing,Running Shoes,Phone,Consumer,29,3,83.82,9.3,227.21,104.74,122.47,53.9,13.77,,Credit Card
+ORD-2024-00856,2024-09-28,West,ST-21,SP-48,Sports & Outdoors,Hiking Backpack,Online,Consumer,54,5,80.92,9.3,527.62,285.25,242.37,45.94,29.96,8.3,Credit Card
+ORD-2024-00857,2024-02-18,West,ST-22,SP-07,Clothing,Casual Shirt,Phone,SMB,63,5,178.38,11.8,896.69,442.45,454.24,50.66,65.94,10.0,Credit Card
+ORD-2023-00858,2023-10-25,North,ST-02,SP-12,Food & Beverage,Premium Tea Set,In-Store,Enterprise,52,13,49.25,10.8,815.63,270.36,545.27,66.85,37.32,7.9,Cash
+ORD-2023-00859,2023-08-24,South,ST-10,SP-11,Clothing,Running Shoes,Partner,Consumer,64,2,83.82,14.7,146.12,56.14,89.98,61.58,12.02,6.8,Credit Card
+ORD-2023-00860,2023-06-28,East,ST-13,SP-02,Clothing,Denim Jeans,Online,Consumer,48,7,124.2,14.1,850.88,409.4,441.48,51.89,54.58,,Credit Card
+ORD-2022-00861,2022-07-25,North,ST-02,SP-06,Clothing,Winter Jacket,Online,Consumer,48,8,50.33,4.1,281.52,130.75,150.77,53.56,24.37,6.9,Cash
+ORD-2023-00862,11/06/2023,North,ST-06,SP-35,Clothing,Sports Hoodie,In-Store,Enterprise,53,46,111.33,5.0,4118.59,1691.52,2427.07,58.93,128.15,8.7,Cash
+ORD-2022-00863,2022-10-20,South,ST-07,SP-48,Electronics,Gaming Mouse,Online,Consumer,37,3,261.24,13.4,797.92,479.7,318.22,39.88,71.89,6.2,Credit Card
+ORD-2024-00864,2024-11-24,East,ST-15,SP-49,Sports & Outdoors,Camping Tent,In-Store,Consumer,59,1,125.54,13.8,139.29,71.87,67.42,48.4,,8.1,Debit Card
+ORD-2023-00865,2023-02-10,West,ST-19,SP-10,Home & Garden,Air Purifier,Online,SMB,58,14,97.51,4.8,1388.93,772.96,615.97,44.35,142.5,4.3,Debit Card
+ORD-2024-00866,2024-07-17,East,ST-17,SP-29,Electronics,4K Monitor,In-Store,Consumer,43,3,571.22,5.7,2414.45,1659.18,755.27,31.28,95.85,,Credit Card
+ORD-2024-00867,2024-07-23,East,ST-18,SP-22,Home & Garden,Coffee Maker,Online,SMB,63,20,331.73,4.0,6343.92,2796.92,3547.0,55.91,494.55,8.5,Credit Card
+ORD-2023-00868,2023-08-29,North,ST-03,SP-20,Food & Beverage,Gourmet Nuts Bundle,Partner,Enterprise,54,42,27.14,4.9,1065.35,453.84,611.51,57.4,88.76,8.4,CREDIT CARD
+ORD-2022-00869,2022-02-04,North,ST-06,SP-23,Food & Beverage,Premium Tea Set,In-Store,Consumer,25,6,49.25,9.8,210.3,84.97,125.33,59.6,10.92,,Cash
+ORD-2022-00870,2022-12-06,East,ST-17,SP-15,Sports & Outdoors,Foam Roller,Online,Consumer,61,4,149.11,6.0,605.43,328.77,276.66,45.7,61.48,8.1,Credit Card
+ORD-2023-00871,2023-08-31,South,ST-11,SP-27,Sports & Outdoors,Hiking Backpack,Online,Consumer,41,5,80.92,12.9,404.43,199.62,204.81,50.64,26.7,7.5,Credit Card
+ORD-2022-00872,2022-05-17,North,ST-04,SP-09,Electronics,Smart Watch,Phone,Consumer,37,3,323.54,11.7,,453.83,282.34,38.35,36.04,6.1,Credit Card
+ORD-2023-00873,2023-12-19,North,ST-03,SP-09,Sports & Outdoors,Yoga Mat Pro,Phone,Consumer,65,8,111.0,4.2,,399.67,536.69,57.32,50.37,6.4,Credit Card
+ORD-2024-00874,2024-12-09,North,ST-06,SP-39,Food & Beverage,Energy Drink Case,Online,Enterprise,61,14,13.54,17.3,239.73,99.04,140.69,58.69,21.71,6.8,Credit Card
+ORD-2023-00875,2023-07-12,West,ST-19,SP-25,Sports & Outdoors,Camping Tent,Online,Consumer,59,8,125.54,14.0,1212.84,507.19,705.65,58.18,73.92,9.4,Credit Card
+ORD-2024-00876,2024-01-13,South,ST-12,SP-32,Sports & Outdoors,Hiking Backpack,In-Store,Consumer,39,5,80.92,18.1,236.71,115.71,121.0,51.12,8.5,7.9,Cash
+ORD-2023-00877,2023-05-30,West,ST-19,SP-01,Electronics,USB-C Hub,Online,Consumer,59,5,623.93,3.6,3380.35,2307.96,1072.39,31.72,304.26,,Credit Card
+ORD-2024-00878,2024-02-09,East,ST-18,SP-25,Electronics,Wireless Headphones,In-Store,Consumer,28,2,286.18,20.9,591.98,349.6,242.38,40.94,,7.2,Debit Card
+ORD-2024-00879,2024-05-13,West,ST-24,SP-48,Electronics,USB-C Hub,Phone,Consumer,55,7,623.93,15.3,4763.35,3128.47,1634.88,34.32,333.41,7.7,Credit Card
+ORD-2023-00880,2023-01-06,North,ST-03,SP-07,Clothing,Denim Jeans,Phone,Consumer,38,6,124.2,7.0,655.18,337.54,317.64,48.48,34.04,7.2,Credit Card
+ORD-2022-00881,2022-04-08,South,ST-12,SP-41,Clothing,Running Shoes,Online,Consumer,57,7,83.82,13.9,462.11,226.13,235.98,51.07,29.69,7.2,Debit Card
+ORD-2023-00882,2023-12-22,East,ST-18,SP-15,clothing,Casual Shirt,Online,Consumer,62,8,178.38,11.6,1498.48,728.14,770.34,51.41,98.45,7.7,Credit Card
+ORD-2024-00883,2024-09-21,South,ST-10,SP-24,Home & Garden,Air Purifier,Online,Enterprise,59,42,97.51,12.8,4556.71,2282.4,2274.31,49.91,420.7,6.5,Credit Card
+ORD-2022-00884,2022-06-05,North,ST-01,SP-46,Food & Beverage,Energy Drink Case,Phone,Enterprise,43,35,13.54,4.1,431.81,154.5,277.31,64.22,31.27,7.1,Debit Card
+ORD-2023-00885,2023-08-25,East,ST-13,SP-21,Sports & Outdoors,Hiking Backpack,Phone,SMB,31,11,80.92,1.8,1115.34,466.39,648.95,58.18,74.75,7.7,Debit Card
+ORD-2024-00886,2024-06-20,East,ST-14,SP-10,Electronics,Tablet HD,Partner,Consumer,52,7,758.83,10.1,5707.33,4107.7,1599.63,28.03,465.34,10.0,Cash
+ORD-2023-00887,2023-01-17,West,ST-23,SP-26,Home & Garden,LED Desk Lamp,Phone,Consumer,45,5,310.44,8.1,1345.46,626.46,719.0,53.44,101.34,7.7,Cash
+ORD-2022-00888,2022-06-07,West,ST-20,SP-21,Sports & Outdoors,Foam Roller,Online,Consumer,30,8,149.11,9.8,1236.8,492.02,744.78,60.22,118.31,9.1,Credit Card
+ORD-2023-00889,2023-04-12,West,ST-24,SP-45,Home & Garden,Throw Pillow Set,Phone,SMB,39,4,130.7,8.6,578.96,277.22,301.74,52.12,36.64,10.0,Debit Card
+ORD-2022-00890,2022-02-15,East,ST-17,SP-42,Electronics,Bluetooth Speaker,In-Store,Consumer,26,2,545.94,20.2,777.03,463.84,313.19,40.31,26.46,9.6,Debit Card
+ORD-2022-00891,2022-02-26,East,ST-16,SP-28,Home & Garden,Air Purifier,Partner,SMB,50,12,97.51,6.7,1009.46,507.33,502.13,49.74,123.72,8.1,Credit Card
+ORD-2023-00892,2023-10-07,West,ST-23,SP-04,Home & Garden,Coffee Maker,In-Store,Consumer,26,7,331.73,13.4,2956.22,1572.3,1383.92,46.81,100.43,7.5,Debit Card
+ORD-2023-00893,2023-01-03,West,ST-19,SP-42,Sports & Outdoors,Foam Roller,Online,Enterprise,47,34,149.11,15.1,4267.66,1898.34,2369.32,55.52,336.17,8.2,Debit Card
+ORD-2023-00894,2023-09-30,South,ST-12,SP-28,Sports & Outdoors,Hiking Backpack,Online,SMB,34,5,80.92,6.8,423.39,215.0,208.39,49.22,34.36,6.8,Credit Card
+ORD-2022-00895,2022-02-11,West,ST-19,SP-36,Electronics,Bluetooth Speaker,Online,Enterprise,55,30,545.94,,16691.93,9259.03,7432.9,44.53,1659.96,5.3,Credit Card
+ORD-2022-00896,2022-12-20,North,ST-05,SP-32,Electronics,Tablet HD,Partner,Enterprise,65,48,758.83,7.3,24783.38,14376.29,10407.09,41.99,2390.16,6.6,Bank Transfer
+ORD-2022-00897,2022-12-30,East,ST-16,SP-02,Home & Garden,Throw Pillow Set,Partner,Consumer,29,5,130.7,19.3,580.74,243.56,337.18,58.06,64.45,7.4,Cash
+ORD-2022-00898,2022-07-24,East,ST-17,SP-10,Sports & Outdoors,Camping Tent,Partner,Consumer,57,8,125.54,19.7,844.63,416.98,427.65,50.63,62.44,,Cash
+ORD-2023-00899,2023-05-20,South,ST-08,SP-32,Electronics,Gaming Mouse,Online,Enterprise,52,47,261.24,3.5,8808.76,5623.28,3185.48,36.16,773.84,6.7,Cash
+ORD-2024-00900,2024-12-25,East,ST-17,SP-42,Electronics,Bluetooth Speaker,Online,Consumer,40,7,545.94,7.7,4992.53,3065.92,1926.61,38.59,397.12,8.8,Bank Transfer
+ORD-2024-00901,2024-10-03,North,ST-05,SP-31,Home & Garden,Coffee Maker,In-Store,Consumer,40,1,331.73,9.6,425.82,173.52,252.3,59.25,21.6,7.0,Cash
+ORD-2022-00902,2022-12-22,East,ST-18,SP-04,Food & Beverage,Organic Coffee Box,Partner,SMB,44,4,52.46,15.6,226.72,91.28,135.44,59.74,21.77,9.3,Bank Transfer
+ORD-2024-00903,2024-11-07,East,ST-14,SP-33,Clothing,Formal Blazer,Online,SMB,51,10,131.12,13.0,1022.87,399.14,623.73,60.98,67.28,8.2,Bank Transfer
+ORD-2022-00904,2022-02-01,North,ST-04,SP-14,Sports & Outdoors,Yoga Mat Pro,Partner,Enterprise,37,31,111.0,22.2,2145.62,1175.38,970.24,45.22,256.6,9.7,Debit Card
+ORD-2024-00905,2024-02-01,West,ST-22,SP-03,Electronics,Tablet HD,In-Store,SMB,49,12,758.83,5.1,9389.77,6566.98,2822.79,30.06,428.92,7.1,Debit Card
+ORD-2024-00906,2024-05-01,West,ST-22,SP-18,Sports & Outdoors,Resistance Bands Set,Phone,Consumer,60,7,230.35,2.3,2308.4,1178.23,1130.17,48.96,107.66,9.1,Credit Card
+ORD-2023-00907,2023-04-02,North,ST-01,SP-08,Electronics,USB-C Hub,Online,Consumer,32,5,623.93,20.3,2470.99,1659.4,811.59,32.84,,7.8,Bank Transfer
+ORD-2023-00908,2023-06-20,North,ST-01,SP-26,Sports & Outdoors,Resistance Bands Set,Partner,Consumer,53,1,230.35,8.7,,76.41,115.3,60.14,16.05,8.5,Credit Card
+ORD-2024-00909,2024-03-05,North,ST-06,SP-05,Clothing,Sports Hoodie,Online,Consumer,50,1,111.33,12.0,98.91,44.56,54.35,54.95,10.17,7.9,Debit Card
+ORD-2022-00910,2022-03-31,East,ST-14,SP-22,Sports & Outdoors,Camping Tent,Partner,SMB,34,4,125.54,7.6,303.23,123.12,180.11,59.4,26.54,5.6,Bank Transfer
+ORD-2022-00911,2022-05-11,South,ST-12,SP-13,Clothing,Formal Blazer,In-Store,Consumer,26,5,131.12,10.1,594.53,237.85,356.68,59.99,30.4,,Cash
+ORD-2024-00912,2024-04-19,East,ST-13,SP-40,Home & Garden,Garden Tool Kit,Partner,SMB,31,10,239.74,0.9,2279.73,913.3,1366.43,59.94,167.57,7.9,Bank Transfer
+ORD-2024-00913,2024-03-04,West,ST-19,SP-15,Home & Garden,Robot Vacuum,In-Store,Enterprise,63,40,115.68,19.4,3585.72,1850.45,1735.27,48.39,124.71,7.0,Cash
+ORD-2023-00914,2023-05-02,East,ST-17,SP-17,Clothing,Formal Blazer,In-Store,Consumer,31,6,131.12,5.3,888.3,373.23,515.07,57.98,40.46,6.5,Credit Card
+ORD-2024-00915,2024-03-06,West,ST-20,SP-24,Home & Garden,LED Desk Lamp,Phone,Enterprise,51,44,310.44,16.4,13365.84,7722.09,5643.75,42.23,621.52,7.3,Credit Card
+ORD-2024-00916,2024-04-11,South,ST-10,SP-30,Home & Garden,LED Desk Lamp,Partner,Consumer,43,7,310.44,4.1,1695.67,840.02,855.65,50.46,143.73,6.8,Credit Card
+ORD-2023-00917,2023-01-27,East,ST-18,SP-43,Home & Garden,Coffee Maker,Partner,Consumer,48,5,331.73,5.2,1562.44,664.72,897.72,57.46,119.56,6.8,Credit Card
+ORD-2024-00918,2024-04-24,North,ST-02,SP-22,Food & Beverage,Premium Tea Set,In-Store,Consumer,49,8,49.25,1.7,316.22,104.66,211.56,66.9,13.16,6.4,Credit Card
+ORD-2022-00919,2022-12-19,South,ST-12,SP-44,Food & Beverage,Premium Tea Set,In-Store,Consumer,34,6,49.25,8.7,325.3,139.95,185.35,56.98,10.13,8.5,Credit Card
+ORD-2024-00920,2024-12-22,West,ST-19,SP-44,Electronics,Wireless Headphones,Online,Enterprise,25,15,286.18,6.5,6753.45,4749.75,2003.7,29.67,444.0,7.0,Credit Card
+ORD-2022-00921,2022-11-05,West,ST-21,SP-05,Clothing,Casual Shirt,In-Store,Consumer,52,3,178.38,,581.9,229.39,352.51,60.58,24.14,,Credit Card
+ORD-2024-00922,2024-04-30,North,ST-05,SP-27,Electronics,USB-C Hub,In-Store,SMB,37,7,623.93,18.3,4213.25,2386.81,1826.44,43.35,121.95,7.5,Bank Transfer
+ORD-2024-00923,2024-02-20,East,ST-16,SP-11,Home & Garden,Throw Pillow Set,In-Store,Consumer,50,3,130.7,8.4,422.8,170.63,252.17,59.64,16.83,7.0,Debit Card
+ORD-2023-00924,2023-11-27,West,ST-21,SP-05,Electronics,4K Monitor,In-Store,Consumer,29,4,571.22,20.6,2313.42,1398.51,914.91,39.55,104.27,7.1,Bank Transfer
+ORD-2022-00925,2022-06-20,South,ST-10,SP-02,Home & Garden,Throw Pillow Set,In-Store,SMB,38,11,130.7,22.0,980.14,551.59,428.55,43.72,28.0,7.8,Credit Card
+ORD-2023-00926,2023-05-05,East,ST-15,SP-29,Sports & Outdoors,Camping Tent,Online,Consumer,,2,125.54,6.7,314.26,121.09,193.17,61.47,,8.1,Credit Card
+ORD-2022-00927,2022-01-22,West,ST-19,SP-20,Clothing,Denim Jeans,In-Store,Enterprise,65,34,124.2,6.8,3566.94,1756.51,1810.43,50.76,172.95,7.7,Credit Card
+ORD-2023-00928,2023-12-02,North,ST-03,SP-47,Clothing,Running Shoes,In-Store,SMB,50,5,83.82,15.1,469.32,238.35,230.97,49.21,22.84,6.6,Bank Transfer
+ORD-2022-00929,2022-08-21,North,ST-02,SP-49,Electronics,Wireless Headphones,Online,Enterprise,58,15,286.18,16.7,3166.14,1746.57,1419.57,44.84,179.35,8.7,Cash
+ORD-2022-00930,2022-05-25,North,ST-06,SP-30,Home & Garden,Coffee Maker,Phone,Enterprise,29,18,331.73,5.0,4054.45,2166.26,1888.19,46.57,182.13,5.1,Credit Card
+ORD-2022-00931,2022-07-07,East,ST-13,SP-01,Food & Beverage,Premium Tea Set,Online,Consumer,46,4,49.25,8.8,196.73,64.84,131.89,67.04,20.35,6.9,Credit Card
+ORD-2023-00932,2023-08-13,West,ST-23,SP-04,Food & Beverage,Gourmet Nuts Bundle,Online,SMB,34,20,27.14,10.4,664.73,218.3,446.43,67.16,41.18,7.1,Credit Card
+ORD-2022-00933,2022-06-05,North,ST-03,SP-49,Sports & Outdoors,Resistance Bands Set,In-Store,Consumer,40,5,230.35,5.2,892.6,377.27,515.33,57.73,32.38,7.4,Debit Card
+ORD-2023-00934,2023-05-31,South,ST-08,SP-05,Electronics,USB-C Hub,Online,Consumer,61,7,623.93,3.2,4221.86,2870.67,1351.19,32.0,381.54,7.5,Cash
+ORD-2022-00935,2022-01-25,West,ST-24,SP-06,Clothing,Casual Shirt,In-Store,Consumer,26,6,178.38,8.4,6948.06,320.21,341.51,51.61,26.16,5.5,Debit Card
+ORD-2023-00936,2023-10-04,East,ST-18,SP-13,Clothing,Running Shoes,Online,SMB,51,13,83.82,18.8,1355.37,675.66,679.71,50.15,139.15,8.0,Bank Transfer
+ORD-2024-00937,2024-08-07,West,ST-22,SP-29,Electronics,Gaming Mouse,In-Store,Enterprise,30,34,261.24,22.7,10066.66,6618.56,3448.1,34.25,378.37,10.0,Cash
+ORD-2022-00938,2022-12-20,North,ST-02,SP-14,Electronics,Gaming Mouse,In-Store,SMB,34,15,261.24,4.4,4101.52,2834.41,1267.11,30.89,198.89,7.6,Credit Card
+ORD-2023-00939,2023-07-23,South,ST-10,SP-39,Home & Garden,LED Desk Lamp,In-Store,Consumer,53,1,310.44,7.0,347.21,145.51,201.7,58.09,17.66,7.0,Bank Transfer
+ORD-2022-00940,2022-10-17,South,ST-10,SP-14,Clothing,Winter Jacket,Partner,Consumer,43,7,50.33,11.1,315.55,146.38,169.17,53.61,32.12,6.1,Debit Card
+ORD-2023-00941,2023-11-30,West,ST-25,SP-45,Sports & Outdoors,Camping Tent,In-Store,Consumer,23,7,125.54,5.6,1207.13,652.55,554.58,45.94,53.74,9.6,Credit Card
+ORD-2024-00942,2024-09-02,West,ST-23,SP-22,Food & Beverage,Protein Bar Pack,In-Store,Consumer,42,4,22.99,12.9,76.01,29.75,46.26,60.86,3.61,6.3,Cash
+ORD-2023-00943,2023-05-26,East,ST-16,SP-02,Clothing,Winter Jacket,In-Store,Enterprise,42,41,50.33,8.6,2086.29,1055.79,1030.5,49.39,105.84,7.5,Credit Card
+ORD-2024-00944,2024-03-08,West,ST-25,SP-50,Clothing,Running Shoes,Online,Consumer,52,1,83.82,6.7,77.78,38.54,39.24,50.45,6.16,7.0,Credit Card
+ORD-2022-00945,2022-10-27,West,ST-21,SP-32,Sports & Outdoors,Trekking Poles,Partner,SMB,63,6,76.72,6.2,350.29,136.72,213.57,60.97,43.12,6.0,Credit Card
+ORD-2023-00946,2023-05-24,West,ST-22,SP-45,Home & Garden,Robot Vacuum,Online,SMB,40,16,115.68,3.1,2307.46,1116.09,1191.37,51.63,229.99,7.1,Credit Card
+ORD-2022-00947,2022-10-30,East,ST-16,SP-36,Electronics,USB-C Hub,Phone,Enterprise,39,22,623.93,12.9,16233.05,10179.2,6053.85,37.29,776.99,9.8,Credit Card
+ORD-2022-00948,2022-09-11,North,ST-03,SP-36,Food & Beverage,Premium Tea Set,Online,Consumer,57,7,49.25,11.7,351.73,126.39,225.34,64.07,25.21,9.8,Credit Card
+ORD-2022-00949,2022-03-12,East,ST-15,SP-37,Home & Garden,Robot Vacuum,Partner,Enterprise,67,41,115.68,2.8,4568.28,1883.14,2685.14,58.78,361.32,4.5,Debit Card
+ORD-2023-00950,2023-04-27,North,ST-03,SP-23,Clothing,Denim Jeans,Online,Enterprise,47,43,124.2,7.9,4846.75,2377.63,2469.12,50.94,433.01,7.1,Debit Card
+ORD-2022-00951,2022-07-03,West,ST-22,SP-11,Electronics,4K Monitor,Online,Enterprise,65,13,571.22,11.6,7544.24,5043.62,2500.62,33.15,595.82,9.6,Debit Card
+ORD-2022-00952,2022-11-09,West,ST-20,SP-33,Clothing,Denim Jeans,Phone,Consumer,23,5,124.2,9.1,389.8,184.67,205.13,52.62,26.15,8.1,Debit Card
+ORD-2022-00953,2022-05-20,North,ST-05,SP-03,Electronics,USB-C Hub,Online,Consumer,59,3,623.93,7.6,1608.69,926.42,682.27,42.41,90.65,6.3,Bank Transfer
+ORD-2023-00954,2023-06-29,East,ST-17,SP-25,Electronics,Tablet HD,Phone,SMB,34,11,758.83,7.6,9884.22,6529.3,3354.92,33.94,575.85,6.3,Credit Card
+ORD-2024-00955,2024-07-01,East,ST-18,SP-43,Food & Beverage,Energy Drink Case,Online,Enterprise,46,23,13.54,5.0,407.31,157.03,250.28,61.45,37.42,8.3,Cash
+ORD-2023-00956,2023-09-14,South,ST-07,SP-42,Home & Garden,Throw Pillow Set,Partner,Consumer,35,5,130.7,1.2,599.79,329.48,270.31,45.07,72.95,,Debit Card
+ORD-2023-00957,2023-02-27,East,ST-18,SP-25,Home & Garden,LED Desk Lamp,Partner,Consumer,32,8,310.44,10.2,2512.72,1134.15,1378.57,54.86,324.66,8.2,Bank Transfer
+ORD-2022-00958,2022-08-08,West,ST-25,SP-02,Home & Garden,Robot Vacuum,Partner,Consumer,41,3,115.68,3.5,326.66,152.3,174.36,53.38,35.52,6.6,Credit Card
+ORD-2024-00959,2024-05-16,West,ST-21,SP-05,Clothing,Formal Blazer,Online,Consumer,29,5,131.12,8.5,737.82,376.67,361.15,48.95,76.14,8.1,Credit Card
+ORD-2022-00960,2022-03-04,West,ST-22,SP-12,Electronics,Wireless Headphones,Phone,Consumer,59,5,286.18,5.9,1459.58,977.17,482.41,33.05,,7.1,Debit Card
+ORD-2022-00961,2022-11-10,North,ST-04,SP-44,Clothing,Winter Jacket,In-Store,Consumer,48,1,50.33,10.5,55.48,21.42,34.06,61.39,1.64,7.7,Credit Card
+ORD-2023-00962,2023-07-31,East,ST-14,SP-18,Electronics,4K Monitor,Partner,SMB,66,3,571.22,23.6,1826.16,1018.09,808.07,44.25,189.54,7.2,Credit Card
+ORD-2024-00963,2024-06-10,East,ST-18,SP-32,Home & Garden,Garden Tool Kit,Phone,Enterprise,45,33,239.74,8.5,6361.35,3085.54,3275.81,51.5,304.71,6.9,Credit Card
+ORD-2022-00964,2022-10-26,South,ST-12,SP-23,Clothing,Sports Hoodie,In-Store,Consumer,44,3,111.33,15.4,280.25,135.99,144.26,51.48,11.17,6.8,Cash
+ORD-2024-00965,2024-04-15,South,ST-10,SP-06,Home & Garden,Air Purifier,Online,SMB,51,20,97.51,16.7,1323.13,568.38,754.75,57.04,76.81,,Credit Card
+ORD-2022-00966,2022-10-25,East,ST-17,SP-41,Sports & Outdoors,Resistance Bands Set,Phone,Consumer,35,7,230.35,3.2,1802.19,813.19,989.0,54.88,82.95,7.2,Cash
+ORD-2024-00967,2024-10-23,East,ST-17,SP-07,Food & Beverage,Protein Bar Pack,Partner,Consumer,32,6,22.99,9.0,181.44,63.29,118.15,65.12,21.81,5.6,Debit Card
+ORD-2024-00968,2024-12-07,East,ST-16,SP-15,Food & Beverage,Energy Drink Case,In-Store,Consumer,36,8,13.54,4.4,130.28,52.65,77.63,59.59,6.0,9.4,Debit Card
+ORD-2022-00969,2022-01-02,West,ST-23,SP-07,Food & Beverage,Organic Coffee Box,In-Store,SMB,47,9,52.46,9.9,416.58,131.01,285.57,68.55,19.81,7.9,Credit Card
+ORD-2022-00970,2022-09-05,North,ST-06,SP-05,Electronics,USB-C Hub,Partner,SMB,44,3,623.93,12.7,,874.05,580.18,39.9,135.63,7.8,Debit Card
+ORD-2023-00971,2023-03-03,South,ST-11,SP-38,Sports & Outdoors,Foam Roller,In-Store,Enterprise,53,41,149.11,6.6,4012.41,1545.89,2466.52,61.47,179.82,8.2,Bank Transfer
+ORD-2022-00972,2022-07-20,South,ST-11,SP-40,Sports & Outdoors,Foam Roller,In-Store,Enterprise,24,15,149.11,8.8,1585.91,749.24,836.67,52.76,47.56,6.6,Bank Transfer
+ORD-2022-00973,2022-07-12,East,ST-18,SP-22,Clothing,Denim Jeans,Online,SMB,67,9,124.2,11.1,824.81,324.39,500.42,60.67,73.26,6.1,Cash
+ORD-2022-00974,2022-02-27,West,ST-22,SP-05,Food & Beverage,Energy Drink Case,ONLINE,Consumer,56,1,13.54,5.7,,3.77,8.1,68.24,,6.4,Debit Card
+ORD-2022-00975,2022-12-23,West,ST-21,SP-11,Electronics,Bluetooth Speaker,In-Store,Consumer,26,8,545.94,5.6,5096.41,3138.58,1957.83,38.42,233.77,7.0,Credit Card
+ORD-2024-00976,2024-02-11,North,ST-02,SP-15,Clothing,Formal Blazer,In-Store,Consumer,67,2,131.12,3.6,219.9,87.85,132.05,60.05,10.06,6.7,Credit Card
+ORD-2022-00977,2022-02-18,South,ST-09,SP-45,Food & Beverage,Gourmet Nuts Bundle,Partner,SMB,56,18,27.14,2.0,410.62,150.06,260.56,63.46,46.04,7.7,Credit Card
+ORD-2024-00978,2024-01-03,East,ST-17,SP-16,Sports & Outdoors,Resistance Bands Set,Online,SMB,58,9,230.35,8.4,1806.45,992.48,813.97,45.06,133.53,7.7,Credit Card
+ORD-2023-00979,2023-06-23,East,ST-18,SP-12,Food & Beverage,Organic Coffee Box,In-Store,SMB,31,15,52.46,,1073.52,331.72,741.8,69.1,50.36,8.6,Credit Card
+ORD-2024-00980,2024-12-22,North,ST-02,SP-21,Sports & Outdoors,Hiking Backpack,Phone,SMB,52,9,80.92,3.5,962.23,429.09,533.14,55.41,62.35,8.5,Credit Card
+ORD-2022-00981,2022-05-26,North,ST-02,SP-33,Electronics,Wireless Headphones,In-Store,Consumer,26,4,286.18,11.3,561.4,348.23,213.17,37.97,24.15,9.7,Debit Card
+ORD-2024-00982,2024-04-12,North,ST-04,SP-03,Sports & Outdoors,Hiking Backpack,online,Consumer,45,4,80.92,13.8,311.42,125.08,186.34,59.84,26.63,6.9,Credit Card
+ORD-2024-00983,2024-11-09,West,ST-24,SP-49,Home & Garden,Air Purifier,In-Store,SMB,26,3,97.51,7.9,,170.53,169.78,49.89,15.28,7.9,Credit Card
+ORD-2022-00984,2022-03-23,South,ST-10,SP-18,Food & Beverage,Protein Bar Pack,Online,Consumer,42,8,22.99,9.4,173.61,62.14,111.47,64.21,16.98,5.5,Bank Transfer
+ORD-2022-00985,2022-10-09,East,ST-13,SP-45,Food & Beverage,Protein Bar Pack,In-Store,Consumer,26,5,22.99,19.3,125.05,53.92,71.13,56.88,5.29,8.4,Credit Card
+ORD-2023-00986,2023-10-26,West,ST-23,SP-13,Clothing,Casual Shirt,Online,SMB,65,11,178.38,10.8,2630.99,1246.45,1384.54,52.62,171.12,10.0,Credit Card
+ORD-2022-00987,2022-10-13,West,ST-24,SP-19,Electronics,Bluetooth Speaker,Phone,Consumer,35,3,545.94,3.8,1826.94,1229.29,597.65,32.71,95.9,7.4,Cash
+ORD-2023-00988,2023-11-22,North,ST-06,SP-32,Clothing,Denim Jeans,In-Store,SMB,58,13,124.2,4.3,1327.2,616.93,710.27,53.52,45.21,9.0,Credit Card
+ORD-2024-00989,2024-02-11,West,ST-22,SP-01,Electronics,4K Monitor,Partner,Consumer,57,5,571.22,9.4,2627.06,1632.68,994.38,37.85,225.77,9.3,Debit Card
+ORD-2024-00990,2024-09-29,East,ST-16,SP-28,Clothing,Winter Jacket,Online,Enterprise,25,14,50.33,,933.4,426.37,507.03,54.32,64.3,7.2,Credit Card
+ORD-2022-00991,2022-07-16,West,ST-24,SP-28,Electronics,Laptop Pro,Online,SMB,61,12,390.62,8.1,4964.33,2924.9,2039.43,41.08,425.34,6.7,Debit Card
+ORD-2023-00992,2023-12-26,West,ST-20,SP-02,Food & Beverage,Protein Bar Pack,Phone,SMB,46,3,22.99,20.2,67.51,21.18,46.33,68.63,4.63,7.6,Credit Card
+ORD-2023-00993,2023-07-07,West,ST-19,SP-07,Clothing,Denim Jeans,Online,Consumer,32,4,124.2,,600.56,228.48,372.08,61.96,52.98,5.3,Bank Transfer
+ORD-2024-00994,2024-03-02,East,ST-14,SP-07,Sports & Outdoors,Hiking Backpack,Phone,SMB,46,15,80.92,1.7,1385.96,706.92,679.04,48.99,68.45,8.2,Cash
+ORD-2024-00995,2024-10-03,South,ST-11,SP-22,Clothing,Denim Jeans,In-Store,SMB,50,14,124.2,4.3,1549.44,605.57,943.87,60.92,74.51,7.1,Debit Card
+ORD-2024-00996,2024-04-07,North,ST-03,SP-23,Clothing,Running Shoes,Phone,Consumer,46,8,83.82,20.6,538.99,256.62,282.37,52.39,33.57,7.4,Debit Card
+ORD-2022-00997,2022-05-13,East,ST-13,SP-25,Food & Beverage,Protein Bar Pack,In-Store,Consumer,68,7,22.99,3.3,186.91,63.22,123.69,66.18,6.26,4.6,Credit Card
+ORD-2024-00998,2024-09-07,North,ST-02,SP-38,Home & Garden,Throw Pillow Set,In-Store,SMB,24,14,130.7,2.4,1620.95,715.07,905.88,55.89,72.89,10.0,Bank Transfer
+ORD-2022-00999,2022-11-22,North,ST-06,SP-36,Electronics,Wireless Headphones,In-Store,SMB,31,16,286.18,6.0,5349.07,3774.91,1574.16,29.43,179.18,6.9,Credit Card
+ORD-2023-01000,2023-04-20,West,ST-23,SP-04,Food & Beverage,Premium Tea Set,Online,Consumer,49,4,49.25,1.5,252.21,112.03,140.18,55.58,21.42,8.6,Bank Transfer
+ORD-2023-00395,2023-10-25,South,ST-07,SP-18,Home & Garden,LED Desk Lamp,In-Store,Consumer,38,5,310.44,4.7,2113.54,871.82,1241.72,58.75,108.86,7.8,Bank Transfer
+ORD-2024-00090,2024-12-14,North,ST-06,SP-28,Food & Beverage,Organic Coffee Box,Online,SMB,35,18,52.46,4.9,1244.76,560.14,684.62,55.0,78.96,5.6,Credit Card
+ORD-2022-00730,2022-05-02,North,ST-05,SP-47,Clothing,Formal Blazer,Partner,Enterprise,53,46,131.12,18.1,4779.51,2286.67,2492.84,52.16,554.11,10.0,Credit Card
+ORD-2022-00035,2022-09-05,West,ST-23,SP-03,Clothing,Denim Jeans,In-Store,Enterprise,63,36,124.2,15.6,3960.64,1563.56,2397.08,60.52,202.23,6.3,Credit Card
+ORD-2022-00096,2022-03-20,South,ST-10,SP-45,Sports & Outdoors,Foam Roller,In-Store,Consumer,27,4,149.11,15.9,457.69,216.62,241.07,52.67,20.8,8.4,Credit Card
+ORD-2023-00735,2023-01-05,South,ST-09,SP-23,Home & Garden,Air Purifier,Partner,Enterprise,47,17,97.51,11.9,1166.37,482.58,683.79,58.63,,8.2,Credit Card
+ORD-2022-00212,2022-08-02,West,ST-20,SP-22,Home & Garden,Air Purifier,Online,SMB,62,5,97.51,15.6,335.16,174.49,160.67,47.94,30.5,6.7,Bank Transfer
+ORD-2023-00868,2023-08-29,North,ST-03,SP-20,Food & Beverage,Gourmet Nuts Bundle,Partner,Enterprise,54,42,27.14,4.9,1065.35,453.84,611.51,57.4,88.76,8.4,Credit Card
+ORD-2022-00960,2022-03-04,West,ST-22,SP-12,Electronics,Wireless Headphones,Phone,Consumer,59,5,286.18,5.9,1459.58,977.17,482.41,33.05,,7.1,Debit Card
+ORD-2022-00689,2022-01-10,West,ST-21,SP-09,Sports & Outdoors,Hiking Backpack,Online,Consumer,55,1,80.92,,71.86,28.47,43.39,60.38,6.79,7.2,Credit Card
+ORD-2024-00415,2024-10-29,North,ST-05,SP-26,Food & Beverage,Organic Coffee Box,In-Store,SMB,57,16,52.46,20.0,827.54,264.74,562.8,68.01,29.05,7.7,Cash
+ORD-2022-00199,2022-08-12,North,ST-02,SP-29,Food & Beverage,Energy Drink Case,Online,SMB,35,17,13.54,5.8,246.89,78.51,168.38,68.2,15.69,6.6,Credit Card
+ORD-2024-00702,2024-05-26,South,ST-08,SP-17,Sports & Outdoors,Resistance Bands Set,In-Store,Consumer,60,8,230.35,10.6,1862.49,862.36,1000.13,53.7,63.21,7.2,Credit Card
+ORD-2022-00958,2022-08-08,West,ST-25,SP-02,Home & Garden,Robot Vacuum,Partner,Consumer,41,3,115.68,3.5,326.66,152.3,174.36,53.38,35.52,6.6,Credit Card
+ORD-2023-00590,2023-07-29,South,ST-09,SP-43,Food & Beverage,Organic Coffee Box,In-Store,Consumer,62,2,52.46,14.9,95.09,33.27,61.82,65.01,3.17,6.7,Debit Card
